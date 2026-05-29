@@ -192,9 +192,9 @@ Expected core outputs:
 - `outputs/board_summary/monthly_cfo_commentary.md`
 - `outputs/board_summary/monthly_cfo_commentary.txt`
 
-## Interview Talking Points
+## What This Project Demonstrates
 
-This project demonstrates:
+FinSight Lite demonstrates the following practical finance AI and analytics capabilities:
 
 - Finance data modelling: raw ERP-style exports are transformed into monthly P&L, budget, cash, revenue, expense, vendor, invoice, and KPI marts.
 - dbt transformation logic: staging and mart models create a governed reporting layer from messy source data.
@@ -203,7 +203,7 @@ This project demonstrates:
 - AI-assisted CFO commentary: management commentary is generated only from controlled finance outputs, not raw uncontrolled data.
 - Practical finance systems thinking: the project combines accounting logic, reporting discipline, analytics engineering, and AI workflow design.
 
-## Portfolio Summary
+## Project Summary
 
 Built FinSight Lite, an AI finance intelligence dashboard that processes realistic multi-entity finance exports into DuckDB/dbt finance marts, validates data quality, flags anomalies, and generates CFO-style commentary from controlled outputs. The MVP processed 966 GL rows, produced 72 monthly P&L rows, surfaced 6 data quality exceptions and 30 anomalies, with passing dbt and pytest checks.
 
