@@ -214,17 +214,29 @@ This is a local-first MVP. It does not include authentication, live ERP connecto
 
 ## Future Roadmap
 
+Planned extensions include:
+
+### ERP and Data Integrations
+
 - Odoo connector
 - Xero/QBO connector
+- Multi-currency revaluation
+
+### Finance Reporting and Controls
+
 - Automated board pack export
 - Audit evidence pack generator
+- Intercompany reconciliation module
+- AR/AP ageing dashboard
+- Inventory and COGS analytics
+- Payroll variance analysis
+
+### AI Workflow Layer
+
 - RAG over finance SOPs and policies
 - Agentic close checklist
 - Human approval workflow
-- Email distribution of CFO summary
-- Multi-currency revaluation
-- Intercompany reconciliation module
-- AR/AP ageing dashboard
-- Payroll variance analysis
-- Inventory and COGS analytics
+
+### Production Readiness
+
 - Deployment with authentication
