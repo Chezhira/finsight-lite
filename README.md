@@ -99,8 +99,6 @@ pytest
 
 ## Screenshots
 
-Screenshots should be added after launching the local Streamlit app.
-
 ![Executive Overview](outputs/screenshots/01_executive_overview.png)
 
 ![P&L and Budget vs Actual](outputs/screenshots/02_pnl_budget_vs_actual.png)
@@ -156,7 +154,7 @@ tests/                Basic pytest coverage
 
 ```bash
 python -m venv .venv
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 make all
 streamlit run app/streamlit_app.py
