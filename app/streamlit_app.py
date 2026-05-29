@@ -11,7 +11,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT_DIR / "src"))
 
 from app.components.charts import bar_chart, line_chart
-from app.components.kpi_cards import money_metric, percent_metric
+from app.components.kpi_cards import money_metric, percent_metric, status_metric
 
 from finsight.config import DB_PATH
 
@@ -98,13 +98,9 @@ with cards[4]:
     dq_status = (
         "Fail"
         if (dq["validation_status"] == "Fail").any()
-        else (
-            "Pass with warnings"
-            if (dq["validation_status"] == "Pass with warnings").any()
-            else "Pass"
-        )
+        else ("Warnings" if (dq["validation_status"] == "Pass with warnings").any() else "Pass")
     )
-    st.metric("Data Quality", dq_status)
+    status_metric("Data Quality", dq_status)
 
 trend = kpi if selected_entity == "Group" else kpi[kpi["entity"] == selected_entity]
 trend_grouped = trend.groupby(["period", "entity"], as_index=False)[
