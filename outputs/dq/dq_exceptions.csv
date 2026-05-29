@@ -1,0 +1,7 @@
+exception_id,source_file,severity,rule_name,row_identifier,field_name,issue_description,suggested_action
+DQ-00001,gl_transactions.csv,Warning,revenue_debit_balance,JNL/REV01,debit,Revenue account appears with a debit balance.,"Review for reversal, refund, or coding issue."
+DQ-00002,cash_movements.csv,Warning,negative_cash_balance,2024-11,closing_balance,Closing cash balance is negative.,Confirm overdraft or correct cash data.
+DQ-00003,cash_movements.csv,Info,large_cash_decrease,2024-05,closing_balance,Closing cash decreased by more than 20% month-on-month.,Review cash drivers and large payments.
+DQ-00004,cash_movements.csv,Info,large_cash_decrease,2024-06,closing_balance,Closing cash decreased by more than 20% month-on-month.,Review cash drivers and large payments.
+DQ-00005,cash_movements.csv,Info,large_cash_decrease,2024-08,closing_balance,Closing cash decreased by more than 20% month-on-month.,Review cash drivers and large payments.
+DQ-00006,cash_movements.csv,Info,large_cash_decrease,2024-11,closing_balance,Closing cash decreased by more than 20% month-on-month.,Review cash drivers and large payments.

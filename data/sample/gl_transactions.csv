@@ -1,0 +1,967 @@
+reference,date,entity,account_code,account_name,category,description,debit,credit,currency,amount_kes
+JNL/01014,2024-01-01,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5038363.02,KES,5038363.02
+JNL/01022,2024-01-01,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — LakeView Processing,211927.02,0.0,KES,211927.02
+JNL/01025,2024-01-05,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,229553.98,0.0,KES,229553.98
+JNL/01016,2024-01-09,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 01/2024,3250507.29,0.0,KES,3250507.29
+JNL/01020,2024-01-10,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,330563.46,0.0,KES,330563.46
+JNL/01024,2024-01-15,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EastAfrica Power,112279.51,0.0,KES,112279.51
+JNL/01026,2024-01-15,AQL,70000009,Insurance,Admin,Insurance — ColdChain Express,154924.12,0.0,KES,154924.12
+JNL/01015,2024-01-24,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3332485.88,KES,3332485.88
+JNL/01019,2024-01-24,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Harbour Finance,1084000.82,0.0,KES,1084000.82
+JNL/01021,2024-01-25,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EastAfrica Power,536012.93,0.0,KES,536012.93
+JNL/01018,2024-01-29,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 01/2024,884675.29,0.0,KES,884675.29
+JNL/01017,2024-01-31,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 01/2024,1396886.34,0.0,KES,1396886.34
+JNL/01023,2024-01-31,AQL,70000006,Professional Fees,Admin,Professional Fees — ColdChain Express,192873.29,0.0,KES,192873.29
+JNL/01056,2024-02-08,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3357066.86,KES,3357066.86
+JNL/01059,2024-02-08,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 02/2024,741165.19,0.0,KES,741165.19
+JNL/01067,2024-02-09,AQL,70000009,Insurance,Admin,Insurance — AquaFeed Suppliers,146485.82,0.0,KES,146485.82
+JNL/01058,2024-02-12,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 02/2024,1200899.9,0.0,KES,1200899.9
+JNL/01064,2024-02-12,AQL,70000006,Professional Fees,Admin,Professional Fees — AquaFeed Suppliers,219016.09,0.0,KES,219016.09
+JNL/01066,2024-02-13,AQL,70000008,Depreciation,Depreciation,Depreciation — EastAfrica Power,219802.43,0.0,KES,219802.43
+JNL/01063,2024-02-15,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,219268.71,0.0,KES,219268.71
+JNL/01065,2024-02-15,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,112012.01,0.0,KES,112012.01
+JNL/01060,2024-02-19,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EastAfrica Power,981721.71,0.0,KES,981721.71
+JNL/01057,2024-02-26,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 02/2024,3521796.91,0.0,KES,3521796.91
+JNL/01062,2024-02-26,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Harbour Finance,508053.49,0.0,KES,508053.49
+JNL/01054,2024-02-28,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,552739.87,KES,552739.87
+JNL/01055,2024-02-29,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5386212.14,KES,5386212.14
+JNL/01061,2024-02-29,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,333411.59,0.0,KES,333411.59
+JNL/01101,2024-03-01,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EastAfrica Power,472876.64,0.0,KES,472876.64
+JNL/01094,2024-03-06,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,6273521.98,KES,6273521.98
+JNL/01104,2024-03-06,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Meridian Accountants,110831.67,0.0,KES,110831.67
+JNL/01100,2024-03-08,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,308363.01,0.0,KES,308363.01
+JNL/01103,2024-03-08,AQL,70000006,Professional Fees,Admin,Professional Fees — Meridian Accountants,209645.92,0.0,KES,209645.92
+JNL/01096,2024-03-13,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 03/2024,4087167.28,0.0,KES,4087167.28
+JNL/01102,2024-03-13,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Harbour Finance,205909.98,0.0,KES,205909.98
+JNL/01099,2024-03-14,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,1082836.05,0.0,KES,1082836.05
+JNL/01105,2024-03-14,AQL,70000008,Depreciation,Depreciation,Depreciation — Harbour Finance,232477.22,0.0,KES,232477.22
+JNL/01098,2024-03-15,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 03/2024,964634.37,0.0,KES,964634.37
+JNL/01106,2024-03-25,AQL,70000009,Insurance,Admin,Insurance — Harbour Finance,159183.31,0.0,KES,159183.31
+JNL/01095,2024-03-26,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3993884.89,KES,3993884.89
+JNL/01097,2024-03-29,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 03/2024,1596619.0,0.0,KES,1596619.0
+JNL/01141,2024-04-01,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,336610.34,0.0,KES,336610.34
+JNL/01144,2024-04-01,AQL,70000006,Professional Fees,Admin,Professional Fees — ColdChain Express,190906.83,0.0,KES,190906.83
+JNL/01147,2024-04-02,AQL,70000009,Insurance,Admin,Insurance — AquaFeed Suppliers,137512.45,0.0,KES,137512.45
+JNL/01140,2024-04-03,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — ColdChain Express,1155694.45,0.0,KES,1155694.45
+JNL/01138,2024-04-04,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 04/2024,1658748.39,0.0,KES,1658748.39
+JNL/01139,2024-04-10,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 04/2024,1044037.21,0.0,KES,1044037.21
+JNL/01146,2024-04-10,AQL,70000008,Depreciation,Depreciation,Depreciation — AquaFeed Suppliers,220912.9,0.0,KES,220912.9
+JNL/01134,2024-04-16,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,466652.94,KES,466652.94
+JNL/01135,2024-04-19,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5812478.13,KES,5812478.13
+JNL/01137,2024-04-19,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 04/2024,4599324.67,0.0,KES,4599324.67
+JNL/01136,2024-04-23,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,4097821.86,KES,4097821.86
+JNL/01142,2024-04-24,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Meridian Accountants,581104.86,0.0,KES,581104.86
+JNL/01143,2024-04-25,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,257749.07,0.0,KES,257749.07
+JNL/01145,2024-04-29,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,115923.4,0.0,KES,115923.4
+JNL/01180,2024-05-02,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — AquaFeed Suppliers,338540.14,0.0,KES,338540.14
+JNL/01186,2024-05-02,AQL,70000009,Insurance,Admin,Insurance — EastAfrica Power,158131.41,0.0,KES,158131.41
+JNL/01178,2024-05-03,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 05/2024,810719.17,0.0,KES,810719.17
+JNL/01182,2024-05-03,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — AquaFeed Suppliers,211817.17,0.0,KES,211817.17
+JNL/01174,2024-05-08,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4784105.6,KES,4784105.6
+JNL/01183,2024-05-08,AQL,70000006,Professional Fees,Admin,Professional Fees — ColdChain Express,195256.75,0.0,KES,195256.75
+JNL/01185,2024-05-09,AQL,70000008,Depreciation,Depreciation,Depreciation — EastAfrica Power,255646.94,0.0,KES,255646.94
+JNL/01177,2024-05-10,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 05/2024,1516818.88,0.0,KES,1516818.88
+JNL/01175,2024-05-13,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3618471.62,KES,3618471.62
+JNL/01176,2024-05-21,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 05/2024,3286888.04,0.0,KES,3286888.04
+JNL/01184,2024-05-22,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EastAfrica Power,105239.1,0.0,KES,105239.1
+JNL/01179,2024-05-24,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EastAfrica Power,1152499.21,0.0,KES,1152499.21
+JNL/01181,2024-05-24,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Harbour Finance,576713.53,0.0,KES,576713.53
+JNL/01227,2024-06-03,AQL,70000009,Insurance,Admin,Insurance — AquaFeed Suppliers,140396.51,0.0,KES,140396.51
+JNL/01215,2024-06-04,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4631930.86,KES,4631930.86
+JNL/01217,2024-06-05,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 06/2024,2687734.06,0.0,KES,2687734.06
+JNL/01224,2024-06-07,AQL,70000006,Professional Fees,Admin,Professional Fees — EastAfrica Power,210678.9,0.0,KES,210678.9
+JNL/01221,2024-06-13,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,368586.96,0.0,KES,368586.96
+JNL/01223,2024-06-13,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,251444.76,0.0,KES,251444.76
+JNL/01225,2024-06-14,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Harbour Finance,117901.71,0.0,KES,117901.71
+JNL/01222,2024-06-17,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,540746.01,0.0,KES,540746.01
+JNL/01226,2024-06-17,AQL,70000008,Depreciation,Depreciation,Depreciation — EastAfrica Power,209375.81,0.0,KES,209375.81
+JNL/01218,2024-06-20,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 06/2024,1260319.42,0.0,KES,1260319.42
+JNL/01220,2024-06-25,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Meridian Accountants,1055821.71,0.0,KES,1055821.71
+JNL/01219,2024-06-27,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 06/2024,674175.02,0.0,KES,674175.02
+JNL/01214,2024-06-28,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,505848.05,KES,505848.05
+JNL/01216,2024-06-28,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3059661.51,KES,3059661.51
+JNL/01261,2024-07-01,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — AquaFeed Suppliers,546558.61,0.0,KES,546558.61
+JNL/01258,2024-07-02,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 07/2024,588865.81,0.0,KES,588865.81
+JNL/01262,2024-07-05,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — LakeView Processing,235901.01,0.0,KES,235901.01
+JNL/01254,2024-07-11,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,3741828.2,KES,3741828.2
+JNL/01257,2024-07-11,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 07/2024,1019161.33,0.0,KES,1019161.33
+JNL/01260,2024-07-11,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,384427.65,0.0,KES,384427.65
+JNL/01263,2024-07-11,AQL,70000006,Professional Fees,Admin,Professional Fees — Harbour Finance,183374.44,0.0,KES,183374.44
+JNL/01264,2024-07-19,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ColdChain Express,119201.8,0.0,KES,119201.8
+JNL/01256,2024-07-22,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 07/2024,2774003.53,0.0,KES,2774003.53
+JNL/01255,2024-07-23,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,2551639.15,KES,2551639.15
+JNL/01266,2024-07-24,AQL,70000009,Insurance,Admin,Insurance — EastAfrica Power,132474.92,0.0,KES,132474.92
+JNL/01259,2024-07-29,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,1117022.8,0.0,KES,1117022.8
+JNL/01265,2024-07-31,AQL,70000008,Depreciation,Depreciation,Depreciation — Meridian Accountants,259286.2,0.0,KES,259286.2
+JNL/01295,2024-08-02,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,3929053.23,KES,3929053.23
+JNL/01298,2024-08-09,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 08/2024,1159010.07,0.0,KES,1159010.07
+JNL/01297,2024-08-12,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 08/2024,3101042.14,0.0,KES,3101042.14
+JNL/01301,2024-08-12,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ColdChain Express,370549.86,0.0,KES,370549.86
+JNL/01304,2024-08-13,AQL,70000006,Professional Fees,Admin,Professional Fees — LakeView Processing,182798.13,0.0,KES,182798.13
+JNL/01305,2024-08-13,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,103518.82,0.0,KES,103518.82
+JNL/01300,2024-08-14,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — LakeView Processing,1107882.9,0.0,KES,1107882.9
+JNL/01294,2024-08-19,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,510899.99,KES,510899.99
+JNL/01303,2024-08-19,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,238842.54,0.0,KES,238842.54
+JNL/01307,2024-08-19,AQL,70000009,Insurance,Admin,Insurance — Meridian Accountants,146414.1,0.0,KES,146414.1
+JNL/01299,2024-08-21,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 08/2024,655146.33,0.0,KES,655146.33
+JNL/01296,2024-08-22,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,2624220.44,KES,2624220.44
+JNL/01306,2024-08-29,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,233745.83,0.0,KES,233745.83
+JNL/01302,2024-08-30,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — AquaFeed Suppliers,486398.06,0.0,KES,486398.06
+JNL/01344,2024-09-02,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Meridian Accountants,104803.7,0.0,KES,104803.7
+JNL/01341,2024-09-09,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Harbour Finance,566532.1,0.0,KES,566532.1
+JNL/01339,2024-09-10,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — ColdChain Express,981926.78,0.0,KES,981926.78
+JNL/01337,2024-09-13,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 09/2024,1294923.34,0.0,KES,1294923.34
+JNL/01345,2024-09-13,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,231533.17,0.0,KES,231533.17
+JNL/01335,2024-09-16,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3483283.86,KES,3483283.86
+JNL/01336,2024-09-18,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 09/2024,3735492.25,0.0,KES,3735492.25
+JNL/01340,2024-09-18,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,309641.67,0.0,KES,309641.67
+JNL/01343,2024-09-18,AQL,70000006,Professional Fees,Admin,Professional Fees — LakeView Processing,201741.75,0.0,KES,201741.75
+JNL/01334,2024-09-19,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5084332.83,KES,5084332.83
+JNL/01346,2024-09-19,AQL,70000009,Insurance,Admin,Insurance — ColdChain Express,144076.82,0.0,KES,144076.82
+JNL/01338,2024-09-25,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 09/2024,798415.22,0.0,KES,798415.22
+JNL/01342,2024-09-26,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Meridian Accountants,243339.67,0.0,KES,243339.67
+JNL/01379,2024-10-01,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 10/2024,1001538.41,0.0,KES,1001538.41
+JNL/01383,2024-10-02,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — EastAfrica Power,205455.78,0.0,KES,205455.78
+JNL/01376,2024-10-07,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3558878.93,KES,3558878.93
+JNL/01381,2024-10-08,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ColdChain Express,332880.84,0.0,KES,332880.84
+JNL/01375,2024-10-10,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5293802.19,KES,5293802.19
+JNL/01384,2024-10-10,AQL,70000006,Professional Fees,Admin,Professional Fees — Meridian Accountants,218320.9,0.0,KES,218320.9
+JNL/01374,2024-10-17,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,463494.94,KES,463494.94
+JNL/01380,2024-10-18,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,988587.97,0.0,KES,988587.97
+JNL/01385,2024-10-21,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,109926.84,0.0,KES,109926.84
+JNL/01386,2024-10-21,AQL,70000008,Depreciation,Depreciation,Depreciation — ColdChain Express,210739.42,0.0,KES,210739.42
+JNL/01382,2024-10-23,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Harbour Finance,565205.98,0.0,KES,565205.98
+JNL/01387,2024-10-23,AQL,70000009,Insurance,Admin,Insurance — Harbour Finance,151846.45,0.0,KES,151846.45
+JNL/01377,2024-10-29,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 10/2024,3393870.74,0.0,KES,3393870.74
+JNL/01378,2024-10-31,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 10/2024,1443363.43,0.0,KES,1443363.43
+JNL/01421,2024-11-01,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Meridian Accountants,515541.25,0.0,KES,515541.25
+JNL/01423,2024-11-01,AQL,70000006,Professional Fees,Admin,Professional Fees — EastAfrica Power,194652.54,0.0,KES,194652.54
+JNL/01419,2024-11-11,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,1121422.85,0.0,KES,1121422.85
+JNL/01424,2024-11-14,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — LakeView Processing,120802.91,0.0,KES,120802.91
+JNL/01415,2024-11-15,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3254086.96,KES,3254086.96
+JNL/01420,2024-11-19,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,359011.04,0.0,KES,359011.04
+JNL/01422,2024-11-19,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Meridian Accountants,220485.98,0.0,KES,220485.98
+JNL/01414,2024-11-20,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5938542.54,KES,5938542.54
+JNL/01418,2024-11-20,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 11/2024,974558.75,0.0,KES,974558.75
+JNL/01425,2024-11-20,AQL,70000008,Depreciation,Depreciation,Depreciation — EastAfrica Power,246052.21,0.0,KES,246052.21
+JNL/01417,2024-11-21,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 11/2024,1624072.8,0.0,KES,1624072.8
+JNL/01416,2024-11-26,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 11/2024,3365251.56,0.0,KES,3365251.56
+JNL/01426,2024-11-26,AQL,70000009,Insurance,Admin,Insurance — Meridian Accountants,155146.95,0.0,KES,155146.95
+JNL/01454,2024-12-02,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,530405.38,KES,530405.38
+JNL/01461,2024-12-02,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — AquaFeed Suppliers,315527.21,0.0,KES,315527.21
+JNL/01456,2024-12-03,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,2952131.76,KES,2952131.76
+JNL/01466,2024-12-05,AQL,70000008,Depreciation,Depreciation,Depreciation — Harbour Finance,210775.78,0.0,KES,210775.78
+JNL/01462,2024-12-10,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,521076.07,0.0,KES,521076.07
+JNL/01467,2024-12-10,AQL,70000009,Insurance,Admin,Insurance — Meridian Accountants,131689.91,0.0,KES,131689.91
+JNL/01458,2024-12-11,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 12/2024,1351177.68,0.0,KES,1351177.68
+JNL/01464,2024-12-11,AQL,70000006,Professional Fees,Admin,Professional Fees — ColdChain Express,201473.15,0.0,KES,201473.15
+JNL/01457,2024-12-17,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 12/2024,3410715.8,0.0,KES,3410715.8
+JNL/01465,2024-12-23,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ColdChain Express,103647.48,0.0,KES,103647.48
+JNL/01455,2024-12-25,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4773887.32,KES,4773887.32
+JNL/01463,2024-12-27,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — AquaFeed Suppliers,204792.17,0.0,KES,204792.17
+JNL/01459,2024-12-30,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 12/2024,784959.72,0.0,KES,784959.72
+JNL/01460,2024-12-30,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,1209472.61,0.0,KES,1209472.61
+JNL/01496,2025-01-06,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 01/2025,3847288.79,0.0,KES,3847288.79
+JNL/01500,2025-01-07,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Harbour Finance,321951.88,0.0,KES,321951.88
+JNL/01501,2025-01-08,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EastAfrica Power,517452.14,0.0,KES,517452.14
+JNL/01503,2025-01-13,AQL,70000006,Professional Fees,Admin,Professional Fees — Harbour Finance,207075.73,0.0,KES,207075.73
+JNL/01498,2025-01-16,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 01/2025,904806.15,0.0,KES,904806.15
+JNL/01494,2025-01-20,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5127497.47,KES,5127497.47
+JNL/01497,2025-01-20,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 01/2025,1450150.93,0.0,KES,1450150.93
+JNL/01499,2025-01-21,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Harbour Finance,1043121.78,0.0,KES,1043121.78
+JNL/01505,2025-01-21,AQL,70000008,Depreciation,Depreciation,Depreciation — EastAfrica Power,258414.3,0.0,KES,258414.3
+JNL/01495,2025-01-22,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3998020.31,KES,3998020.31
+JNL/01502,2025-01-23,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Harbour Finance,223834.65,0.0,KES,223834.65
+JNL/01504,2025-01-24,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Meridian Accountants,104244.13,0.0,KES,104244.13
+JNL/01506,2025-01-27,AQL,70000009,Insurance,Admin,Insurance — EastAfrica Power,161920.13,0.0,KES,161920.13
+JNL/01547,2025-02-11,AQL,70000009,Insurance,Admin,Insurance — AquaFeed Suppliers,132094.75,0.0,KES,132094.75
+JNL/01535,2025-02-12,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4652439.07,KES,4652439.07
+JNL/01546,2025-02-12,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,229246.3,0.0,KES,229246.3
+JNL/01536,2025-02-14,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,2930778.79,KES,2930778.79
+JNL/01545,2025-02-14,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — LakeView Processing,108966.17,0.0,KES,108966.17
+JNL/01538,2025-02-18,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 02/2025,1432565.74,0.0,KES,1432565.74
+JNL/01543,2025-02-18,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — LakeView Processing,256764.56,0.0,KES,256764.56
+JNL/01534,2025-02-19,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,489778.34,KES,489778.34
+JNL/01541,2025-02-20,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,352629.66,0.0,KES,352629.66
+JNL/01544,2025-02-21,AQL,70000006,Professional Fees,Admin,Professional Fees — Harbour Finance,220034.82,0.0,KES,220034.82
+JNL/01539,2025-02-24,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 02/2025,895385.83,0.0,KES,895385.83
+JNL/01540,2025-02-25,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Meridian Accountants,1233350.51,0.0,KES,1233350.51
+JNL/01542,2025-02-26,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Harbour Finance,555698.74,0.0,KES,555698.74
+JNL/01537,2025-02-27,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 02/2025,3477931.72,0.0,KES,3477931.72
+JNL/01580,2025-03-04,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Harbour Finance,339359.25,0.0,KES,339359.25
+JNL/01575,2025-03-05,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3876936.31,KES,3876936.31
+JNL/01578,2025-03-05,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 03/2025,962621.16,0.0,KES,962621.16
+JNL/01574,2025-03-06,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5751314.12,KES,5751314.12
+JNL/01581,2025-03-07,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,537295.02,0.0,KES,537295.02
+JNL/01583,2025-03-12,AQL,70000006,Professional Fees,Admin,Professional Fees — AquaFeed Suppliers,224900.64,0.0,KES,224900.64
+JNL/01582,2025-03-14,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Meridian Accountants,252176.41,0.0,KES,252176.41
+JNL/01576,2025-03-19,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 03/2025,4209839.86,0.0,KES,4209839.86
+JNL/01577,2025-03-24,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 03/2025,1540766.52,0.0,KES,1540766.52
+JNL/01584,2025-03-26,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,106174.53,0.0,KES,106174.53
+JNL/01585,2025-03-28,AQL,70000008,Depreciation,Depreciation,Depreciation — EastAfrica Power,255752.4,0.0,KES,255752.4
+JNL/01586,2025-03-28,AQL,70000009,Insurance,Admin,Insurance — Meridian Accountants,144725.65,0.0,KES,144725.65
+JNL/01579,2025-03-31,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Meridian Accountants,1177020.55,0.0,KES,1177020.55
+JNL/ACC01,2025-03-31,AQL,50000001,Revenue — Domestic Sales,Revenue,Accrual — March revenue recognition,0.0,1200000.0,KES,1200000.0
+JNL/REV01,2025-04-01,AQL,50000001,Revenue — Domestic Sales,Revenue,Reversal — March revenue accrual,1200000.0,0.0,KES,1200000.0
+JNL/01623,2025-04-03,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,252800.86,0.0,KES,252800.86
+JNL/01624,2025-04-08,AQL,70000006,Professional Fees,Admin,Professional Fees — AquaFeed Suppliers,223504.9,0.0,KES,223504.9
+JNL/01618,2025-04-09,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 04/2025,1811404.75,0.0,KES,1811404.75
+JNL/01614,2025-04-11,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,495293.45,KES,495293.45
+JNL/01622,2025-04-11,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,469602.77,0.0,KES,469602.77
+JNL/01619,2025-04-18,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 04/2025,924434.18,0.0,KES,924434.18
+JNL/01627,2025-04-21,AQL,70000009,Insurance,Admin,Insurance — LakeView Processing,155655.8,0.0,KES,155655.8
+JNL/01620,2025-04-24,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,1181188.06,0.0,KES,1181188.06
+JNL/01616,2025-04-25,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,4125099.21,KES,4125099.21
+JNL/01626,2025-04-25,AQL,70000008,Depreciation,Depreciation,Depreciation — Harbour Finance,219576.55,0.0,KES,219576.55
+JNL/01625,2025-04-28,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — LakeView Processing,103780.41,0.0,KES,103780.41
+JNL/01615,2025-04-29,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5945210.51,KES,5945210.51
+JNL/01621,2025-04-29,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ColdChain Express,358682.24,0.0,KES,358682.24
+JNL/01617,2025-04-30,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 04/2025,4160809.67,0.0,KES,4160809.67
+JNL/01658,2025-05-06,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 05/2025,879121.2,0.0,KES,879121.2
+JNL/01655,2025-05-15,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3689043.58,KES,3689043.58
+JNL/01656,2025-05-15,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 05/2025,3669011.07,0.0,KES,3669011.07
+JNL/01659,2025-05-15,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — ColdChain Express,992748.68,0.0,KES,992748.68
+JNL/01664,2025-05-15,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,105631.84,0.0,KES,105631.84
+JNL/01665,2025-05-15,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,219960.64,0.0,KES,219960.64
+JNL/01666,2025-05-19,AQL,70000009,Insurance,Admin,Insurance — AquaFeed Suppliers,140235.26,0.0,KES,140235.26
+JNL/01654,2025-05-20,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5919248.07,KES,5919248.07
+JNL/01663,2025-05-21,AQL,70000006,Professional Fees,Admin,Professional Fees — AquaFeed Suppliers,199670.45,0.0,KES,199670.45
+JNL/01660,2025-05-22,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,351099.14,0.0,KES,351099.14
+JNL/01662,2025-05-26,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — EastAfrica Power,245666.07,0.0,KES,245666.07
+JNL/01657,2025-05-30,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 05/2025,1567474.66,0.0,KES,1567474.66
+JNL/01661,2025-05-30,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — LakeView Processing,532879.46,0.0,KES,532879.46
+JNL/01700,2025-06-06,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Meridian Accountants,1055366.68,0.0,KES,1055366.68
+JNL/01703,2025-06-06,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Harbour Finance,217657.37,0.0,KES,217657.37
+JNL/01701,2025-06-10,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,341772.45,0.0,KES,341772.45
+JNL/01698,2025-06-11,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 06/2025,1276815.46,0.0,KES,1276815.46
+JNL/01694,2025-06-12,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,551525.12,KES,551525.12
+JNL/01704,2025-06-12,AQL,70000006,Professional Fees,Admin,Professional Fees — AquaFeed Suppliers,184234.85,0.0,KES,184234.85
+JNL/01706,2025-06-12,AQL,70000008,Depreciation,Depreciation,Depreciation — Meridian Accountants,220230.95,0.0,KES,220230.95
+JNL/01707,2025-06-13,AQL,70000009,Insurance,Admin,Insurance — AquaFeed Suppliers,147827.09,0.0,KES,147827.09
+JNL/01705,2025-06-16,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EastAfrica Power,119079.66,0.0,KES,119079.66
+JNL/01695,2025-06-19,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4488323.06,KES,4488323.06
+JNL/01699,2025-06-20,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 06/2025,665504.96,0.0,KES,665504.96
+JNL/01696,2025-06-23,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3002736.16,KES,3002736.16
+JNL/01697,2025-06-23,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 06/2025,2726216.6,0.0,KES,2726216.6
+JNL/01702,2025-06-24,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Meridian Accountants,522953.43,0.0,KES,522953.43
+JNL/01738,2025-07-03,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 07/2025,593798.6,0.0,KES,593798.6
+JNL/01742,2025-07-03,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Harbour Finance,241198.18,0.0,KES,241198.18
+JNL/01734,2025-07-07,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4006350.28,KES,4006350.28
+JNL/01737,2025-07-07,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 07/2025,1141541.19,0.0,KES,1141541.19
+JNL/01739,2025-07-11,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EastAfrica Power,1013043.72,0.0,KES,1013043.72
+JNL/01741,2025-07-17,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Harbour Finance,561409.92,0.0,KES,561409.92
+JNL/01744,2025-07-17,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Meridian Accountants,112069.84,0.0,KES,112069.84
+JNL/01735,2025-07-18,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,2839270.09,KES,2839270.09
+JNL/01746,2025-07-22,AQL,70000009,Insurance,Admin,Insurance — Harbour Finance,141257.09,0.0,KES,141257.09
+JNL/01740,2025-07-28,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,319959.48,0.0,KES,319959.48
+JNL/01736,2025-07-29,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 07/2025,2337214.48,0.0,KES,2337214.48
+JNL/01745,2025-07-29,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,253002.53,0.0,KES,253002.53
+JNL/01743,2025-07-30,AQL,70000006,Professional Fees,Admin,Professional Fees — LakeView Processing,204123.75,0.0,KES,204123.75
+JNL/01781,2025-08-01,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Harbour Finance,315479.96,0.0,KES,315479.96
+JNL/01784,2025-08-05,AQL,70000006,Professional Fees,Admin,Professional Fees — ColdChain Express,197995.84,0.0,KES,197995.84
+JNL/01775,2025-08-07,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,3932275.59,KES,3932275.59
+JNL/01776,2025-08-12,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3001515.44,KES,3001515.44
+JNL/01779,2025-08-13,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 08/2025,692278.78,0.0,KES,692278.78
+JNL/01780,2025-08-13,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EastAfrica Power,1186966.13,0.0,KES,1186966.13
+JNL/01782,2025-08-14,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EastAfrica Power,565403.54,0.0,KES,565403.54
+JNL/01786,2025-08-14,AQL,70000008,Depreciation,Depreciation,Depreciation — Meridian Accountants,212507.4,0.0,KES,212507.4
+JNL/01785,2025-08-18,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EastAfrica Power,124276.7,0.0,KES,124276.7
+JNL/01787,2025-08-20,AQL,70000009,Insurance,Admin,Insurance — Harbour Finance,135577.95,0.0,KES,135577.95
+JNL/01777,2025-08-21,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 08/2025,3059498.06,0.0,KES,3059498.06
+JNL/01783,2025-08-26,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Harbour Finance,211258.57,0.0,KES,211258.57
+JNL/01774,2025-08-27,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,529273.56,KES,529273.56
+JNL/01778,2025-08-29,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 08/2025,1307690.69,0.0,KES,1307690.69
+JNL/01815,2025-09-02,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3542303.23,KES,3542303.23
+JNL/01818,2025-09-05,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 09/2025,969273.89,0.0,KES,969273.89
+JNL/01821,2025-09-09,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,582740.91,0.0,KES,582740.91
+JNL/01824,2025-09-11,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Meridian Accountants,127716.24,0.0,KES,127716.24
+JNL/01825,2025-09-11,AQL,70000008,Depreciation,Depreciation,Depreciation — ColdChain Express,252595.83,0.0,KES,252595.83
+JNL/01819,2025-09-12,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — AquaFeed Suppliers,1088998.0,0.0,KES,1088998.0
+JNL/01826,2025-09-12,AQL,70000009,Insurance,Admin,Insurance — EastAfrica Power,145655.56,0.0,KES,145655.56
+JNL/SPIKE01,2025-09-12,AQL,70000003,Logistics & Transport,Logistics,Emergency cold-chain transport — Lake Victoria,4800000.0,0.0,KES,4800000.0
+JNL/01817,2025-09-16,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 09/2025,1618551.63,0.0,KES,1618551.63
+JNL/01820,2025-09-18,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,315697.64,0.0,KES,315697.64
+JNL/01814,2025-09-19,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5550610.04,KES,5550610.04
+JNL/01823,2025-09-23,AQL,70000006,Professional Fees,Admin,Professional Fees — LakeView Processing,184713.57,0.0,KES,184713.57
+JNL/01822,2025-09-24,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,250869.85,0.0,KES,250869.85
+JNL/01816,2025-09-25,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 09/2025,3717423.25,0.0,KES,3717423.25
+JNL/01858,2025-10-02,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 10/2025,1439873.79,0.0,KES,1439873.79
+JNL/01859,2025-10-02,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 10/2025,1073808.28,0.0,KES,1073808.28
+JNL/01856,2025-10-06,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3604112.76,KES,3604112.76
+JNL/01861,2025-10-06,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — AquaFeed Suppliers,355966.56,0.0,KES,355966.56
+JNL/01857,2025-10-07,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 10/2025,3758966.77,0.0,KES,3758966.77
+JNL/01867,2025-10-07,AQL,70000009,Insurance,Admin,Insurance — Meridian Accountants,134235.93,0.0,KES,134235.93
+JNL/01864,2025-10-16,AQL,70000006,Professional Fees,Admin,Professional Fees — EastAfrica Power,188866.6,0.0,KES,188866.6
+JNL/01863,2025-10-17,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ColdChain Express,245917.8,0.0,KES,245917.8
+JNL/01855,2025-10-20,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,6557318.2,KES,6557318.2
+JNL/01866,2025-10-20,AQL,70000008,Depreciation,Depreciation,Depreciation — Meridian Accountants,215582.18,0.0,KES,215582.18
+JNL/01860,2025-10-22,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — LakeView Processing,1102580.54,0.0,KES,1102580.54
+JNL/01862,2025-10-24,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,467763.34,0.0,KES,467763.34
+JNL/01854,2025-10-29,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,461364.32,KES,461364.32
+JNL/01865,2025-10-31,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Harbour Finance,127081.83,0.0,KES,127081.83
+JNL/01899,2025-11-03,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Meridian Accountants,1032754.58,0.0,KES,1032754.58
+JNL/01903,2025-11-03,AQL,70000006,Professional Fees,Admin,Professional Fees — AquaFeed Suppliers,220329.53,0.0,KES,220329.53
+JNL/01904,2025-11-03,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ColdChain Express,125193.32,0.0,KES,125193.32
+JNL/01898,2025-11-07,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 11/2025,911689.82,0.0,KES,911689.82
+JNL/01900,2025-11-07,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — LakeView Processing,314545.35,0.0,KES,314545.35
+JNL/01902,2025-11-10,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — LakeView Processing,244375.82,0.0,KES,244375.82
+JNL/01895,2025-11-11,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3265189.7,KES,3265189.7
+JNL/01896,2025-11-12,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 11/2025,3771010.75,0.0,KES,3771010.75
+JNL/01905,2025-11-12,AQL,70000008,Depreciation,Depreciation,Depreciation — LakeView Processing,226275.18,0.0,KES,226275.18
+JNL/01897,2025-11-17,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 11/2025,1352668.44,0.0,KES,1352668.44
+JNL/01906,2025-11-17,AQL,70000009,Insurance,Admin,Insurance — Meridian Accountants,150849.36,0.0,KES,150849.36
+JNL/01901,2025-11-26,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ColdChain Express,489824.61,0.0,KES,489824.61
+JNL/01894,2025-11-27,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,4788161.62,KES,4788161.62
+JNL/01934,2025-12-05,AQL,31200001,Intercompany — Payable,Intercompany,Intercompany loan received — SHL,0.0,498491.74,KES,498491.74
+JNL/01935,2025-12-11,AQL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — FreshFish Nairobi,0.0,5385887.27,KES,5385887.27
+JNL/01942,2025-12-12,AQL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Meridian Accountants,491668.17,0.0,KES,491668.17
+JNL/01940,2025-12-15,AQL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Harbour Finance,1113011.42,0.0,KES,1113011.42
+JNL/01944,2025-12-18,AQL,70000006,Professional Fees,Admin,Professional Fees — Meridian Accountants,219317.8,0.0,KES,219317.8
+JNL/01943,2025-12-23,AQL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — EastAfrica Power,211919.35,0.0,KES,211919.35
+JNL/01939,2025-12-24,AQL,60000003,COGS — Packaging,COGS,COGS — Packaging — 12/2025,755113.81,0.0,KES,755113.81
+JNL/01947,2025-12-24,AQL,70000009,Insurance,Admin,Insurance — Harbour Finance,133574.44,0.0,KES,133574.44
+JNL/01938,2025-12-25,AQL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 12/2025,1179785.68,0.0,KES,1179785.68
+JNL/01936,2025-12-26,AQL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Export Buyers Ltd,0.0,3516046.06,KES,3516046.06
+JNL/01941,2025-12-26,AQL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EastAfrica Power,359148.1,0.0,KES,359148.1
+JNL/01937,2025-12-29,AQL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 12/2025,3140599.87,0.0,KES,3140599.87
+JNL/01946,2025-12-29,AQL,70000008,Depreciation,Depreciation,Depreciation — AquaFeed Suppliers,233430.43,0.0,KES,233430.43
+JNL/01945,2025-12-31,AQL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — AquaFeed Suppliers,129485.76,0.0,KES,129485.76
+JNL/01033,2024-01-02,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EcoMap Consultants,171957.58,0.0,KES,171957.58
+JNL/01028,2024-01-03,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,770623.69,KES,770623.69
+JNL/01036,2024-01-03,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,120289.72,0.0,KES,120289.72
+JNL/01027,2024-01-04,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,1068965.81,KES,1068965.81
+JNL/01030,2024-01-04,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 01/2024,128325.33,0.0,KES,128325.33
+JNL/01035,2024-01-04,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Frontier Legal,142304.22,0.0,KES,142304.22
+JNL/SUSP01,2024-01-08,GCL,12300001,Suspense / Clearing,Suspense,Unallocated receipt — TXN-GCL-00441,780000.0,0.0,KES,780000.0
+JNL/01037,2024-01-12,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Frontier Legal,60998.87,0.0,KES,60998.87
+JNL/01031,2024-01-16,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 01/2024,88630.05,0.0,KES,88630.05
+JNL/01029,2024-01-17,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 01/2024,353265.23,0.0,KES,353265.23
+JNL/01034,2024-01-19,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Unity Bank,319026.97,0.0,KES,319026.97
+JNL/01039,2024-01-25,GCL,70000009,Insurance,Admin,Insurance — EcoMap Consultants,83537.27,0.0,KES,83537.27
+JNL/01032,2024-01-26,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EcoMap Consultants,559922.88,0.0,KES,559922.88
+JNL/01038,2024-01-26,GCL,70000008,Depreciation,Depreciation,Depreciation — Unity Bank,115640.49,0.0,KES,115640.49
+JNL/01074,2024-02-07,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,169214.46,0.0,KES,169214.46
+JNL/01075,2024-02-07,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EcoMap Consultants,309804.69,0.0,KES,309804.69
+JNL/01070,2024-02-09,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 02/2024,310311.53,0.0,KES,310311.53
+JNL/01077,2024-02-13,GCL,70000006,Professional Fees,Admin,Professional Fees — Frontier Legal,118155.71,0.0,KES,118155.71
+JNL/01069,2024-02-15,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,823700.95,KES,823700.95
+JNL/01080,2024-02-16,GCL,70000009,Insurance,Admin,Insurance — Solar Connect Ltd,77282.54,0.0,KES,77282.54
+JNL/01072,2024-02-22,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 02/2024,92045.27,0.0,KES,92045.27
+JNL/01076,2024-02-26,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — SurveyTech Africa,134354.66,0.0,KES,134354.66
+JNL/01068,2024-02-27,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,1052722.73,KES,1052722.73
+JNL/01078,2024-02-27,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Unity Bank,68166.71,0.0,KES,68166.71
+JNL/01079,2024-02-27,GCL,70000008,Depreciation,Depreciation,Depreciation — Solar Connect Ltd,114914.65,0.0,KES,114914.65
+JNL/01071,2024-02-29,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 02/2024,160826.81,0.0,KES,160826.81
+JNL/01073,2024-02-29,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,564036.59,0.0,KES,564036.59
+JNL/01117,2024-03-04,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,69705.63,0.0,KES,69705.63
+JNL/01119,2024-03-05,GCL,70000009,Insurance,Admin,Insurance — GreenSeed Nurseries,73982.15,0.0,KES,73982.15
+JNL/01115,2024-03-06,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — GreenSeed Nurseries,137465.46,0.0,KES,137465.46
+JNL/01109,2024-03-07,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 03/2024,550194.65,0.0,KES,550194.65
+JNL/01111,2024-03-08,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 03/2024,116442.38,0.0,KES,116442.38
+JNL/01108,2024-03-11,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1127222.67,KES,1127222.67
+JNL/01116,2024-03-14,GCL,70000006,Professional Fees,Admin,Professional Fees — EcoMap Consultants,115585.89,0.0,KES,115585.89
+JNL/01110,2024-03-18,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 03/2024,201940.9,0.0,KES,201940.9
+JNL/01114,2024-03-22,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EcoMap Consultants,317700.7,0.0,KES,317700.7
+JNL/01112,2024-03-25,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Frontier Legal,577320.53,0.0,KES,577320.53
+JNL/01118,2024-03-27,GCL,70000008,Depreciation,Depreciation,Depreciation — SurveyTech Africa,137328.81,0.0,KES,137328.81
+JNL/01107,2024-03-28,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,1624026.47,KES,1624026.47
+JNL/01113,2024-03-28,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — GreenSeed Nurseries,176389.08,0.0,KES,176389.08
+JNL/01149,2024-04-03,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1576389.8,KES,1576389.8
+JNL/01159,2024-04-04,GCL,70000008,Depreciation,Depreciation,Depreciation — GreenSeed Nurseries,133288.0,0.0,KES,133288.0
+JNL/01158,2024-04-09,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Solar Connect Ltd,60037.97,0.0,KES,60037.97
+JNL/01151,2024-04-10,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 04/2024,256998.21,0.0,KES,256998.21
+JNL/01152,2024-04-11,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 04/2024,163620.03,0.0,KES,163620.03
+JNL/01148,2024-04-15,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2047917.01,KES,2047917.01
+JNL/01160,2024-04-18,GCL,70000009,Insurance,Admin,Insurance — Unity Bank,85023.1,0.0,KES,85023.1
+JNL/01153,2024-04-22,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Unity Bank,667574.16,0.0,KES,667574.16
+JNL/01156,2024-04-22,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Frontier Legal,127675.99,0.0,KES,127675.99
+JNL/01157,2024-04-22,GCL,70000006,Professional Fees,Admin,Professional Fees — SurveyTech Africa,125054.28,0.0,KES,125054.28
+JNL/01150,2024-04-23,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 04/2024,691644.42,0.0,KES,691644.42
+JNL/01154,2024-04-24,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — SurveyTech Africa,179999.01,0.0,KES,179999.01
+JNL/01155,2024-04-25,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — SurveyTech Africa,263455.13,0.0,KES,263455.13
+JNL/01189,2024-05-01,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 05/2024,929779.2,0.0,KES,929779.2
+JNL/01198,2024-05-02,GCL,70000008,Depreciation,Depreciation,Depreciation — SurveyTech Africa,123367.72,0.0,KES,123367.72
+JNL/01196,2024-05-07,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,115577.77,0.0,KES,115577.77
+JNL/01187,2024-05-08,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2712689.25,KES,2712689.25
+JNL/01191,2024-05-13,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 05/2024,217537.09,0.0,KES,217537.09
+JNL/01192,2024-05-14,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,570331.09,0.0,KES,570331.09
+JNL/01197,2024-05-14,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,61527.5,0.0,KES,61527.5
+JNL/01188,2024-05-17,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1993720.65,KES,1993720.65
+JNL/01190,2024-05-17,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 05/2024,364769.35,0.0,KES,364769.35
+JNL/01194,2024-05-24,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Unity Bank,315455.55,0.0,KES,315455.55
+JNL/01199,2024-05-24,GCL,70000009,Insurance,Admin,Insurance — Frontier Legal,84338.35,0.0,KES,84338.35
+JNL/01193,2024-05-31,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,173250.18,0.0,KES,173250.18
+JNL/01195,2024-05-31,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Unity Bank,140300.84,0.0,KES,140300.84
+JNL/01232,2024-06-05,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 06/2024,283588.43,0.0,KES,283588.43
+JNL/01231,2024-06-06,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 06/2024,420916.37,0.0,KES,420916.37
+JNL/01233,2024-06-11,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Frontier Legal,627135.75,0.0,KES,627135.75
+JNL/01236,2024-06-12,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — GreenSeed Nurseries,130362.49,0.0,KES,130362.49
+JNL/01234,2024-06-13,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Frontier Legal,205584.9,0.0,KES,205584.9
+JNL/01237,2024-06-14,GCL,70000006,Professional Fees,Admin,Professional Fees — EcoMap Consultants,111798.88,0.0,KES,111798.88
+JNL/01239,2024-06-14,GCL,70000008,Depreciation,Depreciation,Depreciation — Frontier Legal,134833.73,0.0,KES,134833.73
+JNL/01235,2024-06-18,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — SurveyTech Africa,288182.28,0.0,KES,288182.28
+JNL/01228,2024-06-21,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,3261249.45,KES,3261249.45
+JNL/01238,2024-06-21,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,59318.93,0.0,KES,59318.93
+JNL/01240,2024-06-25,GCL,70000009,Insurance,Admin,Insurance — Frontier Legal,75790.83,0.0,KES,75790.83
+JNL/01230,2024-06-27,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 06/2024,1154500.16,0.0,KES,1154500.16
+JNL/01229,2024-06-28,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2162436.51,KES,2162436.51
+JNL/01267,2024-07-01,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,4049737.24,KES,4049737.24
+JNL/01272,2024-07-02,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Frontier Legal,587496.95,0.0,KES,587496.95
+JNL/01277,2024-07-02,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EcoMap Consultants,70347.37,0.0,KES,70347.37
+JNL/01269,2024-07-03,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 07/2024,1279496.09,0.0,KES,1279496.09
+JNL/01268,2024-07-04,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2931450.92,KES,2931450.92
+JNL/01271,2024-07-05,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 07/2024,317095.48,0.0,KES,317095.48
+JNL/01274,2024-07-05,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Frontier Legal,309383.04,0.0,KES,309383.04
+JNL/01275,2024-07-05,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Solar Connect Ltd,137526.68,0.0,KES,137526.68
+JNL/01278,2024-07-09,GCL,70000008,Depreciation,Depreciation,Depreciation — EcoMap Consultants,128348.44,0.0,KES,128348.44
+JNL/01279,2024-07-10,GCL,70000009,Insurance,Admin,Insurance — Unity Bank,80029.11,0.0,KES,80029.11
+JNL/01276,2024-07-12,GCL,70000006,Professional Fees,Admin,Professional Fees — GreenSeed Nurseries,121866.9,0.0,KES,121866.9
+JNL/01273,2024-07-25,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EcoMap Consultants,182488.71,0.0,KES,182488.71
+JNL/01270,2024-07-31,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 07/2024,527831.02,0.0,KES,527831.02
+JNL/01311,2024-08-01,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 08/2024,505971.69,0.0,KES,505971.69
+JNL/01312,2024-08-06,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 08/2024,289550.89,0.0,KES,289550.89
+JNL/01315,2024-08-06,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — GreenSeed Nurseries,283781.7,0.0,KES,283781.7
+JNL/01319,2024-08-06,GCL,70000008,Depreciation,Depreciation,Depreciation — Frontier Legal,138321.31,0.0,KES,138321.31
+JNL/01313,2024-08-08,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EcoMap Consultants,651073.57,0.0,KES,651073.57
+JNL/01314,2024-08-13,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Frontier Legal,181439.95,0.0,KES,181439.95
+JNL/01310,2024-08-15,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 08/2024,1347741.76,0.0,KES,1347741.76
+JNL/01317,2024-08-15,GCL,70000006,Professional Fees,Admin,Professional Fees — EcoMap Consultants,99241.43,0.0,KES,99241.43
+JNL/01316,2024-08-20,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Frontier Legal,115050.18,0.0,KES,115050.18
+JNL/01309,2024-08-26,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2833856.04,KES,2833856.04
+JNL/01320,2024-08-27,GCL,70000009,Insurance,Admin,Insurance — Solar Connect Ltd,83762.7,0.0,KES,83762.7
+JNL/01318,2024-08-28,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Solar Connect Ltd,71106.28,0.0,KES,71106.28
+JNL/01308,2024-08-30,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,4164988.17,KES,4164988.17
+JNL/01356,2024-09-04,GCL,70000006,Professional Fees,Admin,Professional Fees — Unity Bank,121582.45,0.0,KES,121582.45
+JNL/01355,2024-09-09,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Unity Bank,128096.35,0.0,KES,128096.35
+JNL/01353,2024-09-10,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Unity Bank,186222.15,0.0,KES,186222.15
+JNL/01350,2024-09-16,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 09/2024,444011.34,0.0,KES,444011.34
+JNL/01359,2024-09-16,GCL,70000009,Insurance,Admin,Insurance — Frontier Legal,71754.92,0.0,KES,71754.92
+JNL/01351,2024-09-20,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 09/2024,267603.91,0.0,KES,267603.91
+JNL/01352,2024-09-20,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,541650.76,0.0,KES,541650.76
+JNL/01354,2024-09-23,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Frontier Legal,296699.44,0.0,KES,296699.44
+JNL/01357,2024-09-24,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EcoMap Consultants,66437.53,0.0,KES,66437.53
+JNL/01347,2024-09-26,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,3184940.56,KES,3184940.56
+JNL/01348,2024-09-27,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2267422.61,KES,2267422.61
+JNL/01349,2024-09-30,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 09/2024,1011544.73,0.0,KES,1011544.73
+JNL/01358,2024-09-30,GCL,70000008,Depreciation,Depreciation,Depreciation — Unity Bank,117645.35,0.0,KES,117645.35
+JNL/01395,2024-10-08,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Solar Connect Ltd,309208.42,0.0,KES,309208.42
+JNL/01397,2024-10-11,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,109651.16,0.0,KES,109651.16
+JNL/01390,2024-10-15,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 10/2024,912744.33,0.0,KES,912744.33
+JNL/01391,2024-10-21,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 10/2024,386220.75,0.0,KES,386220.75
+JNL/01396,2024-10-22,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Unity Bank,143068.32,0.0,KES,143068.32
+JNL/01393,2024-10-23,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Unity Bank,560931.98,0.0,KES,560931.98
+JNL/01399,2024-10-23,GCL,70000008,Depreciation,Depreciation,Depreciation — EcoMap Consultants,136491.41,0.0,KES,136491.41
+JNL/01388,2024-10-24,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2969125.3,KES,2969125.3
+JNL/01394,2024-10-24,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,203548.33,0.0,KES,203548.33
+JNL/01389,2024-10-28,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2093939.1,KES,2093939.1
+JNL/01392,2024-10-28,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 10/2024,204700.67,0.0,KES,204700.67
+JNL/01398,2024-10-29,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,62034.2,0.0,KES,62034.2
+JNL/01400,2024-10-29,GCL,70000009,Insurance,Admin,Insurance — Solar Connect Ltd,76943.43,0.0,KES,76943.43
+JNL/01436,2024-11-07,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,102403.62,0.0,KES,102403.62
+JNL/01435,2024-11-08,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Unity Bank,116236.3,0.0,KES,116236.3
+JNL/01428,2024-11-12,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1385302.22,KES,1385302.22
+JNL/01430,2024-11-12,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 11/2024,257418.46,0.0,KES,257418.46
+JNL/01431,2024-11-13,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 11/2024,174854.06,0.0,KES,174854.06
+JNL/01433,2024-11-19,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — GreenSeed Nurseries,209865.41,0.0,KES,209865.41
+JNL/01434,2024-11-19,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EcoMap Consultants,277695.25,0.0,KES,277695.25
+JNL/01438,2024-11-19,GCL,70000008,Depreciation,Depreciation,Depreciation — GreenSeed Nurseries,131631.66,0.0,KES,131631.66
+JNL/01429,2024-11-22,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 11/2024,690274.4,0.0,KES,690274.4
+JNL/01432,2024-11-22,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,599468.13,0.0,KES,599468.13
+JNL/01437,2024-11-26,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Frontier Legal,68016.8,0.0,KES,68016.8
+JNL/01439,2024-11-27,GCL,70000009,Insurance,Admin,Insurance — Frontier Legal,72341.56,0.0,KES,72341.56
+JNL/01427,2024-11-28,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2464147.25,KES,2464147.25
+JNL/01473,2024-12-05,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Frontier Legal,576731.11,0.0,KES,576731.11
+JNL/01471,2024-12-09,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 12/2024,319945.37,0.0,KES,319945.37
+JNL/01479,2024-12-10,GCL,70000008,Depreciation,Depreciation,Depreciation — Unity Bank,113965.87,0.0,KES,113965.87
+JNL/01469,2024-12-12,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1626701.98,KES,1626701.98
+JNL/01474,2024-12-13,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — SurveyTech Africa,208985.05,0.0,KES,208985.05
+JNL/01476,2024-12-13,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — GreenSeed Nurseries,142230.2,0.0,KES,142230.2
+JNL/01470,2024-12-17,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 12/2024,705029.88,0.0,KES,705029.88
+JNL/01478,2024-12-18,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Solar Connect Ltd,71217.34,0.0,KES,71217.34
+JNL/01468,2024-12-20,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2386507.33,KES,2386507.33
+JNL/01475,2024-12-26,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — GreenSeed Nurseries,268894.94,0.0,KES,268894.94
+JNL/01480,2024-12-26,GCL,70000009,Insurance,Admin,Insurance — GreenSeed Nurseries,87509.95,0.0,KES,87509.95
+JNL/01472,2024-12-27,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 12/2024,167610.63,0.0,KES,167610.63
+JNL/01477,2024-12-31,GCL,70000006,Professional Fees,Admin,Professional Fees — Frontier Legal,98886.71,0.0,KES,98886.71
+JNL/01510,2025-01-03,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 01/2025,154844.76,0.0,KES,154844.76
+JNL/01517,2025-01-08,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EcoMap Consultants,65742.06,0.0,KES,65742.06
+JNL/01518,2025-01-09,GCL,70000008,Depreciation,Depreciation,Depreciation — Solar Connect Ltd,125488.43,0.0,KES,125488.43
+JNL/01509,2025-01-10,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 01/2025,329801.46,0.0,KES,329801.46
+JNL/01512,2025-01-10,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,558769.06,0.0,KES,558769.06
+JNL/01507,2025-01-13,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,1206787.75,KES,1206787.75
+JNL/01511,2025-01-13,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 01/2025,90230.59,0.0,KES,90230.59
+JNL/01519,2025-01-13,GCL,70000009,Insurance,Admin,Insurance — EcoMap Consultants,88308.39,0.0,KES,88308.39
+JNL/01508,2025-01-15,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,774653.28,KES,774653.28
+JNL/01515,2025-01-15,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Solar Connect Ltd,141817.85,0.0,KES,141817.85
+JNL/01516,2025-01-22,GCL,70000006,Professional Fees,Admin,Professional Fees — GreenSeed Nurseries,118067.34,0.0,KES,118067.34
+JNL/01513,2025-01-27,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,210935.52,0.0,KES,210935.52
+JNL/01514,2025-01-30,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Frontier Legal,310293.77,0.0,KES,310293.77
+JNL/01549,2025-02-06,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,787570.11,KES,787570.11
+JNL/01556,2025-02-06,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — EcoMap Consultants,128623.85,0.0,KES,128623.85
+JNL/01551,2025-02-10,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 02/2025,149933.98,0.0,KES,149933.98
+JNL/01552,2025-02-11,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 02/2025,88849.51,0.0,KES,88849.51
+JNL/01557,2025-02-14,GCL,70000006,Professional Fees,Admin,Professional Fees — SurveyTech Africa,119319.92,0.0,KES,119319.92
+JNL/01559,2025-02-14,GCL,70000008,Depreciation,Depreciation,Depreciation — SurveyTech Africa,138819.02,0.0,KES,138819.02
+JNL/01548,2025-02-17,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,1277536.03,KES,1277536.03
+JNL/01558,2025-02-18,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,64309.71,0.0,KES,64309.71
+JNL/01553,2025-02-24,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — SurveyTech Africa,587303.1,0.0,KES,587303.1
+JNL/01550,2025-02-26,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 02/2025,323092.55,0.0,KES,323092.55
+JNL/01560,2025-02-26,GCL,70000009,Insurance,Admin,Insurance — GreenSeed Nurseries,80996.61,0.0,KES,80996.61
+JNL/01554,2025-02-27,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EcoMap Consultants,174192.73,0.0,KES,174192.73
+JNL/01555,2025-02-28,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Frontier Legal,299859.14,0.0,KES,299859.14
+JNL/01599,2025-03-05,GCL,70000009,Insurance,Admin,Insurance — Unity Bank,82704.8,0.0,KES,82704.8
+JNL/01596,2025-03-06,GCL,70000006,Professional Fees,Admin,Professional Fees — Unity Bank,102001.87,0.0,KES,102001.87
+JNL/01587,2025-03-12,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,1627739.11,KES,1627739.11
+JNL/01598,2025-03-13,GCL,70000008,Depreciation,Depreciation,Depreciation — SurveyTech Africa,116904.77,0.0,KES,116904.77
+JNL/01593,2025-03-14,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,180025.91,0.0,KES,180025.91
+JNL/01589,2025-03-19,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 03/2025,578123.73,0.0,KES,578123.73
+JNL/01590,2025-03-21,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 03/2025,215617.32,0.0,KES,215617.32
+JNL/01591,2025-03-21,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 03/2025,124273.49,0.0,KES,124273.49
+JNL/01588,2025-03-25,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1140701.85,KES,1140701.85
+JNL/01592,2025-03-27,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EcoMap Consultants,627465.85,0.0,KES,627465.85
+JNL/01594,2025-03-28,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Frontier Legal,258683.67,0.0,KES,258683.67
+JNL/01595,2025-03-28,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — GreenSeed Nurseries,116599.19,0.0,KES,116599.19
+JNL/01597,2025-03-31,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,58653.23,0.0,KES,58653.23
+JNL/01639,2025-04-03,GCL,70000008,Depreciation,Depreciation,Depreciation — GreenSeed Nurseries,134554.1,0.0,KES,134554.1
+JNL/01628,2025-04-04,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2441277.68,KES,2441277.68
+JNL/01632,2025-04-11,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 04/2025,172158.14,0.0,KES,172158.14
+JNL/01638,2025-04-11,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Frontier Legal,60197.43,0.0,KES,60197.43
+JNL/01630,2025-04-14,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 04/2025,642984.54,0.0,KES,642984.54
+JNL/01637,2025-04-15,GCL,70000006,Professional Fees,Admin,Professional Fees — Unity Bank,99546.04,0.0,KES,99546.04
+JNL/01631,2025-04-17,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 04/2025,279047.03,0.0,KES,279047.03
+JNL/01636,2025-04-18,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — GreenSeed Nurseries,135602.31,0.0,KES,135602.31
+JNL/01629,2025-04-21,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1419701.83,KES,1419701.83
+JNL/01634,2025-04-21,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,185959.54,0.0,KES,185959.54
+JNL/01633,2025-04-24,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Frontier Legal,625255.74,0.0,KES,625255.74
+JNL/01635,2025-04-28,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — GreenSeed Nurseries,285410.4,0.0,KES,285410.4
+JNL/01640,2025-04-30,GCL,70000009,Insurance,Admin,Insurance — SurveyTech Africa,87587.97,0.0,KES,87587.97
+JNL/01668,2025-05-01,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1952614.64,KES,1952614.64
+JNL/01672,2025-05-02,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,569656.13,0.0,KES,569656.13
+JNL/01676,2025-05-02,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,102879.12,0.0,KES,102879.12
+JNL/01678,2025-05-07,GCL,70000008,Depreciation,Depreciation,Depreciation — Frontier Legal,121398.12,0.0,KES,121398.12
+JNL/01677,2025-05-13,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,59185.67,0.0,KES,59185.67
+JNL/01671,2025-05-21,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 05/2025,221483.37,0.0,KES,221483.37
+JNL/01679,2025-05-21,GCL,70000009,Insurance,Admin,Insurance — EcoMap Consultants,73728.77,0.0,KES,73728.77
+JNL/01667,2025-05-23,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2980858.0,KES,2980858.0
+JNL/01673,2025-05-23,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — SurveyTech Africa,173650.14,0.0,KES,173650.14
+JNL/01670,2025-05-26,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 05/2025,402034.92,0.0,KES,402034.92
+JNL/01674,2025-05-28,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EcoMap Consultants,264005.62,0.0,KES,264005.62
+JNL/01675,2025-05-29,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Solar Connect Ltd,120195.82,0.0,KES,120195.82
+JNL/01669,2025-05-30,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 05/2025,834160.22,0.0,KES,834160.22
+JNL/01712,2025-06-06,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 06/2025,249035.48,0.0,KES,249035.48
+JNL/01718,2025-06-11,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SurveyTech Africa,60231.28,0.0,KES,60231.28
+JNL/01708,2025-06-13,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,3169314.61,KES,3169314.61
+JNL/01717,2025-06-16,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,120329.43,0.0,KES,120329.43
+JNL/01714,2025-06-17,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,171880.32,0.0,KES,171880.32
+JNL/01716,2025-06-18,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Frontier Legal,122542.71,0.0,KES,122542.71
+JNL/01719,2025-06-18,GCL,70000008,Depreciation,Depreciation,Depreciation — Frontier Legal,133575.76,0.0,KES,133575.76
+JNL/01720,2025-06-19,GCL,70000009,Insurance,Admin,Insurance — SurveyTech Africa,84996.37,0.0,KES,84996.37
+JNL/01711,2025-06-23,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 06/2025,385533.06,0.0,KES,385533.06
+JNL/01713,2025-06-25,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,554653.79,0.0,KES,554653.79
+JNL/01715,2025-06-25,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EcoMap Consultants,321866.05,0.0,KES,321866.05
+JNL/01709,2025-06-26,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2293571.23,KES,2293571.23
+JNL/01710,2025-06-26,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 06/2025,1044909.29,0.0,KES,1044909.29
+JNL/01759,2025-07-01,GCL,70000009,Insurance,Admin,Insurance — EcoMap Consultants,82385.37,0.0,KES,82385.37
+JNL/01748,2025-07-02,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2648734.71,KES,2648734.71
+JNL/01750,2025-07-03,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 07/2025,499485.75,0.0,KES,499485.75
+JNL/01754,2025-07-03,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Unity Bank,269490.54,0.0,KES,269490.54
+JNL/01755,2025-07-04,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Solar Connect Ltd,140274.93,0.0,KES,140274.93
+JNL/01751,2025-07-10,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 07/2025,287984.8,0.0,KES,287984.8
+JNL/01753,2025-07-10,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — EcoMap Consultants,192125.36,0.0,KES,192125.36
+JNL/01757,2025-07-21,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — GreenSeed Nurseries,64668.97,0.0,KES,64668.97
+JNL/01747,2025-07-24,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,4338366.95,KES,4338366.95
+JNL/01749,2025-07-28,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 07/2025,1173876.48,0.0,KES,1173876.48
+JNL/01752,2025-07-30,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Unity Bank,644131.16,0.0,KES,644131.16
+JNL/01756,2025-07-31,GCL,70000006,Professional Fees,Admin,Professional Fees — Unity Bank,108879.0,0.0,KES,108879.0
+JNL/01758,2025-07-31,GCL,70000008,Depreciation,Depreciation,Depreciation — SurveyTech Africa,140486.82,0.0,KES,140486.82
+JNL/01799,2025-08-01,GCL,70000008,Depreciation,Depreciation,Depreciation — EcoMap Consultants,126832.82,0.0,KES,126832.82
+JNL/01800,2025-08-04,GCL,70000009,Insurance,Admin,Insurance — Frontier Legal,88587.84,0.0,KES,88587.84
+JNL/01793,2025-08-06,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,571782.52,0.0,KES,571782.52
+JNL/01791,2025-08-11,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 08/2025,527460.0,0.0,KES,527460.0
+JNL/01788,2025-08-13,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,4247069.37,KES,4247069.37
+JNL/01790,2025-08-14,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 08/2025,1250575.72,0.0,KES,1250575.72
+JNL/01796,2025-08-14,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Frontier Legal,140547.6,0.0,KES,140547.6
+JNL/01797,2025-08-14,GCL,70000006,Professional Fees,Admin,Professional Fees — Unity Bank,114241.57,0.0,KES,114241.57
+JNL/01795,2025-08-18,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Frontier Legal,265992.03,0.0,KES,265992.03
+JNL/01792,2025-08-19,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 08/2025,305500.77,0.0,KES,305500.77
+JNL/01794,2025-08-19,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — SurveyTech Africa,184889.67,0.0,KES,184889.67
+JNL/01798,2025-08-19,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — GreenSeed Nurseries,62477.08,0.0,KES,62477.08
+JNL/01789,2025-08-21,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2829949.97,KES,2829949.97
+JNL/01836,2025-09-01,GCL,70000006,Professional Fees,Admin,Professional Fees — Solar Connect Ltd,123285.72,0.0,KES,123285.72
+JNL/01830,2025-09-03,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 09/2025,414913.25,0.0,KES,414913.25
+JNL/01835,2025-09-03,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — EcoMap Consultants,129148.79,0.0,KES,129148.79
+JNL/01828,2025-09-04,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,2248152.54,KES,2248152.54
+JNL/01831,2025-09-05,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 09/2025,278039.91,0.0,KES,278039.91
+JNL/01827,2025-09-15,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,3531707.5,KES,3531707.5
+JNL/01829,2025-09-19,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 09/2025,926010.45,0.0,KES,926010.45
+JNL/01838,2025-09-19,GCL,70000008,Depreciation,Depreciation,Depreciation — GreenSeed Nurseries,123298.4,0.0,KES,123298.4
+JNL/01834,2025-09-24,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Solar Connect Ltd,280961.42,0.0,KES,280961.42
+JNL/01837,2025-09-24,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EcoMap Consultants,61639.87,0.0,KES,61639.87
+JNL/01832,2025-09-30,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — SurveyTech Africa,535715.9,0.0,KES,535715.9
+JNL/01833,2025-09-30,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Unity Bank,184327.64,0.0,KES,184327.64
+JNL/01839,2025-09-30,GCL,70000009,Insurance,Admin,Insurance — EcoMap Consultants,84560.02,0.0,KES,84560.02
+JNL/01870,2025-10-06,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 10/2025,877445.46,0.0,KES,877445.46
+JNL/01875,2025-10-09,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — EcoMap Consultants,283905.52,0.0,KES,283905.52
+JNL/01873,2025-10-13,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Solar Connect Ltd,601183.91,0.0,KES,601183.91
+JNL/01877,2025-10-16,GCL,70000006,Professional Fees,Admin,Professional Fees — SurveyTech Africa,113603.13,0.0,KES,113603.13
+JNL/01880,2025-10-16,GCL,70000009,Insurance,Admin,Insurance — Unity Bank,86946.28,0.0,KES,86946.28
+JNL/01868,2025-10-20,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2559663.13,KES,2559663.13
+JNL/01876,2025-10-21,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Solar Connect Ltd,124951.44,0.0,KES,124951.44
+JNL/01871,2025-10-22,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 10/2025,322477.23,0.0,KES,322477.23
+JNL/01879,2025-10-24,GCL,70000008,Depreciation,Depreciation,Depreciation — EcoMap Consultants,118228.83,0.0,KES,118228.83
+JNL/01872,2025-10-28,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 10/2025,230283.35,0.0,KES,230283.35
+JNL/01869,2025-10-29,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1907128.45,KES,1907128.45
+JNL/01878,2025-10-30,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — GreenSeed Nurseries,58704.49,0.0,KES,58704.49
+JNL/01874,2025-10-31,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — GreenSeed Nurseries,193123.9,0.0,KES,193123.9
+JNL/01907,2025-11-03,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2140868.12,KES,2140868.12
+JNL/01910,2025-11-04,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 11/2025,254338.69,0.0,KES,254338.69
+JNL/01914,2025-11-05,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Unity Bank,265980.82,0.0,KES,265980.82
+JNL/01913,2025-11-06,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Frontier Legal,170182.6,0.0,KES,170182.6
+JNL/01917,2025-11-06,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Frontier Legal,70031.44,0.0,KES,70031.44
+JNL/01911,2025-11-07,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 11/2025,155610.21,0.0,KES,155610.21
+JNL/01908,2025-11-10,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1459745.98,KES,1459745.98
+JNL/01909,2025-11-13,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 11/2025,756947.36,0.0,KES,756947.36
+JNL/01912,2025-11-20,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Unity Bank,565374.76,0.0,KES,565374.76
+JNL/01915,2025-11-21,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Solar Connect Ltd,130551.04,0.0,KES,130551.04
+JNL/01916,2025-11-25,GCL,70000006,Professional Fees,Admin,Professional Fees — EcoMap Consultants,109887.89,0.0,KES,109887.89
+JNL/01918,2025-11-25,GCL,70000008,Depreciation,Depreciation,Depreciation — Solar Connect Ltd,137751.87,0.0,KES,137751.87
+JNL/01919,2025-11-28,GCL,70000009,Insurance,Admin,Insurance — SurveyTech Africa,76962.89,0.0,KES,76962.89
+JNL/01960,2025-12-03,GCL,70000009,Insurance,Admin,Insurance — Solar Connect Ltd,87680.36,0.0,KES,87680.36
+JNL/01955,2025-12-04,GCL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Unity Bank,298466.18,0.0,KES,298466.18
+JNL/01948,2025-12-09,GCL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — ClimateBridge AG,0.0,2178095.06,KES,2178095.06
+JNL/01951,2025-12-10,GCL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 12/2025,261578.95,0.0,KES,261578.95
+JNL/01958,2025-12-16,GCL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — EcoMap Consultants,56488.9,0.0,KES,56488.9
+JNL/01949,2025-12-18,GCL,50000003,Revenue — Carbon Credits,Revenue,Export/carbon revenue — Green Invest Fund,0.0,1358459.54,KES,1358459.54
+JNL/01952,2025-12-18,GCL,60000003,COGS — Packaging,COGS,COGS — Packaging — 12/2025,175973.29,0.0,KES,175973.29
+JNL/01954,2025-12-18,GCL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Solar Connect Ltd,194496.52,0.0,KES,194496.52
+JNL/01956,2025-12-18,GCL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — EcoMap Consultants,138129.67,0.0,KES,138129.67
+JNL/01950,2025-12-19,GCL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 12/2025,759927.2,0.0,KES,759927.2
+JNL/01953,2025-12-19,GCL,70000001,Salaries & Wages,Payroll,Salaries & Wages — EcoMap Consultants,575030.14,0.0,KES,575030.14
+JNL/01957,2025-12-30,GCL,70000006,Professional Fees,Admin,Professional Fees — EcoMap Consultants,104108.6,0.0,KES,104108.6
+JNL/01959,2025-12-30,GCL,70000008,Depreciation,Depreciation,Depreciation — SurveyTech Africa,116845.13,0.0,KES,116845.13
+JNL/01003,2024-01-01,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 01/2024,2755321.01,0.0,KES,2755321.01
+JNL/01010,2024-01-02,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,279283.35,0.0,KES,279283.35
+JNL/01011,2024-01-03,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Apex Packaging Co,134510.92,0.0,KES,134510.92
+JNL/01002,2024-01-04,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,3324514.3,KES,3324514.3
+JNL/01007,2024-01-04,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,407636.67,0.0,KES,407636.67
+JNL/01006,2024-01-05,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — TransRoute Logistics,1324781.46,0.0,KES,1324781.46
+JNL/01005,2024-01-10,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 01/2024,598632.52,0.0,KES,598632.52
+JNL/01012,2024-01-10,SHL,70000008,Depreciation,Depreciation,Depreciation — TransRoute Logistics,338284.62,0.0,KES,338284.62
+JNL/01004,2024-01-11,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 01/2024,1113249.86,0.0,KES,1113249.86
+JNL/01008,2024-01-24,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ClearBank Ltd,744111.48,0.0,KES,744111.48
+JNL/DUPE01,2024-01-24,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ClearBank Ltd [duplicate],744111.48,0.0,KES,744111.48
+JNL/01009,2024-01-25,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Apex Packaging Co,311377.35,0.0,KES,311377.35
+JNL/01013,2024-01-26,SHL,70000009,Insurance,Admin,Insurance — Nairobi Legal Partners,205159.38,0.0,KES,205159.38
+JNL/01001,2024-01-29,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,4364503.33,KES,4364503.33
+JNL/01042,2024-02-02,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 02/2024,2172482.35,0.0,KES,2172482.35
+JNL/01041,2024-02-05,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,2273222.94,KES,2273222.94
+JNL/01053,2024-02-05,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,552739.87,0.0,KES,552739.87
+JNL/01040,2024-02-09,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,3696137.24,KES,3696137.24
+JNL/01050,2024-02-09,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Beekeeper Co-op Central,140503.49,0.0,KES,140503.49
+JNL/01043,2024-02-12,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 02/2024,804979.5,0.0,KES,804979.5
+JNL/01045,2024-02-12,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Apex Packaging Co,1360402.79,0.0,KES,1360402.79
+JNL/01051,2024-02-13,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,338260.89,0.0,KES,338260.89
+JNL/01044,2024-02-14,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 02/2024,597166.31,0.0,KES,597166.31
+JNL/01048,2024-02-16,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ClearBank Ltd,305464.16,0.0,KES,305464.16
+JNL/01049,2024-02-16,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,268981.98,0.0,KES,268981.98
+JNL/01046,2024-02-19,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Apex Packaging Co,473786.44,0.0,KES,473786.44
+JNL/01047,2024-02-21,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Beekeeper Co-op Central,653090.49,0.0,KES,653090.49
+JNL/01052,2024-02-29,SHL,70000009,Insurance,Admin,Insurance — ClearBank Ltd,202546.06,0.0,KES,202546.06
+JNL/01093,2024-03-01,SHL,70000009,Insurance,Admin,Insurance — Nairobi Legal Partners,199723.96,0.0,KES,199723.96
+JNL/01085,2024-03-05,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 03/2024,681512.11,0.0,KES,681512.11
+JNL/01089,2024-03-05,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Nairobi Legal Partners,314036.19,0.0,KES,314036.19
+JNL/01086,2024-03-06,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Apex Packaging Co,1378494.03,0.0,KES,1378494.03
+JNL/01082,2024-03-07,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,3805006.88,KES,3805006.88
+JNL/01081,2024-03-12,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,4765995.02,KES,4765995.02
+JNL/01092,2024-03-13,SHL,70000008,Depreciation,Depreciation,Depreciation — Nairobi Legal Partners,276245.6,0.0,KES,276245.6
+JNL/01090,2024-03-19,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,290719.66,0.0,KES,290719.66
+JNL/01088,2024-03-20,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — TransRoute Logistics,721692.15,0.0,KES,721692.15
+JNL/01091,2024-03-21,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Nairobi Legal Partners,150986.4,0.0,KES,150986.4
+JNL/01084,2024-03-22,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 03/2024,1217258.45,0.0,KES,1217258.45
+JNL/01083,2024-03-25,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 03/2024,3135106.27,0.0,KES,3135106.27
+JNL/01087,2024-03-29,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — TransRoute Logistics,436868.06,0.0,KES,436868.06
+JNL/01121,2024-04-03,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,4542489.62,KES,4542489.62
+JNL/01123,2024-04-05,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 04/2024,1786319.74,0.0,KES,1786319.74
+JNL/01124,2024-04-05,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 04/2024,935999.02,0.0,KES,935999.02
+JNL/01126,2024-04-08,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Nairobi Legal Partners,426225.22,0.0,KES,426225.22
+JNL/01130,2024-04-09,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ClearBank Ltd,134013.61,0.0,KES,134013.61
+JNL/01131,2024-04-12,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,304784.12,0.0,KES,304784.12
+JNL/01128,2024-04-18,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Nairobi Legal Partners,327202.36,0.0,KES,327202.36
+JNL/01120,2024-04-22,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,7385945.58,KES,7385945.58
+JNL/01125,2024-04-22,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — ClearBank Ltd,1308859.59,0.0,KES,1308859.59
+JNL/01127,2024-04-23,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Beekeeper Co-op Central,672034.01,0.0,KES,672034.01
+JNL/01122,2024-04-24,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 04/2024,4203870.77,0.0,KES,4203870.77
+JNL/01129,2024-04-24,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,289029.04,0.0,KES,289029.04
+JNL/01133,2024-04-29,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,466652.94,0.0,KES,466652.94
+JNL/01132,2024-04-30,SHL,70000009,Insurance,Admin,Insurance — SunPower Utilities,186233.94,0.0,KES,186233.94
+JNL/01165,2024-05-02,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 05/2024,1234586.38,0.0,KES,1234586.38
+JNL/01167,2024-05-06,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,411161.31,0.0,KES,411161.31
+JNL/01171,2024-05-09,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — TransRoute Logistics,135247.48,0.0,KES,135247.48
+JNL/01170,2024-05-10,SHL,70000006,Professional Fees,Admin,Professional Fees — Apex Packaging Co,245987.34,0.0,KES,245987.34
+JNL/01169,2024-05-15,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ClearBank Ltd,290924.11,0.0,KES,290924.11
+JNL/01161,2024-05-16,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,7730522.34,KES,7730522.34
+JNL/01168,2024-05-17,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Apex Packaging Co,739043.26,0.0,KES,739043.26
+JNL/01162,2024-05-20,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,5801245.58,KES,5801245.58
+JNL/01163,2024-05-20,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 05/2024,4633162.15,0.0,KES,4633162.15
+JNL/01173,2024-05-20,SHL,70000009,Insurance,Admin,Insurance — TransRoute Logistics,198096.93,0.0,KES,198096.93
+JNL/01164,2024-05-21,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 05/2024,2057058.34,0.0,KES,2057058.34
+JNL/01172,2024-05-21,SHL,70000008,Depreciation,Depreciation,Depreciation — Nairobi Legal Partners,310631.55,0.0,KES,310631.55
+JNL/01166,2024-05-29,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — ClearBank Ltd,1456398.07,0.0,KES,1456398.07
+JNL/01200,2024-06-04,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,10679238.01,KES,10679238.01
+JNL/01202,2024-06-04,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 06/2024,6034847.09,0.0,KES,6034847.09
+JNL/01203,2024-06-04,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 06/2024,2436568.9,0.0,KES,2436568.9
+JNL/01211,2024-06-06,SHL,70000008,Depreciation,Depreciation,Depreciation — SunPower Utilities,267889.29,0.0,KES,267889.29
+JNL/01206,2024-06-10,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Nairobi Legal Partners,499617.77,0.0,KES,499617.77
+JNL/01208,2024-06-10,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Apex Packaging Co,268191.02,0.0,KES,268191.02
+JNL/01210,2024-06-12,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Apex Packaging Co,157964.54,0.0,KES,157964.54
+JNL/01212,2024-06-12,SHL,70000009,Insurance,Admin,Insurance — Nairobi Legal Partners,174532.85,0.0,KES,174532.85
+JNL/01201,2024-06-17,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,7103854.82,KES,7103854.82
+JNL/01205,2024-06-25,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — SunPower Utilities,1326734.05,0.0,KES,1326734.05
+JNL/01207,2024-06-25,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Apex Packaging Co,701471.39,0.0,KES,701471.39
+JNL/01204,2024-06-27,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 06/2024,1272648.69,0.0,KES,1272648.69
+JNL/01213,2024-06-27,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,505848.05,0.0,KES,505848.05
+JNL/01209,2024-06-28,SHL,70000006,Professional Fees,Admin,Professional Fees — Apex Packaging Co,240557.94,0.0,KES,240557.94
+JNL/01241,2024-07-01,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,9301276.24,KES,9301276.24
+JNL/01247,2024-07-04,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Beekeeper Co-op Central,441790.17,0.0,KES,441790.17
+JNL/01246,2024-07-05,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Apex Packaging Co,1587775.4,0.0,KES,1587775.4
+JNL/01252,2024-07-09,SHL,70000008,Depreciation,Depreciation,Depreciation — Beekeeper Co-op Central,337825.71,0.0,KES,337825.71
+JNL/01249,2024-07-11,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — TransRoute Logistics,335250.12,0.0,KES,335250.12
+JNL/01244,2024-07-12,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 07/2024,2805739.28,0.0,KES,2805739.28
+JNL/ROUND01,2024-07-15,SHL,70000010,Sundry Expenses,Admin,Miscellaneous operational cost — unspecified,5000000.0,0.0,KES,5000000.0
+JNL/01243,2024-07-24,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 07/2024,5618064.97,0.0,KES,5618064.97
+JNL/01248,2024-07-24,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Apex Packaging Co,604457.36,0.0,KES,604457.36
+JNL/01250,2024-07-26,SHL,70000006,Professional Fees,Admin,Professional Fees — Beekeeper Co-op Central,261415.28,0.0,KES,261415.28
+JNL/01253,2024-07-29,SHL,70000009,Insurance,Admin,Insurance — ClearBank Ltd,206097.23,0.0,KES,206097.23
+JNL/01242,2024-07-30,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,7244393.46,KES,7244393.46
+JNL/01245,2024-07-30,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 07/2024,1688365.5,0.0,KES,1688365.5
+JNL/01251,2024-07-31,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — TransRoute Logistics,169023.57,0.0,KES,169023.57
+JNL/01281,2024-08-06,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,6733943.73,KES,6733943.73
+JNL/01293,2024-08-06,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,510899.99,0.0,KES,510899.99
+JNL/01285,2024-08-07,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Nairobi Legal Partners,1387855.6,0.0,KES,1387855.6
+JNL/01286,2024-08-08,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — TransRoute Logistics,442383.8,0.0,KES,442383.8
+JNL/01288,2024-08-08,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Apex Packaging Co,309711.32,0.0,KES,309711.32
+JNL/01292,2024-08-08,SHL,70000009,Insurance,Admin,Insurance — Beekeeper Co-op Central,180266.28,0.0,KES,180266.28
+JNL/01291,2024-08-12,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,307111.35,0.0,KES,307111.35
+JNL/01289,2024-08-15,SHL,70000006,Professional Fees,Admin,Professional Fees — ClearBank Ltd,236374.55,0.0,KES,236374.55
+JNL/01282,2024-08-16,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 08/2024,5929109.45,0.0,KES,5929109.45
+JNL/01284,2024-08-20,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 08/2024,1546078.81,0.0,KES,1546078.81
+JNL/01287,2024-08-20,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — TransRoute Logistics,617348.08,0.0,KES,617348.08
+JNL/01283,2024-08-26,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 08/2024,2523520.75,0.0,KES,2523520.75
+JNL/01280,2024-08-30,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,10448010.72,KES,10448010.72
+JNL/01290,2024-08-30,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SunPower Utilities,150745.02,0.0,KES,150745.02
+JNL/01325,2024-09-02,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 09/2024,1210382.98,0.0,KES,1210382.98
+JNL/01323,2024-09-03,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 09/2024,4390452.3,0.0,KES,4390452.3
+JNL/01331,2024-09-05,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ClearBank Ltd,153982.84,0.0,KES,153982.84
+JNL/01321,2024-09-10,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,8069726.83,KES,8069726.83
+JNL/01327,2024-09-10,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,473532.0,0.0,KES,473532.0
+JNL/01322,2024-09-12,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,5068748.5,KES,5068748.5
+JNL/01332,2024-09-13,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,312151.15,0.0,KES,312151.15
+JNL/01333,2024-09-13,SHL,70000009,Insurance,Admin,Insurance — Nairobi Legal Partners,186333.76,0.0,KES,186333.76
+JNL/01329,2024-09-16,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Apex Packaging Co,337186.97,0.0,KES,337186.97
+JNL/01330,2024-09-16,SHL,70000006,Professional Fees,Admin,Professional Fees — Nairobi Legal Partners,281187.34,0.0,KES,281187.34
+JNL/01324,2024-09-19,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 09/2024,1874241.23,0.0,KES,1874241.23
+JNL/01328,2024-09-19,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Beekeeper Co-op Central,647873.95,0.0,KES,647873.95
+JNL/01326,2024-09-25,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Nairobi Legal Partners,1518370.36,0.0,KES,1518370.36
+JNL/01366,2024-10-02,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Apex Packaging Co,471681.46,0.0,KES,471681.46
+JNL/01360,2024-10-03,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,6980719.23,KES,6980719.23
+JNL/01368,2024-10-03,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Nairobi Legal Partners,307328.2,0.0,KES,307328.2
+JNL/01365,2024-10-07,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — TransRoute Logistics,1405244.17,0.0,KES,1405244.17
+JNL/01361,2024-10-10,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,3988632.22,KES,3988632.22
+JNL/01364,2024-10-10,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 10/2024,996478.88,0.0,KES,996478.88
+JNL/01363,2024-10-14,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 10/2024,1803600.14,0.0,KES,1803600.14
+JNL/01372,2024-10-17,SHL,70000009,Insurance,Admin,Insurance — ClearBank Ltd,208483.99,0.0,KES,208483.99
+JNL/01369,2024-10-18,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,294183.11,0.0,KES,294183.11
+JNL/01367,2024-10-22,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — TransRoute Logistics,677146.79,0.0,KES,677146.79
+JNL/01373,2024-10-22,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,463494.94,0.0,KES,463494.94
+JNL/01370,2024-10-25,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ClearBank Ltd,147845.02,0.0,KES,147845.02
+JNL/01362,2024-10-30,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 10/2024,3995594.74,0.0,KES,3995594.74
+JNL/01371,2024-10-31,SHL,70000008,Depreciation,Depreciation,Depreciation — TransRoute Logistics,337648.46,0.0,KES,337648.46
+JNL/01404,2024-11-05,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 11/2024,1537303.13,0.0,KES,1537303.13
+JNL/01408,2024-11-05,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Nairobi Legal Partners,684862.23,0.0,KES,684862.23
+JNL/01409,2024-11-07,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — TransRoute Logistics,327818.34,0.0,KES,327818.34
+JNL/01411,2024-11-07,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ClearBank Ltd,166428.69,0.0,KES,166428.69
+JNL/01412,2024-11-11,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,295916.15,0.0,KES,295916.15
+JNL/01401,2024-11-12,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,6620290.55,KES,6620290.55
+JNL/01402,2024-11-13,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,4344076.24,KES,4344076.24
+JNL/01406,2024-11-13,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — TransRoute Logistics,1306458.61,0.0,KES,1306458.61
+JNL/01405,2024-11-14,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 11/2024,923148.55,0.0,KES,923148.55
+JNL/01407,2024-11-15,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Beekeeper Co-op Central,500055.39,0.0,KES,500055.39
+JNL/01410,2024-11-19,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,254511.97,0.0,KES,254511.97
+JNL/01413,2024-11-20,SHL,70000009,Insurance,Admin,Insurance — Apex Packaging Co,167694.2,0.0,KES,167694.2
+JNL/01403,2024-11-21,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 11/2024,3420695.81,0.0,KES,3420695.81
+JNL/01441,2024-12-02,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,6813511.85,KES,6813511.85
+JNL/01446,2024-12-03,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — TransRoute Logistics,410564.64,0.0,KES,410564.64
+JNL/01442,2024-12-04,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 12/2024,5075153.95,0.0,KES,5075153.95
+JNL/01452,2024-12-04,SHL,70000009,Insurance,Admin,Insurance — Beekeeper Co-op Central,212161.65,0.0,KES,212161.65
+JNL/01448,2024-12-10,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Beekeeper Co-op Central,294826.8,0.0,KES,294826.8
+JNL/01449,2024-12-16,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,257741.79,0.0,KES,257741.79
+JNL/01447,2024-12-18,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Beekeeper Co-op Central,763886.75,0.0,KES,763886.75
+JNL/01450,2024-12-18,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Beekeeper Co-op Central,163410.93,0.0,KES,163410.93
+JNL/01444,2024-12-19,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 12/2024,1483727.99,0.0,KES,1483727.99
+JNL/01451,2024-12-19,SHL,70000008,Depreciation,Depreciation,Depreciation — Beekeeper Co-op Central,336631.26,0.0,KES,336631.26
+JNL/01445,2024-12-20,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — TransRoute Logistics,1298912.23,0.0,KES,1298912.23
+JNL/01453,2024-12-23,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,530405.38,0.0,KES,530405.38
+JNL/01443,2024-12-30,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 12/2024,2538261.86,0.0,KES,2538261.86
+JNL/01440,2024-12-31,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,8776809.93,KES,8776809.93
+JNL/01493,2025-01-01,SHL,70000009,Insurance,Admin,Insurance — Beekeeper Co-op Central,169272.35,0.0,KES,169272.35
+JNL/01488,2025-01-02,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Nairobi Legal Partners,716134.1,0.0,KES,716134.1
+JNL/01491,2025-01-03,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Beekeeper Co-op Central,155075.79,0.0,KES,155075.79
+JNL/01484,2025-01-06,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 01/2025,1101555.97,0.0,KES,1101555.97
+JNL/01487,2025-01-06,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Nairobi Legal Partners,470161.39,0.0,KES,470161.39
+JNL/01483,2025-01-10,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 01/2025,2343026.17,0.0,KES,2343026.17
+JNL/01489,2025-01-24,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Beekeeper Co-op Central,300683.32,0.0,KES,300683.32
+JNL/01482,2025-01-29,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,3354934.65,KES,3354934.65
+JNL/01492,2025-01-29,SHL,70000008,Depreciation,Depreciation,Depreciation — Nairobi Legal Partners,333268.49,0.0,KES,333268.49
+JNL/01486,2025-01-30,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Beekeeper Co-op Central,1452004.79,0.0,KES,1452004.79
+JNL/01490,2025-01-30,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,274143.31,0.0,KES,274143.31
+JNL/01481,2025-01-31,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,4529917.2,KES,4529917.2
+JNL/01485,2025-01-31,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 01/2025,725992.78,0.0,KES,725992.78
+JNL/01531,2025-02-03,SHL,70000008,Depreciation,Depreciation,Depreciation — SunPower Utilities,328684.46,0.0,KES,328684.46
+JNL/01526,2025-02-05,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — TransRoute Logistics,417741.62,0.0,KES,417741.62
+JNL/01533,2025-02-12,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,489778.34,0.0,KES,489778.34
+JNL/01521,2025-02-13,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,2227131.2,KES,2227131.2
+JNL/01523,2025-02-13,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 02/2025,879380.78,0.0,KES,879380.78
+JNL/01532,2025-02-14,SHL,70000009,Insurance,Admin,Insurance — Apex Packaging Co,188572.41,0.0,KES,188572.41
+JNL/01520,2025-02-17,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,4079457.5,KES,4079457.5
+JNL/01527,2025-02-20,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — TransRoute Logistics,699452.5,0.0,KES,699452.5
+JNL/01529,2025-02-24,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,295999.34,0.0,KES,295999.34
+JNL/01530,2025-02-24,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ClearBank Ltd,164480.5,0.0,KES,164480.5
+JNL/01525,2025-02-25,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Apex Packaging Co,1612870.42,0.0,KES,1612870.42
+JNL/01524,2025-02-26,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 02/2025,584277.21,0.0,KES,584277.21
+JNL/01528,2025-02-26,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — SunPower Utilities,295309.8,0.0,KES,295309.8
+JNL/01522,2025-02-28,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 02/2025,1927763.56,0.0,KES,1927763.56
+JNL/01568,2025-03-03,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Apex Packaging Co,717501.73,0.0,KES,717501.73
+JNL/01563,2025-03-04,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 03/2025,2974465.28,0.0,KES,2974465.28
+JNL/01564,2025-03-04,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 03/2025,1157307.64,0.0,KES,1157307.64
+JNL/01572,2025-03-04,SHL,70000008,Depreciation,Depreciation,Depreciation — TransRoute Logistics,293098.87,0.0,KES,293098.87
+JNL/01561,2025-03-07,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,5326781.84,KES,5326781.84
+JNL/01566,2025-03-07,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Beekeeper Co-op Central,1532420.37,0.0,KES,1532420.37
+JNL/01562,2025-03-13,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,3816389.03,KES,3816389.03
+JNL/01569,2025-03-14,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Nairobi Legal Partners,283057.87,0.0,KES,283057.87
+JNL/01571,2025-03-17,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SunPower Utilities,134290.59,0.0,KES,134290.59
+JNL/01567,2025-03-24,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,469166.68,0.0,KES,469166.68
+JNL/01570,2025-03-24,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,242785.96,0.0,KES,242785.96
+JNL/01573,2025-03-24,SHL,70000009,Insurance,Admin,Insurance — Beekeeper Co-op Central,194100.25,0.0,KES,194100.25
+JNL/01565,2025-03-26,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 03/2025,675158.59,0.0,KES,675158.59
+JNL/01605,2025-04-01,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — TransRoute Logistics,1330439.17,0.0,KES,1330439.17
+JNL/01604,2025-04-03,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 04/2025,1018109.31,0.0,KES,1018109.31
+JNL/01600,2025-04-08,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,6234645.74,KES,6234645.74
+JNL/01602,2025-04-08,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 04/2025,4287822.39,0.0,KES,4287822.39
+JNL/01601,2025-04-10,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,4333320.67,KES,4333320.67
+JNL/01609,2025-04-10,SHL,70000006,Professional Fees,Admin,Professional Fees — Apex Packaging Co,251865.21,0.0,KES,251865.21
+JNL/01613,2025-04-10,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,495293.45,0.0,KES,495293.45
+JNL/01608,2025-04-14,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — SunPower Utilities,279845.5,0.0,KES,279845.5
+JNL/01610,2025-04-14,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Beekeeper Co-op Central,140217.34,0.0,KES,140217.34
+JNL/01606,2025-04-21,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — SunPower Utilities,422324.11,0.0,KES,422324.11
+JNL/01611,2025-04-21,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,273991.74,0.0,KES,273991.74
+JNL/01603,2025-04-24,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 04/2025,1621055.98,0.0,KES,1621055.98
+JNL/01607,2025-04-28,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ClearBank Ltd,608628.99,0.0,KES,608628.99
+JNL/01612,2025-04-30,SHL,70000009,Insurance,Admin,Insurance — Apex Packaging Co,172701.0,0.0,KES,172701.0
+JNL/01643,2025-05-01,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 05/2025,4333876.34,0.0,KES,4333876.34
+JNL/01646,2025-05-02,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Nairobi Legal Partners,1354750.58,0.0,KES,1354750.58
+JNL/01652,2025-05-05,SHL,70000008,Depreciation,Depreciation,Depreciation — SunPower Utilities,291414.21,0.0,KES,291414.21
+JNL/01645,2025-05-13,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 05/2025,1205614.42,0.0,KES,1205614.42
+JNL/01649,2025-05-13,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — SunPower Utilities,268984.39,0.0,KES,268984.39
+JNL/01653,2025-05-16,SHL,70000009,Insurance,Admin,Insurance — SunPower Utilities,172661.15,0.0,KES,172661.15
+JNL/01647,2025-05-22,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — TransRoute Logistics,430745.98,0.0,KES,430745.98
+JNL/01641,2025-05-27,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,8273121.34,KES,8273121.34
+JNL/01642,2025-05-27,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,5542389.8,KES,5542389.8
+JNL/01650,2025-05-27,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,254641.53,0.0,KES,254641.53
+JNL/01648,2025-05-29,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Nairobi Legal Partners,663854.97,0.0,KES,663854.97
+JNL/01651,2025-05-29,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SunPower Utilities,141473.62,0.0,KES,141473.62
+JNL/01644,2025-05-30,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 05/2025,1968586.82,0.0,KES,1968586.82
+JNL/01682,2025-06-02,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 06/2025,5688266.86,0.0,KES,5688266.86
+JNL/01688,2025-06-04,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — SunPower Utilities,330667.4,0.0,KES,330667.4
+JNL/01681,2025-06-05,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,5845164.64,KES,5845164.64
+JNL/01689,2025-06-05,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,286241.88,0.0,KES,286241.88
+JNL/01690,2025-06-05,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SunPower Utilities,143168.3,0.0,KES,143168.3
+JNL/01691,2025-06-06,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,279987.96,0.0,KES,279987.96
+JNL/01685,2025-06-09,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — TransRoute Logistics,1309548.2,0.0,KES,1309548.2
+JNL/01692,2025-06-13,SHL,70000009,Insurance,Admin,Insurance — SunPower Utilities,197690.13,0.0,KES,197690.13
+JNL/01680,2025-06-23,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,10678431.09,KES,10678431.09
+JNL/01693,2025-06-24,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,551525.12,0.0,KES,551525.12
+JNL/01686,2025-06-25,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Beekeeper Co-op Central,444821.32,0.0,KES,444821.32
+JNL/01687,2025-06-25,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Apex Packaging Co,761068.27,0.0,KES,761068.27
+JNL/01684,2025-06-27,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 06/2025,1577421.06,0.0,KES,1577421.06
+JNL/01683,2025-06-30,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 06/2025,2305579.41,0.0,KES,2305579.41
+JNL/01733,2025-07-01,SHL,70000009,Insurance,Admin,Insurance — SunPower Utilities,200995.1,0.0,KES,200995.1
+JNL/01721,2025-07-02,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,10741009.63,KES,10741009.63
+JNL/01728,2025-07-02,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — SunPower Utilities,622324.63,0.0,KES,622324.63
+JNL/01727,2025-07-07,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,506892.55,0.0,KES,506892.55
+JNL/01722,2025-07-15,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,6952248.0,KES,6952248.0
+JNL/01730,2025-07-15,SHL,70000006,Professional Fees,Admin,Professional Fees — Nairobi Legal Partners,293983.65,0.0,KES,293983.65
+JNL/01725,2025-07-17,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 07/2025,1679449.95,0.0,KES,1679449.95
+JNL/01731,2025-07-21,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Apex Packaging Co,140371.38,0.0,KES,140371.38
+JNL/01723,2025-07-22,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 07/2025,5961146.68,0.0,KES,5961146.68
+JNL/01729,2025-07-23,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — TransRoute Logistics,320844.09,0.0,KES,320844.09
+JNL/01732,2025-07-23,SHL,70000008,Depreciation,Depreciation,Depreciation — Apex Packaging Co,272371.57,0.0,KES,272371.57
+JNL/01726,2025-07-30,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — SunPower Utilities,1558579.46,0.0,KES,1558579.46
+JNL/01724,2025-07-31,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 07/2025,2445460.77,0.0,KES,2445460.77
+JNL/01760,2025-08-04,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,8853541.42,KES,8853541.42
+JNL/01762,2025-08-04,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 08/2025,5828325.37,0.0,KES,5828325.37
+JNL/01768,2025-08-08,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Nairobi Legal Partners,332738.4,0.0,KES,332738.4
+JNL/01769,2025-08-08,SHL,70000006,Professional Fees,Admin,Professional Fees — TransRoute Logistics,284424.05,0.0,KES,284424.05
+JNL/01766,2025-08-12,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — TransRoute Logistics,469140.76,0.0,KES,469140.76
+JNL/01772,2025-08-12,SHL,70000009,Insurance,Admin,Insurance — ClearBank Ltd,178531.1,0.0,KES,178531.1
+JNL/01763,2025-08-14,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 08/2025,2262889.13,0.0,KES,2262889.13
+JNL/01761,2025-08-15,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,7186138.11,KES,7186138.11
+JNL/01764,2025-08-18,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 08/2025,1291355.01,0.0,KES,1291355.01
+JNL/01765,2025-08-20,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Beekeeper Co-op Central,1545897.37,0.0,KES,1545897.37
+JNL/01767,2025-08-20,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Nairobi Legal Partners,689492.97,0.0,KES,689492.97
+JNL/01773,2025-08-22,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,529273.56,0.0,KES,529273.56
+JNL/01770,2025-08-28,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — Apex Packaging Co,139293.1,0.0,KES,139293.1
+JNL/01771,2025-08-28,SHL,70000008,Depreciation,Depreciation,Depreciation — SunPower Utilities,290263.24,0.0,KES,290263.24
+JNL/01811,2025-09-04,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — ClearBank Ltd,159560.07,0.0,KES,159560.07
+JNL/01810,2025-09-05,SHL,70000006,Professional Fees,Admin,Professional Fees — ClearBank Ltd,292972.36,0.0,KES,292972.36
+JNL/01807,2025-09-09,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,503291.02,0.0,KES,503291.02
+JNL/01804,2025-09-10,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 09/2025,2047080.85,0.0,KES,2047080.85
+JNL/01806,2025-09-10,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Beekeeper Co-op Central,1572963.26,0.0,KES,1572963.26
+JNL/01808,2025-09-11,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — Nairobi Legal Partners,694692.26,0.0,KES,694692.26
+JNL/01803,2025-09-12,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 09/2025,4791762.56,0.0,KES,4791762.56
+JNL/01813,2025-09-12,SHL,70000009,Insurance,Admin,Insurance — Apex Packaging Co,193478.75,0.0,KES,193478.75
+JNL/01802,2025-09-22,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,5613823.38,KES,5613823.38
+JNL/01801,2025-09-26,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,7563635.78,KES,7563635.78
+JNL/01805,2025-09-26,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 09/2025,1057899.43,0.0,KES,1057899.43
+JNL/01812,2025-09-29,SHL,70000008,Depreciation,Depreciation,Depreciation — ClearBank Ltd,278649.25,0.0,KES,278649.25
+JNL/01809,2025-09-30,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ClearBank Ltd,318347.64,0.0,KES,318347.64
+JNL/01847,2025-10-01,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — SunPower Utilities,752101.1,0.0,KES,752101.1
+JNL/01845,2025-10-06,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — Beekeeper Co-op Central,1443434.34,0.0,KES,1443434.34
+JNL/01846,2025-10-10,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,447127.2,0.0,KES,447127.2
+JNL/01841,2025-10-13,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,4202573.21,KES,4202573.21
+JNL/01853,2025-10-14,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,461364.32,0.0,KES,461364.32
+JNL/01843,2025-10-17,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 10/2025,1490645.52,0.0,KES,1490645.52
+JNL/01848,2025-10-24,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Nairobi Legal Partners,293960.26,0.0,KES,293960.26
+JNL/01842,2025-10-27,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 10/2025,3870312.17,0.0,KES,3870312.17
+JNL/01849,2025-10-28,SHL,70000006,Professional Fees,Admin,Professional Fees — Beekeeper Co-op Central,271144.76,0.0,KES,271144.76
+JNL/01844,2025-10-29,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 10/2025,902733.3,0.0,KES,902733.3
+JNL/01850,2025-10-29,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — TransRoute Logistics,156825.0,0.0,KES,156825.0
+JNL/01851,2025-10-29,SHL,70000008,Depreciation,Depreciation,Depreciation — Apex Packaging Co,268475.37,0.0,KES,268475.37
+JNL/01840,2025-10-30,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,6672593.06,KES,6672593.06
+JNL/01852,2025-10-31,SHL,70000009,Insurance,Admin,Insurance — SunPower Utilities,197457.3,0.0,KES,197457.3
+JNL/01881,2025-11-04,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,6642406.27,KES,6642406.27
+JNL/01889,2025-11-04,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — Apex Packaging Co,315595.09,0.0,KES,315595.09
+JNL/01886,2025-11-05,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — SunPower Utilities,1279517.9,0.0,KES,1279517.9
+JNL/01892,2025-11-05,SHL,70000008,Depreciation,Depreciation,Depreciation — TransRoute Logistics,284379.22,0.0,KES,284379.22
+JNL/01885,2025-11-06,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 11/2025,850943.69,0.0,KES,850943.69
+JNL/01884,2025-11-11,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 11/2025,1500111.84,0.0,KES,1500111.84
+JNL/01887,2025-11-11,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — ClearBank Ltd,418369.34,0.0,KES,418369.34
+JNL/01893,2025-11-11,SHL,70000009,Insurance,Admin,Insurance — Nairobi Legal Partners,197838.31,0.0,KES,197838.31
+JNL/01890,2025-11-12,SHL,70000006,Professional Fees,Admin,Professional Fees — Beekeeper Co-op Central,235809.81,0.0,KES,235809.81
+JNL/01883,2025-11-13,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 11/2025,3288525.95,0.0,KES,3288525.95
+JNL/01882,2025-11-19,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,3878376.94,KES,3878376.94
+JNL/01891,2025-11-27,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — TransRoute Logistics,141857.54,0.0,KES,141857.54
+JNL/01888,2025-11-28,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — ClearBank Ltd,719454.0,0.0,KES,719454.0
+JNL/01925,2025-12-01,SHL,70000001,Salaries & Wages,Payroll,Salaries & Wages — ClearBank Ltd,1412605.7,0.0,KES,1412605.7
+JNL/01920,2025-12-02,SHL,50000001,Revenue — Domestic Sales,Revenue,Domestic sales — EuroHoney GmbH,0.0,9187050.83,KES,9187050.83
+JNL/01930,2025-12-03,SHL,70000007,Bank Charges & FX,Finance,Bank Charges & FX — SunPower Utilities,161616.34,0.0,KES,161616.34
+JNL/01933,2025-12-03,SHL,13400001,Intercompany — Receivable,Intercompany,Intercompany loan advance — AQL,498491.74,0.0,KES,498491.74
+JNL/01928,2025-12-04,SHL,70000004,Repairs & Maintenance,Maintenance,Repairs & Maintenance — ClearBank Ltd,289004.22,0.0,KES,289004.22
+JNL/01932,2025-12-05,SHL,70000009,Insurance,Admin,Insurance — Nairobi Legal Partners,206802.14,0.0,KES,206802.14
+JNL/01923,2025-12-12,SHL,60000002,COGS — Processing Labour,COGS,COGS — Processing Labour — 12/2025,2225089.99,0.0,KES,2225089.99
+JNL/01931,2025-12-15,SHL,70000008,Depreciation,Depreciation,Depreciation — Apex Packaging Co,277742.66,0.0,KES,277742.66
+JNL/01927,2025-12-18,SHL,70000003,Logistics & Transport,Logistics,Logistics & Transport — SunPower Utilities,673514.53,0.0,KES,673514.53
+JNL/01924,2025-12-19,SHL,60000003,COGS — Packaging,COGS,COGS — Packaging — 12/2025,1455873.72,0.0,KES,1455873.72
+JNL/01926,2025-12-22,SHL,70000002,Rent & Utilities,Facilities,Rent & Utilities — Apex Packaging Co,461696.04,0.0,KES,461696.04
+JNL/01922,2025-12-23,SHL,60000001,COGS — Raw Materials,COGS,COGS — Raw Materials — 12/2025,5777548.3,0.0,KES,5777548.3
+JNL/01921,2025-12-30,SHL,50000002,Revenue — Export Sales,Revenue,Export/carbon revenue — Savanna Domestic Wholesale,0.0,6312320.16,KES,6312320.16
+JNL/01929,2025-12-31,SHL,70000006,Professional Fees,Admin,Professional Fees — SunPower Utilities,294629.26,0.0,KES,294629.26

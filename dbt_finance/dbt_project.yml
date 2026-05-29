@@ -1,0 +1,14 @@
+name: finsight_lite
+version: "1.0.0"
+config-version: 2
+
+profile: finsight_lite
+
+model-paths: ["models"]
+
+models:
+  finsight_lite:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

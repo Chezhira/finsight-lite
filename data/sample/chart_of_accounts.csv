@@ -1,0 +1,37 @@
+account_code,account_name,account_type,category
+11000001,Cash & Bank — KES,Asset,Cash
+11000002,Cash & Bank — USD,Asset,Cash
+12100001,Trade Receivables — Domestic,Asset,Receivables
+12100002,Trade Receivables — Export,Asset,Receivables
+12300001,Suspense / Clearing,Asset,Suspense
+12500001,PPE — Cost,Asset,Fixed Assets
+12600001,PPE — Accumulated Depreciation,Asset,Fixed Assets
+13100001,Inventory — Raw Materials,Asset,Inventory
+13100002,Inventory — Finished Goods,Asset,Inventory
+13200001,Employee Loans & Advances,Asset,Other Current
+13400001,Intercompany — Receivable,Asset,Intercompany
+21000001,Trade Payables — Domestic,Liability,Payables
+21000002,Trade Payables — Import,Liability,Payables
+22000001,VAT Control,Liability,Tax
+22000002,PAYE Payable,Liability,Tax
+23000001,Bank Loan — Long Term,Liability,Debt
+31200001,Intercompany — Payable,Liability,Intercompany
+40000001,Share Capital,Equity,Equity
+40000002,Retained Earnings,Equity,Equity
+50000001,Revenue — Domestic Sales,Revenue,Revenue
+50000002,Revenue — Export Sales,Revenue,Revenue
+50000003,Revenue — Carbon Credits,Revenue,Revenue
+50000004,Other Income,Revenue,Other Income
+60000001,COGS — Raw Materials,COGS,COGS
+60000002,COGS — Processing Labour,COGS,COGS
+60000003,COGS — Packaging,COGS,COGS
+70000001,Salaries & Wages,Expense,Payroll
+70000002,Rent & Utilities,Expense,Facilities
+70000003,Logistics & Transport,Expense,Logistics
+70000004,Repairs & Maintenance,Expense,Maintenance
+70000005,Marketing & Promotions,Expense,Marketing
+70000006,Professional Fees,Expense,Admin
+70000007,Bank Charges & FX,Expense,Finance
+70000008,Depreciation,Expense,Depreciation
+70000009,Insurance,Expense,Admin
+70000010,Sundry Expenses,Expense,Admin

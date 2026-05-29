@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+dbt_finance/target/
+dbt_finance/logs/
+data/processed/*.duckdb.wal
+outputs/screenshots/*.png

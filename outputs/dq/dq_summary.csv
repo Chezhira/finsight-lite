@@ -1,0 +1,7 @@
+run_date,source_file,total_rows,exception_count,critical_count,warning_count,info_count,validation_status
+2026-05-29 08:00:44,gl_transactions.csv,966,1,0,1,0,Pass with warnings
+2026-05-29 08:00:44,sales_invoices.csv,373,0,0,0,0,Pass
+2026-05-29 08:00:44,expense_bills.csv,504,0,0,0,0,Pass
+2026-05-29 08:00:44,cash_movements.csv,72,5,0,1,4,Pass with warnings
+2026-05-29 08:00:44,budget.csv,72,0,0,0,0,Pass
+2026-05-29 08:00:44,chart_of_accounts.csv,36,0,0,0,0,Pass

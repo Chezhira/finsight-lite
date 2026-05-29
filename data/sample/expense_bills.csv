@@ -1,0 +1,505 @@
+bill_ref,bill_date,entity,vendor,expense_category,account_code,account_name,amount_kes,currency,status
+BILL/SHL/08001,2024-01-08,SHL,ClearBank Ltd,Payroll,70000001,Salaries & Wages,1287428.36,KES,Paid
+BILL/SHL/08002,2024-01-30,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,508221.94,KES,Paid
+BILL/SHL/08003,2024-01-01,SHL,SunPower Utilities,Logistics,70000003,Logistics & Transport,668718.01,KES,Outstanding
+BILL/SHL/08004,2024-01-09,SHL,Nairobi Legal Partners,Maintenance,70000004,Repairs & Maintenance,331050.17,KES,Paid
+BILL/SHL/08005,2024-01-18,SHL,Nairobi Legal Partners,Admin,70000006,Professional Fees,284027.49,KES,Paid
+BILL/SHL/08006,2024-01-31,SHL,Apex Packaging Co,Admin,70000009,Insurance,193055.94,KES,Paid
+BILL/SHL/08007,2024-01-11,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,160698.63,KES,Outstanding
+BILL/AQL/08008,2024-01-25,AQL,AquaFeed Suppliers,Payroll,70000001,Salaries & Wages,1202109.8,KES,Paid
+BILL/AQL/08009,2024-01-08,AQL,Meridian Accountants,Facilities,70000002,Rent & Utilities,339993.8,KES,Paid
+BILL/AQL/08010,2024-01-09,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,500330.71,KES,Paid
+BILL/AQL/08011,2024-01-11,AQL,AquaFeed Suppliers,Maintenance,70000004,Repairs & Maintenance,241331.6,KES,Outstanding
+BILL/AQL/08012,2024-01-23,AQL,EastAfrica Power,Admin,70000006,Professional Fees,217998.25,KES,Outstanding
+BILL/AQL/08013,2024-01-26,AQL,LakeView Processing,Admin,70000009,Insurance,154127.52,KES,Paid
+BILL/AQL/08014,2024-01-17,AQL,Meridian Accountants,Admin,70000010,Sundry Expenses,124291.13,KES,Outstanding
+BILL/GCL/08015,2024-01-16,GCL,GreenSeed Nurseries,Payroll,70000001,Salaries & Wages,598600.32,KES,Paid
+BILL/GCL/08016,2024-01-26,GCL,Solar Connect Ltd,Facilities,70000002,Rent & Utilities,206645.8,KES,Paid
+BILL/GCL/08017,2024-01-31,GCL,Unity Bank,Logistics,70000003,Logistics & Transport,261748.85,KES,Paid
+BILL/GCL/08018,2024-01-25,GCL,Frontier Legal,Maintenance,70000004,Repairs & Maintenance,129366.71,KES,Paid
+BILL/GCL/08019,2024-01-05,GCL,Unity Bank,Admin,70000006,Professional Fees,98714.79,KES,Paid
+BILL/GCL/08020,2024-01-10,GCL,GreenSeed Nurseries,Admin,70000009,Insurance,76632.05,KES,Paid
+BILL/GCL/08021,2024-01-08,GCL,GreenSeed Nurseries,Admin,70000010,Sundry Expenses,61948.85,KES,Paid
+BILL/SHL/08022,2024-02-07,SHL,ClearBank Ltd,Payroll,70000001,Salaries & Wages,1408017.61,KES,Outstanding
+BILL/SHL/08023,2024-02-20,SHL,SunPower Utilities,Facilities,70000002,Rent & Utilities,477391.93,KES,Outstanding
+BILL/SHL/08024,2024-02-27,SHL,TransRoute Logistics,Logistics,70000003,Logistics & Transport,665705.7,KES,Paid
+BILL/SHL/08025,2024-02-08,SHL,SunPower Utilities,Maintenance,70000004,Repairs & Maintenance,300256.69,KES,Paid
+BILL/SHL/08026,2024-02-26,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,249244.82,KES,Outstanding
+BILL/SHL/08027,2024-02-08,SHL,ClearBank Ltd,Admin,70000009,Insurance,184220.28,KES,Outstanding
+BILL/SHL/08028,2024-02-22,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,142050.8,KES,Paid
+BILL/AQL/08029,2024-02-08,AQL,ColdChain Express,Payroll,70000001,Salaries & Wages,989118.86,KES,Paid
+BILL/AQL/08030,2024-02-28,AQL,EastAfrica Power,Facilities,70000002,Rent & Utilities,356640.03,KES,Paid
+BILL/AQL/08031,2024-02-01,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,543073.7,KES,Paid
+BILL/AQL/08032,2024-02-09,AQL,ColdChain Express,Maintenance,70000004,Repairs & Maintenance,238653.22,KES,Paid
+BILL/AQL/08033,2024-02-23,AQL,Meridian Accountants,Admin,70000006,Professional Fees,201221.43,KES,Outstanding
+BILL/AQL/08034,2024-02-20,AQL,EastAfrica Power,Admin,70000009,Insurance,140816.55,KES,Outstanding
+BILL/AQL/08035,2024-02-20,AQL,EastAfrica Power,Admin,70000010,Sundry Expenses,126115.21,KES,Outstanding
+BILL/GCL/08036,2024-02-22,GCL,Solar Connect Ltd,Payroll,70000001,Salaries & Wages,610784.41,KES,Paid
+BILL/GCL/08037,2024-02-27,GCL,GreenSeed Nurseries,Facilities,70000002,Rent & Utilities,191040.7,KES,Paid
+BILL/GCL/08038,2024-02-14,GCL,SurveyTech Africa,Logistics,70000003,Logistics & Transport,255212.38,KES,Paid
+BILL/GCL/08039,2024-02-12,GCL,EcoMap Consultants,Maintenance,70000004,Repairs & Maintenance,123123.13,KES,Outstanding
+BILL/GCL/08040,2024-02-08,GCL,EcoMap Consultants,Admin,70000006,Professional Fees,108779.66,KES,Paid
+BILL/GCL/08041,2024-02-22,GCL,Frontier Legal,Admin,70000009,Insurance,78057.4,KES,Outstanding
+BILL/GCL/08042,2024-02-06,GCL,Frontier Legal,Admin,70000010,Sundry Expenses,65231.45,KES,Outstanding
+BILL/SHL/08043,2024-03-13,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1455645.3,KES,Outstanding
+BILL/SHL/08044,2024-03-26,SHL,Beekeeper Co-op Central,Facilities,70000002,Rent & Utilities,467809.13,KES,Paid
+BILL/SHL/08045,2024-03-21,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,727483.24,KES,Outstanding
+BILL/SHL/08046,2024-03-20,SHL,TransRoute Logistics,Maintenance,70000004,Repairs & Maintenance,326835.44,KES,Paid
+BILL/SHL/08047,2024-03-29,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,279924.98,KES,Paid
+BILL/SHL/08048,2024-03-04,SHL,Beekeeper Co-op Central,Admin,70000009,Insurance,210771.88,KES,Paid
+BILL/SHL/08049,2024-03-18,SHL,Beekeeper Co-op Central,Admin,70000010,Sundry Expenses,134425.12,KES,Paid
+BILL/AQL/08050,2024-03-06,AQL,EastAfrica Power,Payroll,70000001,Salaries & Wages,1021539.36,KES,Paid
+BILL/AQL/08051,2024-03-27,AQL,ColdChain Express,Facilities,70000002,Rent & Utilities,306871.65,KES,Outstanding
+BILL/AQL/08052,2024-03-28,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,540475.63,KES,Outstanding
+BILL/AQL/08053,2024-03-08,AQL,EastAfrica Power,Maintenance,70000004,Repairs & Maintenance,254162.34,KES,Outstanding
+BILL/AQL/08054,2024-03-11,AQL,ColdChain Express,Admin,70000006,Professional Fees,190502.46,KES,Paid
+BILL/AQL/08055,2024-03-27,AQL,AquaFeed Suppliers,Admin,70000009,Insurance,159860.8,KES,Paid
+BILL/AQL/08056,2024-03-13,AQL,Meridian Accountants,Admin,70000010,Sundry Expenses,103757.84,KES,Outstanding
+BILL/GCL/08057,2024-03-08,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,671392.91,KES,Paid
+BILL/GCL/08058,2024-03-14,GCL,Unity Bank,Facilities,70000002,Rent & Utilities,185162.77,KES,Paid
+BILL/GCL/08059,2024-03-13,GCL,Frontier Legal,Logistics,70000003,Logistics & Transport,260450.21,KES,Outstanding
+BILL/GCL/08060,2024-03-06,GCL,Unity Bank,Maintenance,70000004,Repairs & Maintenance,127565.98,KES,Paid
+BILL/GCL/08061,2024-03-04,GCL,Solar Connect Ltd,Admin,70000006,Professional Fees,105462.15,KES,Paid
+BILL/GCL/08062,2024-03-07,GCL,Unity Bank,Admin,70000009,Insurance,75869.56,KES,Outstanding
+BILL/GCL/08063,2024-03-12,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,61039.97,KES,Paid
+BILL/SHL/08064,2024-04-15,SHL,ClearBank Ltd,Payroll,70000001,Salaries & Wages,1549016.66,KES,Paid
+BILL/SHL/08065,2024-04-17,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,460285.81,KES,Paid
+BILL/SHL/08066,2024-04-25,SHL,TransRoute Logistics,Logistics,70000003,Logistics & Transport,653024.27,KES,Outstanding
+BILL/SHL/08067,2024-04-29,SHL,Beekeeper Co-op Central,Maintenance,70000004,Repairs & Maintenance,312049.95,KES,Paid
+BILL/SHL/08068,2024-04-19,SHL,SunPower Utilities,Admin,70000006,Professional Fees,279799.06,KES,Paid
+BILL/SHL/08069,2024-04-03,SHL,ClearBank Ltd,Admin,70000009,Insurance,179631.65,KES,Paid
+BILL/SHL/08070,2024-04-11,SHL,Nairobi Legal Partners,Admin,70000010,Sundry Expenses,148846.27,KES,Outstanding
+BILL/AQL/08071,2024-04-19,AQL,LakeView Processing,Payroll,70000001,Salaries & Wages,1001996.43,KES,Paid
+BILL/AQL/08072,2024-04-25,AQL,LakeView Processing,Facilities,70000002,Rent & Utilities,321369.59,KES,Paid
+BILL/AQL/08073,2024-04-03,AQL,Harbour Finance,Logistics,70000003,Logistics & Transport,544690.44,KES,Outstanding
+BILL/AQL/08074,2024-04-29,AQL,EastAfrica Power,Maintenance,70000004,Repairs & Maintenance,214262.49,KES,Outstanding
+BILL/AQL/08075,2024-04-16,AQL,Harbour Finance,Admin,70000006,Professional Fees,204225.96,KES,Paid
+BILL/AQL/08076,2024-04-17,AQL,Meridian Accountants,Admin,70000009,Insurance,152274.81,KES,Paid
+BILL/AQL/08077,2024-04-09,AQL,EastAfrica Power,Admin,70000010,Sundry Expenses,105055.45,KES,Paid
+BILL/GCL/08078,2024-04-15,GCL,EcoMap Consultants,Payroll,70000001,Salaries & Wages,617822.2,KES,Paid
+BILL/GCL/08079,2024-04-24,GCL,EcoMap Consultants,Facilities,70000002,Rent & Utilities,180782.41,KES,Outstanding
+BILL/GCL/08080,2024-04-25,GCL,SurveyTech Africa,Logistics,70000003,Logistics & Transport,319997.51,KES,Paid
+BILL/GCL/08081,2024-04-30,GCL,EcoMap Consultants,Maintenance,70000004,Repairs & Maintenance,127494.52,KES,Paid
+BILL/GCL/08082,2024-04-04,GCL,GreenSeed Nurseries,Admin,70000006,Professional Fees,120225.08,KES,Outstanding
+BILL/GCL/08083,2024-04-01,GCL,Solar Connect Ltd,Admin,70000009,Insurance,80964.35,KES,Paid
+BILL/GCL/08084,2024-04-19,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,56986.82,KES,Paid
+BILL/SHL/08085,2024-05-20,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1490144.94,KES,Paid
+BILL/SHL/08086,2024-05-07,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,505401.58,KES,Outstanding
+BILL/SHL/08087,2024-05-08,SHL,Beekeeper Co-op Central,Logistics,70000003,Logistics & Transport,700680.6,KES,Paid
+BILL/SHL/08088,2024-05-29,SHL,Apex Packaging Co,Maintenance,70000004,Repairs & Maintenance,327288.02,KES,Paid
+BILL/SHL/08089,2024-05-03,SHL,Beekeeper Co-op Central,Admin,70000006,Professional Fees,290527.74,KES,Paid
+BILL/SHL/08090,2024-05-29,SHL,ClearBank Ltd,Admin,70000009,Insurance,177600.44,KES,Paid
+BILL/SHL/08091,2024-05-17,SHL,Apex Packaging Co,Admin,70000010,Sundry Expenses,141495.4,KES,Outstanding
+BILL/AQL/08092,2024-05-31,AQL,LakeView Processing,Payroll,70000001,Salaries & Wages,1131352.25,KES,Paid
+BILL/AQL/08093,2024-05-29,AQL,EastAfrica Power,Facilities,70000002,Rent & Utilities,340569.1,KES,Paid
+BILL/AQL/08094,2024-05-06,AQL,Harbour Finance,Logistics,70000003,Logistics & Transport,564577.82,KES,Paid
+BILL/AQL/08095,2024-05-22,AQL,ColdChain Express,Maintenance,70000004,Repairs & Maintenance,254273.29,KES,Paid
+BILL/AQL/08096,2024-05-27,AQL,ColdChain Express,Admin,70000006,Professional Fees,195858.69,KES,Paid
+BILL/AQL/08097,2024-05-30,AQL,Meridian Accountants,Admin,70000009,Insurance,135843.1,KES,Paid
+BILL/AQL/08098,2024-05-01,AQL,AquaFeed Suppliers,Admin,70000010,Sundry Expenses,123809.83,KES,Outstanding
+BILL/GCL/08099,2024-05-06,GCL,EcoMap Consultants,Payroll,70000001,Salaries & Wages,575139.7,KES,Paid
+BILL/GCL/08100,2024-05-07,GCL,Unity Bank,Facilities,70000002,Rent & Utilities,206866.07,KES,Paid
+BILL/GCL/08101,2024-05-10,GCL,GreenSeed Nurseries,Logistics,70000003,Logistics & Transport,282728.79,KES,Paid
+BILL/GCL/08102,2024-05-06,GCL,GreenSeed Nurseries,Maintenance,70000004,Repairs & Maintenance,133147.13,KES,Paid
+BILL/GCL/08103,2024-05-16,GCL,EcoMap Consultants,Admin,70000006,Professional Fees,101127.99,KES,Paid
+BILL/GCL/08104,2024-05-17,GCL,SurveyTech Africa,Admin,70000009,Insurance,82378.1,KES,Paid
+BILL/GCL/08105,2024-05-30,GCL,Unity Bank,Admin,70000010,Sundry Expenses,63259.15,KES,Paid
+BILL/SHL/08106,2024-06-25,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1474015.03,KES,Outstanding
+BILL/SHL/08107,2024-06-28,SHL,Apex Packaging Co,Facilities,70000002,Rent & Utilities,419667.47,KES,Outstanding
+BILL/SHL/08108,2024-06-21,SHL,TransRoute Logistics,Logistics,70000003,Logistics & Transport,722885.19,KES,Paid
+BILL/SHL/08109,2024-06-11,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,330469.67,KES,Outstanding
+BILL/SHL/08110,2024-06-07,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,247916.67,KES,Paid
+BILL/SHL/08111,2024-06-21,SHL,Nairobi Legal Partners,Admin,70000009,Insurance,171564.58,KES,Paid
+BILL/SHL/08112,2024-06-06,SHL,Apex Packaging Co,Admin,70000010,Sundry Expenses,134622.34,KES,Paid
+BILL/AQL/08113,2024-06-27,AQL,AquaFeed Suppliers,Payroll,70000001,Salaries & Wages,1139548.62,KES,Outstanding
+BILL/AQL/08114,2024-06-18,AQL,EastAfrica Power,Facilities,70000002,Rent & Utilities,356944.49,KES,Paid
+BILL/AQL/08115,2024-06-07,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,527850.25,KES,Paid
+BILL/AQL/08116,2024-06-05,AQL,LakeView Processing,Maintenance,70000004,Repairs & Maintenance,217074.81,KES,Paid
+BILL/AQL/08117,2024-06-28,AQL,Meridian Accountants,Admin,70000006,Professional Fees,197684.94,KES,Outstanding
+BILL/AQL/08118,2024-06-28,AQL,Harbour Finance,Admin,70000009,Insurance,148287.78,KES,Paid
+BILL/AQL/08119,2024-06-03,AQL,Harbour Finance,Admin,70000010,Sundry Expenses,115909.99,KES,Outstanding
+BILL/GCL/08120,2024-06-11,GCL,EcoMap Consultants,Payroll,70000001,Salaries & Wages,679177.66,KES,Outstanding
+BILL/GCL/08121,2024-06-25,GCL,Frontier Legal,Facilities,70000002,Rent & Utilities,175247.14,KES,Paid
+BILL/GCL/08122,2024-06-19,GCL,Unity Bank,Logistics,70000003,Logistics & Transport,301488.39,KES,Paid
+BILL/GCL/08123,2024-06-04,GCL,Unity Bank,Maintenance,70000004,Repairs & Maintenance,125060.67,KES,Paid
+BILL/GCL/08124,2024-06-19,GCL,Solar Connect Ltd,Admin,70000006,Professional Fees,110070.01,KES,Paid
+BILL/GCL/08125,2024-06-24,GCL,SurveyTech Africa,Admin,70000009,Insurance,84177.88,KES,Outstanding
+BILL/GCL/08126,2024-06-05,GCL,Frontier Legal,Admin,70000010,Sundry Expenses,66955.82,KES,Outstanding
+BILL/SHL/08127,2024-07-16,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1614249.68,KES,Paid
+BILL/SHL/08128,2024-07-17,SHL,TransRoute Logistics,Facilities,70000002,Rent & Utilities,415331.47,KES,Outstanding
+BILL/SHL/08129,2024-07-16,SHL,SunPower Utilities,Logistics,70000003,Logistics & Transport,619010.64,KES,Outstanding
+BILL/SHL/08130,2024-07-08,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,320367.76,KES,Paid
+BILL/SHL/08131,2024-07-01,SHL,Apex Packaging Co,Admin,70000006,Professional Fees,271004.22,KES,Outstanding
+BILL/SHL/08132,2024-07-01,SHL,Apex Packaging Co,Admin,70000009,Insurance,179701.73,KES,Paid
+BILL/SHL/08133,2024-07-02,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,136657.22,KES,Paid
+BILL/AQL/08134,2024-07-23,AQL,EastAfrica Power,Payroll,70000001,Salaries & Wages,992414.89,KES,Paid
+BILL/AQL/08135,2024-07-31,AQL,Harbour Finance,Facilities,70000002,Rent & Utilities,380922.82,KES,Outstanding
+BILL/AQL/08136,2024-07-18,AQL,EastAfrica Power,Logistics,70000003,Logistics & Transport,483397.14,KES,Outstanding
+BILL/AQL/08137,2024-07-03,AQL,EastAfrica Power,Maintenance,70000004,Repairs & Maintenance,222165.33,KES,Outstanding
+BILL/AQL/08138,2024-07-24,AQL,Meridian Accountants,Admin,70000006,Professional Fees,189682.7,KES,Outstanding
+BILL/AQL/08139,2024-07-11,AQL,ColdChain Express,Admin,70000009,Insurance,139953.87,KES,Paid
+BILL/AQL/08140,2024-07-03,AQL,LakeView Processing,Admin,70000010,Sundry Expenses,104012.76,KES,Outstanding
+BILL/GCL/08141,2024-07-05,GCL,SurveyTech Africa,Payroll,70000001,Salaries & Wages,610781.2,KES,Outstanding
+BILL/GCL/08142,2024-07-17,GCL,EcoMap Consultants,Facilities,70000002,Rent & Utilities,172075.59,KES,Outstanding
+BILL/GCL/08143,2024-07-29,GCL,Unity Bank,Logistics,70000003,Logistics & Transport,308760.64,KES,Outstanding
+BILL/GCL/08144,2024-07-03,GCL,Unity Bank,Maintenance,70000004,Repairs & Maintenance,119819.64,KES,Paid
+BILL/GCL/08145,2024-07-18,GCL,Unity Bank,Admin,70000006,Professional Fees,113075.52,KES,Outstanding
+BILL/GCL/08146,2024-07-02,GCL,SurveyTech Africa,Admin,70000009,Insurance,87297.52,KES,Paid
+BILL/GCL/08147,2024-07-18,GCL,GreenSeed Nurseries,Admin,70000010,Sundry Expenses,66317.48,KES,Paid
+BILL/SHL/08148,2024-08-28,SHL,SunPower Utilities,Payroll,70000001,Salaries & Wages,1455421.85,KES,Outstanding
+BILL/SHL/08149,2024-08-14,SHL,Apex Packaging Co,Facilities,70000002,Rent & Utilities,436775.09,KES,Outstanding
+BILL/SHL/08150,2024-08-30,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,656585.59,KES,Outstanding
+BILL/SHL/08151,2024-08-06,SHL,TransRoute Logistics,Maintenance,70000004,Repairs & Maintenance,316365.77,KES,Paid
+BILL/SHL/08152,2024-08-07,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,297545.86,KES,Outstanding
+BILL/SHL/08153,2024-08-08,SHL,Apex Packaging Co,Admin,70000009,Insurance,197379.87,KES,Paid
+BILL/SHL/08154,2024-08-23,SHL,Beekeeper Co-op Central,Admin,70000010,Sundry Expenses,154107.94,KES,Outstanding
+BILL/AQL/08155,2024-08-13,AQL,Harbour Finance,Payroll,70000001,Salaries & Wages,1163002.45,KES,Paid
+BILL/AQL/08156,2024-08-07,AQL,LakeView Processing,Facilities,70000002,Rent & Utilities,345093.97,KES,Outstanding
+BILL/AQL/08157,2024-08-06,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,466894.63,KES,Paid
+BILL/AQL/08158,2024-08-20,AQL,LakeView Processing,Maintenance,70000004,Repairs & Maintenance,235468.69,KES,Paid
+BILL/AQL/08159,2024-08-05,AQL,Meridian Accountants,Admin,70000006,Professional Fees,225295.5,KES,Paid
+BILL/AQL/08160,2024-08-27,AQL,Harbour Finance,Admin,70000009,Insurance,133700.54,KES,Outstanding
+BILL/AQL/08161,2024-08-22,AQL,AquaFeed Suppliers,Admin,70000010,Sundry Expenses,121289.74,KES,Paid
+BILL/GCL/08162,2024-08-16,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,564360.24,KES,Paid
+BILL/GCL/08163,2024-08-27,GCL,Solar Connect Ltd,Facilities,70000002,Rent & Utilities,193650.94,KES,Paid
+BILL/GCL/08164,2024-08-08,GCL,EcoMap Consultants,Logistics,70000003,Logistics & Transport,260122.28,KES,Paid
+BILL/GCL/08165,2024-08-27,GCL,GreenSeed Nurseries,Maintenance,70000004,Repairs & Maintenance,126475.4,KES,Outstanding
+BILL/GCL/08166,2024-08-06,GCL,Unity Bank,Admin,70000006,Professional Fees,118885.67,KES,Paid
+BILL/GCL/08167,2024-08-23,GCL,Unity Bank,Admin,70000009,Insurance,77073.37,KES,Paid
+BILL/GCL/08168,2024-08-01,GCL,GreenSeed Nurseries,Admin,70000010,Sundry Expenses,66533.04,KES,Paid
+BILL/SHL/08169,2024-09-23,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1546391.14,KES,Paid
+BILL/SHL/08170,2024-09-06,SHL,SunPower Utilities,Facilities,70000002,Rent & Utilities,502750.34,KES,Paid
+BILL/SHL/08171,2024-09-25,SHL,Apex Packaging Co,Logistics,70000003,Logistics & Transport,640438.84,KES,Outstanding
+BILL/SHL/08172,2024-09-30,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,296654.09,KES,Paid
+BILL/SHL/08173,2024-09-16,SHL,TransRoute Logistics,Admin,70000006,Professional Fees,243810.24,KES,Paid
+BILL/SHL/08174,2024-09-16,SHL,SunPower Utilities,Admin,70000009,Insurance,212457.25,KES,Paid
+BILL/SHL/08175,2024-09-26,SHL,Apex Packaging Co,Admin,70000010,Sundry Expenses,167577.0,KES,Paid
+BILL/AQL/08176,2024-09-24,AQL,AquaFeed Suppliers,Payroll,70000001,Salaries & Wages,1112567.86,KES,Outstanding
+BILL/AQL/08177,2024-09-09,AQL,AquaFeed Suppliers,Facilities,70000002,Rent & Utilities,376566.62,KES,Paid
+BILL/AQL/08178,2024-09-03,AQL,Meridian Accountants,Logistics,70000003,Logistics & Transport,524625.62,KES,Paid
+BILL/AQL/08179,2024-09-20,AQL,AquaFeed Suppliers,Maintenance,70000004,Repairs & Maintenance,238881.25,KES,Paid
+BILL/AQL/08180,2024-09-16,AQL,LakeView Processing,Admin,70000006,Professional Fees,182982.14,KES,Paid
+BILL/AQL/08181,2024-09-20,AQL,Meridian Accountants,Admin,70000009,Insurance,153883.41,KES,Paid
+BILL/AQL/08182,2024-09-10,AQL,LakeView Processing,Admin,70000010,Sundry Expenses,105635.54,KES,Paid
+BILL/GCL/08183,2024-09-13,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,655579.79,KES,Outstanding
+BILL/GCL/08184,2024-09-11,GCL,Frontier Legal,Facilities,70000002,Rent & Utilities,204995.85,KES,Paid
+BILL/GCL/08185,2024-09-26,GCL,EcoMap Consultants,Logistics,70000003,Logistics & Transport,302428.43,KES,Paid
+BILL/GCL/08186,2024-09-25,GCL,SurveyTech Africa,Maintenance,70000004,Repairs & Maintenance,113750.85,KES,Paid
+BILL/GCL/08187,2024-09-02,GCL,SurveyTech Africa,Admin,70000006,Professional Fees,106708.09,KES,Paid
+BILL/GCL/08188,2024-09-11,GCL,GreenSeed Nurseries,Admin,70000009,Insurance,75451.76,KES,Outstanding
+BILL/GCL/08189,2024-09-30,GCL,EcoMap Consultants,Admin,70000010,Sundry Expenses,61851.7,KES,Outstanding
+BILL/SHL/08190,2024-10-15,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1301093.47,KES,Paid
+BILL/SHL/08191,2024-10-17,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,503820.66,KES,Outstanding
+BILL/SHL/08192,2024-10-14,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,692832.18,KES,Paid
+BILL/SHL/08193,2024-10-23,SHL,TransRoute Logistics,Maintenance,70000004,Repairs & Maintenance,289811.05,KES,Paid
+BILL/SHL/08194,2024-10-22,SHL,SunPower Utilities,Admin,70000006,Professional Fees,259423.3,KES,Paid
+BILL/SHL/08195,2024-10-31,SHL,TransRoute Logistics,Admin,70000009,Insurance,187592.44,KES,Paid
+BILL/SHL/08196,2024-10-02,SHL,Apex Packaging Co,Admin,70000010,Sundry Expenses,155669.68,KES,Paid
+BILL/AQL/08197,2024-10-18,AQL,Meridian Accountants,Payroll,70000001,Salaries & Wages,1106146.9,KES,Outstanding
+BILL/AQL/08198,2024-10-21,AQL,LakeView Processing,Facilities,70000002,Rent & Utilities,383027.62,KES,Outstanding
+BILL/AQL/08199,2024-10-25,AQL,AquaFeed Suppliers,Logistics,70000003,Logistics & Transport,521619.59,KES,Paid
+BILL/AQL/08200,2024-10-07,AQL,Meridian Accountants,Maintenance,70000004,Repairs & Maintenance,259403.36,KES,Outstanding
+BILL/AQL/08201,2024-10-03,AQL,EastAfrica Power,Admin,70000006,Professional Fees,220121.42,KES,Outstanding
+BILL/AQL/08202,2024-10-02,AQL,Meridian Accountants,Admin,70000009,Insurance,134856.17,KES,Paid
+BILL/AQL/08203,2024-10-07,AQL,Harbour Finance,Admin,70000010,Sundry Expenses,127987.77,KES,Paid
+BILL/GCL/08204,2024-10-11,GCL,EcoMap Consultants,Payroll,70000001,Salaries & Wages,552020.18,KES,Paid
+BILL/GCL/08205,2024-10-31,GCL,Solar Connect Ltd,Facilities,70000002,Rent & Utilities,206628.08,KES,Outstanding
+BILL/GCL/08206,2024-10-15,GCL,EcoMap Consultants,Logistics,70000003,Logistics & Transport,279748.68,KES,Paid
+BILL/GCL/08207,2024-10-10,GCL,EcoMap Consultants,Maintenance,70000004,Repairs & Maintenance,139611.37,KES,Paid
+BILL/GCL/08208,2024-10-07,GCL,SurveyTech Africa,Admin,70000006,Professional Fees,121893.36,KES,Outstanding
+BILL/GCL/08209,2024-10-07,GCL,GreenSeed Nurseries,Admin,70000009,Insurance,85873.77,KES,Paid
+BILL/GCL/08210,2024-10-21,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,68454.87,KES,Paid
+BILL/SHL/08211,2024-11-20,SHL,Beekeeper Co-op Central,Payroll,70000001,Salaries & Wages,1376309.6,KES,Paid
+BILL/SHL/08212,2024-11-18,SHL,Nairobi Legal Partners,Facilities,70000002,Rent & Utilities,410135.81,KES,Paid
+BILL/SHL/08213,2024-11-14,SHL,SunPower Utilities,Logistics,70000003,Logistics & Transport,668073.23,KES,Paid
+BILL/SHL/08214,2024-11-06,SHL,Beekeeper Co-op Central,Maintenance,70000004,Repairs & Maintenance,280180.35,KES,Paid
+BILL/SHL/08215,2024-11-14,SHL,TransRoute Logistics,Admin,70000006,Professional Fees,278445.68,KES,Outstanding
+BILL/SHL/08216,2024-11-28,SHL,ClearBank Ltd,Admin,70000009,Insurance,182982.15,KES,Paid
+BILL/SHL/08217,2024-11-15,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,169350.26,KES,Paid
+BILL/AQL/08218,2024-11-12,AQL,AquaFeed Suppliers,Payroll,70000001,Salaries & Wages,1139284.3,KES,Paid
+BILL/AQL/08219,2024-11-25,AQL,EastAfrica Power,Facilities,70000002,Rent & Utilities,374933.58,KES,Paid
+BILL/AQL/08220,2024-11-14,AQL,Harbour Finance,Logistics,70000003,Logistics & Transport,475962.69,KES,Paid
+BILL/AQL/08221,2024-11-01,AQL,ColdChain Express,Maintenance,70000004,Repairs & Maintenance,252156.97,KES,Paid
+BILL/AQL/08222,2024-11-26,AQL,EastAfrica Power,Admin,70000006,Professional Fees,223596.73,KES,Outstanding
+BILL/AQL/08223,2024-11-12,AQL,Meridian Accountants,Admin,70000009,Insurance,144549.75,KES,Paid
+BILL/AQL/08224,2024-11-06,AQL,EastAfrica Power,Admin,70000010,Sundry Expenses,118958.08,KES,Paid
+BILL/GCL/08225,2024-11-01,GCL,GreenSeed Nurseries,Payroll,70000001,Salaries & Wages,646641.05,KES,Paid
+BILL/GCL/08226,2024-11-07,GCL,SurveyTech Africa,Facilities,70000002,Rent & Utilities,177016.56,KES,Paid
+BILL/GCL/08227,2024-11-18,GCL,Solar Connect Ltd,Logistics,70000003,Logistics & Transport,288177.37,KES,Outstanding
+BILL/GCL/08228,2024-11-29,GCL,Unity Bank,Maintenance,70000004,Repairs & Maintenance,124886.93,KES,Paid
+BILL/GCL/08229,2024-11-27,GCL,Frontier Legal,Admin,70000006,Professional Fees,102494.53,KES,Paid
+BILL/GCL/08230,2024-11-01,GCL,GreenSeed Nurseries,Admin,70000009,Insurance,77456.66,KES,Paid
+BILL/GCL/08231,2024-11-29,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,57367.13,KES,Paid
+BILL/SHL/08232,2024-12-04,SHL,TransRoute Logistics,Payroll,70000001,Salaries & Wages,1279665.37,KES,Paid
+BILL/SHL/08233,2024-12-03,SHL,Apex Packaging Co,Facilities,70000002,Rent & Utilities,416072.6,KES,Paid
+BILL/SHL/08234,2024-12-09,SHL,Apex Packaging Co,Logistics,70000003,Logistics & Transport,760024.98,KES,Outstanding
+BILL/SHL/08235,2024-12-18,SHL,SunPower Utilities,Maintenance,70000004,Repairs & Maintenance,307613.67,KES,Paid
+BILL/SHL/08236,2024-12-18,SHL,Apex Packaging Co,Admin,70000006,Professional Fees,295738.09,KES,Outstanding
+BILL/SHL/08237,2024-12-09,SHL,SunPower Utilities,Admin,70000009,Insurance,186921.9,KES,Paid
+BILL/SHL/08238,2024-12-09,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,145135.05,KES,Paid
+BILL/AQL/08239,2024-12-20,AQL,LakeView Processing,Payroll,70000001,Salaries & Wages,1103624.4,KES,Paid
+BILL/AQL/08240,2024-12-27,AQL,AquaFeed Suppliers,Facilities,70000002,Rent & Utilities,342948.02,KES,Outstanding
+BILL/AQL/08241,2024-12-11,AQL,Meridian Accountants,Logistics,70000003,Logistics & Transport,472597.67,KES,Outstanding
+BILL/AQL/08242,2024-12-23,AQL,LakeView Processing,Maintenance,70000004,Repairs & Maintenance,239841.21,KES,Paid
+BILL/AQL/08243,2024-12-23,AQL,Meridian Accountants,Admin,70000006,Professional Fees,189165.38,KES,Paid
+BILL/AQL/08244,2024-12-12,AQL,AquaFeed Suppliers,Admin,70000009,Insurance,149161.66,KES,Paid
+BILL/AQL/08245,2024-12-19,AQL,ColdChain Express,Admin,70000010,Sundry Expenses,120181.6,KES,Paid
+BILL/GCL/08246,2024-12-24,GCL,Unity Bank,Payroll,70000001,Salaries & Wages,557223.47,KES,Paid
+BILL/GCL/08247,2024-12-25,GCL,Unity Bank,Facilities,70000002,Rent & Utilities,171786.99,KES,Paid
+BILL/GCL/08248,2024-12-17,GCL,Solar Connect Ltd,Logistics,70000003,Logistics & Transport,307406.24,KES,Paid
+BILL/GCL/08249,2024-12-23,GCL,Frontier Legal,Maintenance,70000004,Repairs & Maintenance,126765.07,KES,Paid
+BILL/GCL/08250,2024-12-24,GCL,Frontier Legal,Admin,70000006,Professional Fees,100123.44,KES,Paid
+BILL/GCL/08251,2024-12-12,GCL,Solar Connect Ltd,Admin,70000009,Insurance,89501.43,KES,Paid
+BILL/GCL/08252,2024-12-16,GCL,GreenSeed Nurseries,Admin,70000010,Sundry Expenses,57207.51,KES,Outstanding
+BILL/SHL/08253,2025-01-01,SHL,TransRoute Logistics,Payroll,70000001,Salaries & Wages,1511591.41,KES,Paid
+BILL/SHL/08254,2025-01-22,SHL,Apex Packaging Co,Facilities,70000002,Rent & Utilities,508933.82,KES,Outstanding
+BILL/SHL/08255,2025-01-27,SHL,Beekeeper Co-op Central,Logistics,70000003,Logistics & Transport,641183.81,KES,Paid
+BILL/SHL/08256,2025-01-06,SHL,TransRoute Logistics,Maintenance,70000004,Repairs & Maintenance,277898.51,KES,Paid
+BILL/SHL/08257,2025-01-10,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,241829.21,KES,Paid
+BILL/SHL/08258,2025-01-02,SHL,Nairobi Legal Partners,Admin,70000009,Insurance,181029.35,KES,Paid
+BILL/SHL/08259,2025-01-17,SHL,Nairobi Legal Partners,Admin,70000010,Sundry Expenses,137446.15,KES,Paid
+BILL/AQL/08260,2025-01-08,AQL,ColdChain Express,Payroll,70000001,Salaries & Wages,1152822.83,KES,Paid
+BILL/AQL/08261,2025-01-15,AQL,Meridian Accountants,Facilities,70000002,Rent & Utilities,311442.61,KES,Outstanding
+BILL/AQL/08262,2025-01-16,AQL,Harbour Finance,Logistics,70000003,Logistics & Transport,523180.4,KES,Outstanding
+BILL/AQL/08263,2025-01-31,AQL,AquaFeed Suppliers,Maintenance,70000004,Repairs & Maintenance,259656.08,KES,Outstanding
+BILL/AQL/08264,2025-01-27,AQL,LakeView Processing,Admin,70000006,Professional Fees,218296.63,KES,Outstanding
+BILL/AQL/08265,2025-01-27,AQL,ColdChain Express,Admin,70000009,Insurance,149009.64,KES,Paid
+BILL/AQL/08266,2025-01-24,AQL,EastAfrica Power,Admin,70000010,Sundry Expenses,110606.1,KES,Paid
+BILL/GCL/08267,2025-01-22,GCL,SurveyTech Africa,Payroll,70000001,Salaries & Wages,626078.88,KES,Paid
+BILL/GCL/08268,2025-01-02,GCL,GreenSeed Nurseries,Facilities,70000002,Rent & Utilities,193246.07,KES,Paid
+BILL/GCL/08269,2025-01-10,GCL,Frontier Legal,Logistics,70000003,Logistics & Transport,282890.88,KES,Paid
+BILL/GCL/08270,2025-01-22,GCL,Frontier Legal,Maintenance,70000004,Repairs & Maintenance,116655.42,KES,Paid
+BILL/GCL/08271,2025-01-28,GCL,EcoMap Consultants,Admin,70000006,Professional Fees,122391.92,KES,Paid
+BILL/GCL/08272,2025-01-15,GCL,SurveyTech Africa,Admin,70000009,Insurance,79035.87,KES,Outstanding
+BILL/GCL/08273,2025-01-15,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,59309.4,KES,Paid
+BILL/SHL/08274,2025-02-07,SHL,Apex Packaging Co,Payroll,70000001,Salaries & Wages,1398170.68,KES,Outstanding
+BILL/SHL/08275,2025-02-07,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,446602.36,KES,Paid
+BILL/SHL/08276,2025-02-18,SHL,Nairobi Legal Partners,Logistics,70000003,Logistics & Transport,737768.62,KES,Paid
+BILL/SHL/08277,2025-02-19,SHL,Beekeeper Co-op Central,Maintenance,70000004,Repairs & Maintenance,321044.51,KES,Outstanding
+BILL/SHL/08278,2025-02-17,SHL,Apex Packaging Co,Admin,70000006,Professional Fees,283192.42,KES,Paid
+BILL/SHL/08279,2025-02-07,SHL,Beekeeper Co-op Central,Admin,70000009,Insurance,167703.03,KES,Paid
+BILL/SHL/08280,2025-02-20,SHL,ClearBank Ltd,Admin,70000010,Sundry Expenses,148941.3,KES,Outstanding
+BILL/AQL/08281,2025-02-17,AQL,EastAfrica Power,Payroll,70000001,Salaries & Wages,1097065.9,KES,Paid
+BILL/AQL/08282,2025-02-26,AQL,Harbour Finance,Facilities,70000002,Rent & Utilities,307842.94,KES,Outstanding
+BILL/AQL/08283,2025-02-18,AQL,Meridian Accountants,Logistics,70000003,Logistics & Transport,491909.4,KES,Paid
+BILL/AQL/08284,2025-02-27,AQL,Harbour Finance,Maintenance,70000004,Repairs & Maintenance,246492.94,KES,Paid
+BILL/AQL/08285,2025-02-14,AQL,EastAfrica Power,Admin,70000006,Professional Fees,185319.98,KES,Outstanding
+BILL/AQL/08286,2025-02-14,AQL,Harbour Finance,Admin,70000009,Insurance,146228.79,KES,Paid
+BILL/AQL/08287,2025-02-03,AQL,ColdChain Express,Admin,70000010,Sundry Expenses,108071.22,KES,Outstanding
+BILL/GCL/08288,2025-02-19,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,536808.66,KES,Outstanding
+BILL/GCL/08289,2025-02-10,GCL,GreenSeed Nurseries,Facilities,70000002,Rent & Utilities,180074.56,KES,Outstanding
+BILL/GCL/08290,2025-02-28,GCL,EcoMap Consultants,Logistics,70000003,Logistics & Transport,320892.39,KES,Paid
+BILL/GCL/08291,2025-02-27,GCL,Unity Bank,Maintenance,70000004,Repairs & Maintenance,137263.22,KES,Paid
+BILL/GCL/08292,2025-02-07,GCL,Solar Connect Ltd,Admin,70000006,Professional Fees,124353.42,KES,Paid
+BILL/GCL/08293,2025-02-05,GCL,Unity Bank,Admin,70000009,Insurance,79766.8,KES,Paid
+BILL/GCL/08294,2025-02-17,GCL,EcoMap Consultants,Admin,70000010,Sundry Expenses,58005.55,KES,Paid
+BILL/SHL/08295,2025-03-05,SHL,ClearBank Ltd,Payroll,70000001,Salaries & Wages,1460620.84,KES,Outstanding
+BILL/SHL/08296,2025-03-31,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,451007.06,KES,Outstanding
+BILL/SHL/08297,2025-03-21,SHL,Beekeeper Co-op Central,Logistics,70000003,Logistics & Transport,740529.66,KES,Paid
+BILL/SHL/08298,2025-03-11,SHL,Beekeeper Co-op Central,Maintenance,70000004,Repairs & Maintenance,274676.11,KES,Paid
+BILL/SHL/08299,2025-03-05,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,265249.31,KES,Paid
+BILL/SHL/08300,2025-03-06,SHL,Beekeeper Co-op Central,Admin,70000009,Insurance,174042.22,KES,Outstanding
+BILL/SHL/08301,2025-03-04,SHL,Apex Packaging Co,Admin,70000010,Sundry Expenses,145604.18,KES,Paid
+BILL/AQL/08302,2025-03-20,AQL,EastAfrica Power,Payroll,70000001,Salaries & Wages,1164776.2,KES,Paid
+BILL/AQL/08303,2025-03-24,AQL,EastAfrica Power,Facilities,70000002,Rent & Utilities,345997.03,KES,Paid
+BILL/AQL/08304,2025-03-26,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,506451.28,KES,Paid
+BILL/AQL/08305,2025-03-24,AQL,AquaFeed Suppliers,Maintenance,70000004,Repairs & Maintenance,226124.44,KES,Outstanding
+BILL/AQL/08306,2025-03-12,AQL,Harbour Finance,Admin,70000006,Professional Fees,201024.25,KES,Paid
+BILL/AQL/08307,2025-03-05,AQL,EastAfrica Power,Admin,70000009,Insurance,154918.58,KES,Paid
+BILL/AQL/08308,2025-03-03,AQL,LakeView Processing,Admin,70000010,Sundry Expenses,126915.64,KES,Paid
+BILL/GCL/08309,2025-03-06,GCL,EcoMap Consultants,Payroll,70000001,Salaries & Wages,674442.44,KES,Paid
+BILL/GCL/08310,2025-03-10,GCL,EcoMap Consultants,Facilities,70000002,Rent & Utilities,205220.51,KES,Paid
+BILL/GCL/08311,2025-03-05,GCL,SurveyTech Africa,Logistics,70000003,Logistics & Transport,275240.92,KES,Outstanding
+BILL/GCL/08312,2025-03-17,GCL,GreenSeed Nurseries,Maintenance,70000004,Repairs & Maintenance,133779.5,KES,Outstanding
+BILL/GCL/08313,2025-03-24,GCL,Frontier Legal,Admin,70000006,Professional Fees,110322.77,KES,Outstanding
+BILL/GCL/08314,2025-03-20,GCL,GreenSeed Nurseries,Admin,70000009,Insurance,75289.68,KES,Outstanding
+BILL/GCL/08315,2025-03-28,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,69235.79,KES,Paid
+BILL/SHL/08316,2025-04-02,SHL,TransRoute Logistics,Payroll,70000001,Salaries & Wages,1284037.04,KES,Paid
+BILL/SHL/08317,2025-04-09,SHL,Beekeeper Co-op Central,Facilities,70000002,Rent & Utilities,499968.83,KES,Paid
+BILL/SHL/08318,2025-04-24,SHL,SunPower Utilities,Logistics,70000003,Logistics & Transport,677676.14,KES,Outstanding
+BILL/SHL/08319,2025-04-24,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,314010.22,KES,Paid
+BILL/SHL/08320,2025-04-14,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,276173.15,KES,Paid
+BILL/SHL/08321,2025-04-04,SHL,TransRoute Logistics,Admin,70000009,Insurance,208017.37,KES,Paid
+BILL/SHL/08322,2025-04-25,SHL,SunPower Utilities,Admin,70000010,Sundry Expenses,156985.71,KES,Outstanding
+BILL/AQL/08323,2025-04-07,AQL,EastAfrica Power,Payroll,70000001,Salaries & Wages,1132133.15,KES,Paid
+BILL/AQL/08324,2025-04-01,AQL,LakeView Processing,Facilities,70000002,Rent & Utilities,311806.78,KES,Paid
+BILL/AQL/08325,2025-04-14,AQL,AquaFeed Suppliers,Logistics,70000003,Logistics & Transport,524306.16,KES,Outstanding
+BILL/AQL/08326,2025-04-28,AQL,Harbour Finance,Maintenance,70000004,Repairs & Maintenance,212521.41,KES,Paid
+BILL/AQL/08327,2025-04-04,AQL,ColdChain Express,Admin,70000006,Professional Fees,214567.77,KES,Paid
+BILL/AQL/08328,2025-04-08,AQL,ColdChain Express,Admin,70000009,Insurance,145425.32,KES,Outstanding
+BILL/AQL/08329,2025-04-03,AQL,LakeView Processing,Admin,70000010,Sundry Expenses,121017.54,KES,Paid
+BILL/GCL/08330,2025-04-14,GCL,GreenSeed Nurseries,Payroll,70000001,Salaries & Wages,541120.91,KES,Paid
+BILL/GCL/08331,2025-04-22,GCL,Solar Connect Ltd,Facilities,70000002,Rent & Utilities,172867.22,KES,Outstanding
+BILL/GCL/08332,2025-04-03,GCL,EcoMap Consultants,Logistics,70000003,Logistics & Transport,302952.27,KES,Outstanding
+BILL/GCL/08333,2025-04-17,GCL,Frontier Legal,Maintenance,70000004,Repairs & Maintenance,114854.43,KES,Paid
+BILL/GCL/08334,2025-04-17,GCL,EcoMap Consultants,Admin,70000006,Professional Fees,100475.38,KES,Paid
+BILL/GCL/08335,2025-04-21,GCL,SurveyTech Africa,Admin,70000009,Insurance,70632.48,KES,Paid
+BILL/GCL/08336,2025-04-21,GCL,EcoMap Consultants,Admin,70000010,Sundry Expenses,71011.86,KES,Paid
+BILL/SHL/08337,2025-05-12,SHL,Beekeeper Co-op Central,Payroll,70000001,Salaries & Wages,1526310.9,KES,Paid
+BILL/SHL/08338,2025-05-02,SHL,Nairobi Legal Partners,Facilities,70000002,Rent & Utilities,439939.83,KES,Paid
+BILL/SHL/08339,2025-05-30,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,650599.28,KES,Paid
+BILL/SHL/08340,2025-05-30,SHL,Apex Packaging Co,Maintenance,70000004,Repairs & Maintenance,293034.35,KES,Paid
+BILL/SHL/08341,2025-05-20,SHL,Nairobi Legal Partners,Admin,70000006,Professional Fees,283533.88,KES,Outstanding
+BILL/SHL/08342,2025-05-26,SHL,TransRoute Logistics,Admin,70000009,Insurance,197358.5,KES,Paid
+BILL/SHL/08343,2025-05-23,SHL,SunPower Utilities,Admin,70000010,Sundry Expenses,140515.93,KES,Paid
+BILL/AQL/08344,2025-05-30,AQL,Meridian Accountants,Payroll,70000001,Salaries & Wages,1015808.44,KES,Paid
+BILL/AQL/08345,2025-05-12,AQL,Meridian Accountants,Facilities,70000002,Rent & Utilities,314458.0,KES,Paid
+BILL/AQL/08346,2025-05-05,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,542082.72,KES,Paid
+BILL/AQL/08347,2025-05-02,AQL,Harbour Finance,Maintenance,70000004,Repairs & Maintenance,246720.27,KES,Outstanding
+BILL/AQL/08348,2025-05-23,AQL,Meridian Accountants,Admin,70000006,Professional Fees,191553.06,KES,Outstanding
+BILL/AQL/08349,2025-05-28,AQL,Harbour Finance,Admin,70000009,Insurance,128328.88,KES,Paid
+BILL/AQL/08350,2025-05-21,AQL,AquaFeed Suppliers,Admin,70000010,Sundry Expenses,104367.66,KES,Paid
+BILL/GCL/08351,2025-05-09,GCL,SurveyTech Africa,Payroll,70000001,Salaries & Wages,676270.14,KES,Paid
+BILL/GCL/08352,2025-05-02,GCL,SurveyTech Africa,Facilities,70000002,Rent & Utilities,182574.1,KES,Paid
+BILL/GCL/08353,2025-05-30,GCL,GreenSeed Nurseries,Logistics,70000003,Logistics & Transport,306608.7,KES,Paid
+BILL/GCL/08354,2025-05-29,GCL,SurveyTech Africa,Maintenance,70000004,Repairs & Maintenance,131829.66,KES,Paid
+BILL/GCL/08355,2025-05-13,GCL,Frontier Legal,Admin,70000006,Professional Fees,108826.54,KES,Paid
+BILL/GCL/08356,2025-05-05,GCL,Unity Bank,Admin,70000009,Insurance,74349.2,KES,Paid
+BILL/GCL/08357,2025-05-26,GCL,Solar Connect Ltd,Admin,70000010,Sundry Expenses,58184.5,KES,Paid
+BILL/SHL/08358,2025-06-16,SHL,Nairobi Legal Partners,Payroll,70000001,Salaries & Wages,1483858.89,KES,Paid
+BILL/SHL/08359,2025-06-20,SHL,Nairobi Legal Partners,Facilities,70000002,Rent & Utilities,486055.92,KES,Paid
+BILL/SHL/08360,2025-06-27,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,707623.32,KES,Outstanding
+BILL/SHL/08361,2025-06-19,SHL,Nairobi Legal Partners,Maintenance,70000004,Repairs & Maintenance,306210.84,KES,Paid
+BILL/SHL/08362,2025-06-06,SHL,SunPower Utilities,Admin,70000006,Professional Fees,236758.17,KES,Paid
+BILL/SHL/08363,2025-06-26,SHL,Nairobi Legal Partners,Admin,70000009,Insurance,211363.09,KES,Outstanding
+BILL/SHL/08364,2025-06-05,SHL,Apex Packaging Co,Admin,70000010,Sundry Expenses,162897.09,KES,Outstanding
+BILL/AQL/08365,2025-06-13,AQL,AquaFeed Suppliers,Payroll,70000001,Salaries & Wages,1047205.57,KES,Outstanding
+BILL/AQL/08366,2025-06-19,AQL,LakeView Processing,Facilities,70000002,Rent & Utilities,388087.12,KES,Paid
+BILL/AQL/08367,2025-06-30,AQL,EastAfrica Power,Logistics,70000003,Logistics & Transport,534763.73,KES,Paid
+BILL/AQL/08368,2025-06-27,AQL,Meridian Accountants,Maintenance,70000004,Repairs & Maintenance,236589.29,KES,Paid
+BILL/AQL/08369,2025-06-09,AQL,AquaFeed Suppliers,Admin,70000006,Professional Fees,215086.13,KES,Paid
+BILL/AQL/08370,2025-06-06,AQL,EastAfrica Power,Admin,70000009,Insurance,155849.59,KES,Outstanding
+BILL/AQL/08371,2025-06-18,AQL,Meridian Accountants,Admin,70000010,Sundry Expenses,120356.36,KES,Paid
+BILL/GCL/08372,2025-06-16,GCL,Solar Connect Ltd,Payroll,70000001,Salaries & Wages,553731.73,KES,Outstanding
+BILL/GCL/08373,2025-06-03,GCL,SurveyTech Africa,Facilities,70000002,Rent & Utilities,184547.37,KES,Outstanding
+BILL/GCL/08374,2025-06-12,GCL,Solar Connect Ltd,Logistics,70000003,Logistics & Transport,317589.14,KES,Paid
+BILL/GCL/08375,2025-06-16,GCL,GreenSeed Nurseries,Maintenance,70000004,Repairs & Maintenance,119540.19,KES,Paid
+BILL/GCL/08376,2025-06-12,GCL,EcoMap Consultants,Admin,70000006,Professional Fees,108563.85,KES,Paid
+BILL/GCL/08377,2025-06-05,GCL,Unity Bank,Admin,70000009,Insurance,78695.88,KES,Paid
+BILL/GCL/08378,2025-06-13,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,63069.26,KES,Outstanding
+BILL/SHL/08379,2025-07-15,SHL,SunPower Utilities,Payroll,70000001,Salaries & Wages,1483140.34,KES,Paid
+BILL/SHL/08380,2025-07-18,SHL,ClearBank Ltd,Facilities,70000002,Rent & Utilities,504490.22,KES,Outstanding
+BILL/SHL/08381,2025-07-03,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,641432.12,KES,Paid
+BILL/SHL/08382,2025-07-09,SHL,SunPower Utilities,Maintenance,70000004,Repairs & Maintenance,276384.74,KES,Paid
+BILL/SHL/08383,2025-07-22,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,246686.52,KES,Outstanding
+BILL/SHL/08384,2025-07-02,SHL,Beekeeper Co-op Central,Admin,70000009,Insurance,207643.78,KES,Outstanding
+BILL/SHL/08385,2025-07-03,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,157319.18,KES,Paid
+BILL/AQL/08386,2025-07-23,AQL,Harbour Finance,Payroll,70000001,Salaries & Wages,1045376.63,KES,Paid
+BILL/AQL/08387,2025-07-23,AQL,ColdChain Express,Facilities,70000002,Rent & Utilities,374387.89,KES,Outstanding
+BILL/AQL/08388,2025-07-08,AQL,AquaFeed Suppliers,Logistics,70000003,Logistics & Transport,567272.43,KES,Paid
+BILL/AQL/08389,2025-07-02,AQL,ColdChain Express,Maintenance,70000004,Repairs & Maintenance,251293.92,KES,Paid
+BILL/AQL/08390,2025-07-21,AQL,AquaFeed Suppliers,Admin,70000006,Professional Fees,223410.1,KES,Paid
+BILL/AQL/08391,2025-07-31,AQL,LakeView Processing,Admin,70000009,Insurance,136377.99,KES,Paid
+BILL/AQL/08392,2025-07-16,AQL,LakeView Processing,Admin,70000010,Sundry Expenses,123100.37,KES,Paid
+BILL/GCL/08393,2025-07-17,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,602241.92,KES,Outstanding
+BILL/GCL/08394,2025-07-30,GCL,GreenSeed Nurseries,Facilities,70000002,Rent & Utilities,207759.29,KES,Paid
+BILL/GCL/08395,2025-07-16,GCL,SurveyTech Africa,Logistics,70000003,Logistics & Transport,303793.28,KES,Paid
+BILL/GCL/08396,2025-07-21,GCL,Frontier Legal,Maintenance,70000004,Repairs & Maintenance,136492.47,KES,Paid
+BILL/GCL/08397,2025-07-25,GCL,Solar Connect Ltd,Admin,70000006,Professional Fees,116197.63,KES,Outstanding
+BILL/GCL/08398,2025-07-16,GCL,EcoMap Consultants,Admin,70000009,Insurance,73806.63,KES,Paid
+BILL/GCL/08399,2025-07-31,GCL,EcoMap Consultants,Admin,70000010,Sundry Expenses,64691.61,KES,Paid
+BILL/SHL/08400,2025-08-01,SHL,Beekeeper Co-op Central,Payroll,70000001,Salaries & Wages,1611967.14,KES,Paid
+BILL/SHL/08401,2025-08-08,SHL,Apex Packaging Co,Facilities,70000002,Rent & Utilities,503867.75,KES,Outstanding
+BILL/SHL/08402,2025-08-12,SHL,TransRoute Logistics,Logistics,70000003,Logistics & Transport,609007.4,KES,Outstanding
+BILL/SHL/08403,2025-08-11,SHL,TransRoute Logistics,Maintenance,70000004,Repairs & Maintenance,279544.89,KES,Paid
+BILL/SHL/08404,2025-08-20,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,242489.56,KES,Outstanding
+BILL/SHL/08405,2025-08-01,SHL,Apex Packaging Co,Admin,70000009,Insurance,200304.68,KES,Paid
+BILL/SHL/08406,2025-08-29,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,163592.81,KES,Paid
+BILL/AQL/08407,2025-08-01,AQL,Meridian Accountants,Payroll,70000001,Salaries & Wages,1026229.49,KES,Paid
+BILL/AQL/08408,2025-08-28,AQL,LakeView Processing,Facilities,70000002,Rent & Utilities,348488.82,KES,Paid
+BILL/AQL/08409,2025-08-29,AQL,Harbour Finance,Logistics,70000003,Logistics & Transport,564683.28,KES,Paid
+BILL/AQL/08410,2025-08-19,AQL,EastAfrica Power,Maintenance,70000004,Repairs & Maintenance,244962.39,KES,Paid
+BILL/AQL/08411,2025-08-13,AQL,EastAfrica Power,Admin,70000006,Professional Fees,205057.8,KES,Paid
+BILL/AQL/08412,2025-08-14,AQL,EastAfrica Power,Admin,70000009,Insurance,148144.1,KES,Outstanding
+BILL/AQL/08413,2025-08-28,AQL,Meridian Accountants,Admin,70000010,Sundry Expenses,116232.76,KES,Paid
+BILL/GCL/08414,2025-08-06,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,578458.27,KES,Paid
+BILL/GCL/08415,2025-08-18,GCL,Frontier Legal,Facilities,70000002,Rent & Utilities,194996.21,KES,Outstanding
+BILL/GCL/08416,2025-08-28,GCL,Unity Bank,Logistics,70000003,Logistics & Transport,301055.75,KES,Outstanding
+BILL/GCL/08417,2025-08-14,GCL,EcoMap Consultants,Maintenance,70000004,Repairs & Maintenance,139468.48,KES,Outstanding
+BILL/GCL/08418,2025-08-22,GCL,GreenSeed Nurseries,Admin,70000006,Professional Fees,115663.51,KES,Paid
+BILL/GCL/08419,2025-08-13,GCL,EcoMap Consultants,Admin,70000009,Insurance,85013.53,KES,Outstanding
+BILL/GCL/08420,2025-08-13,GCL,EcoMap Consultants,Admin,70000010,Sundry Expenses,58778.7,KES,Paid
+BILL/SHL/08421,2025-09-29,SHL,ClearBank Ltd,Payroll,70000001,Salaries & Wages,1430677.36,KES,Paid
+BILL/SHL/08422,2025-09-05,SHL,TransRoute Logistics,Facilities,70000002,Rent & Utilities,402301.25,KES,Outstanding
+BILL/SHL/08423,2025-09-02,SHL,TransRoute Logistics,Logistics,70000003,Logistics & Transport,642414.8,KES,Outstanding
+BILL/SHL/08424,2025-09-30,SHL,SunPower Utilities,Maintenance,70000004,Repairs & Maintenance,320522.65,KES,Paid
+BILL/SHL/08425,2025-09-05,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,297397.15,KES,Outstanding
+BILL/SHL/08426,2025-09-29,SHL,Apex Packaging Co,Admin,70000009,Insurance,171722.52,KES,Paid
+BILL/SHL/08427,2025-09-11,SHL,Beekeeper Co-op Central,Admin,70000010,Sundry Expenses,148406.51,KES,Paid
+BILL/AQL/08428,2025-09-17,AQL,EastAfrica Power,Payroll,70000001,Salaries & Wages,1181362.77,KES,Outstanding
+BILL/AQL/08429,2025-09-25,AQL,AquaFeed Suppliers,Facilities,70000002,Rent & Utilities,323281.06,KES,Outstanding
+BILL/AQL/08430,2025-09-09,AQL,Meridian Accountants,Logistics,70000003,Logistics & Transport,528901.04,KES,Paid
+BILL/AQL/08431,2025-09-10,AQL,Harbour Finance,Maintenance,70000004,Repairs & Maintenance,244977.41,KES,Outstanding
+BILL/AQL/08432,2025-09-29,AQL,Meridian Accountants,Admin,70000006,Professional Fees,208650.81,KES,Paid
+BILL/AQL/08433,2025-09-16,AQL,Harbour Finance,Admin,70000009,Insurance,134143.26,KES,Outstanding
+BILL/AQL/08434,2025-09-08,AQL,LakeView Processing,Admin,70000010,Sundry Expenses,111973.91,KES,Outstanding
+BILL/GCL/08435,2025-09-08,GCL,Frontier Legal,Payroll,70000001,Salaries & Wages,649410.9,KES,Paid
+BILL/GCL/08436,2025-09-22,GCL,GreenSeed Nurseries,Facilities,70000002,Rent & Utilities,194498.76,KES,Paid
+BILL/GCL/08437,2025-09-11,GCL,Unity Bank,Logistics,70000003,Logistics & Transport,253801.47,KES,Outstanding
+BILL/GCL/08438,2025-09-08,GCL,Frontier Legal,Maintenance,70000004,Repairs & Maintenance,136017.64,KES,Outstanding
+BILL/GCL/08439,2025-09-29,GCL,EcoMap Consultants,Admin,70000006,Professional Fees,99509.17,KES,Paid
+BILL/GCL/08440,2025-09-16,GCL,SurveyTech Africa,Admin,70000009,Insurance,84718.09,KES,Paid
+BILL/GCL/08441,2025-09-12,GCL,Unity Bank,Admin,70000010,Sundry Expenses,59430.1,KES,Paid
+BILL/SHL/08442,2025-10-16,SHL,Beekeeper Co-op Central,Payroll,70000001,Salaries & Wages,1602749.95,KES,Paid
+BILL/SHL/08443,2025-10-14,SHL,Nairobi Legal Partners,Facilities,70000002,Rent & Utilities,441547.44,KES,Paid
+BILL/SHL/08444,2025-10-22,SHL,Apex Packaging Co,Logistics,70000003,Logistics & Transport,655589.09,KES,Paid
+BILL/SHL/08445,2025-10-27,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,278382.87,KES,Outstanding
+BILL/SHL/08446,2025-10-03,SHL,Nairobi Legal Partners,Admin,70000006,Professional Fees,253589.77,KES,Paid
+BILL/SHL/08447,2025-10-23,SHL,TransRoute Logistics,Admin,70000009,Insurance,207175.27,KES,Paid
+BILL/SHL/08448,2025-10-17,SHL,ClearBank Ltd,Admin,70000010,Sundry Expenses,170106.28,KES,Outstanding
+BILL/AQL/08449,2025-10-20,AQL,LakeView Processing,Payroll,70000001,Salaries & Wages,1067170.5,KES,Paid
+BILL/AQL/08450,2025-10-07,AQL,ColdChain Express,Facilities,70000002,Rent & Utilities,343707.96,KES,Paid
+BILL/AQL/08451,2025-10-20,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,549821.05,KES,Outstanding
+BILL/AQL/08452,2025-10-07,AQL,EastAfrica Power,Maintenance,70000004,Repairs & Maintenance,253503.38,KES,Paid
+BILL/AQL/08453,2025-10-08,AQL,Harbour Finance,Admin,70000006,Professional Fees,207533.12,KES,Paid
+BILL/AQL/08454,2025-10-15,AQL,EastAfrica Power,Admin,70000009,Insurance,141225.09,KES,Outstanding
+BILL/AQL/08455,2025-10-15,AQL,ColdChain Express,Admin,70000010,Sundry Expenses,113567.39,KES,Outstanding
+BILL/GCL/08456,2025-10-01,GCL,GreenSeed Nurseries,Payroll,70000001,Salaries & Wages,636544.6,KES,Paid
+BILL/GCL/08457,2025-10-09,GCL,EcoMap Consultants,Facilities,70000002,Rent & Utilities,169108.3,KES,Paid
+BILL/GCL/08458,2025-10-08,GCL,Frontier Legal,Logistics,70000003,Logistics & Transport,296266.02,KES,Paid
+BILL/GCL/08459,2025-10-07,GCL,GreenSeed Nurseries,Maintenance,70000004,Repairs & Maintenance,123560.75,KES,Outstanding
+BILL/GCL/08460,2025-10-29,GCL,Solar Connect Ltd,Admin,70000006,Professional Fees,119908.02,KES,Paid
+BILL/GCL/08461,2025-10-20,GCL,Solar Connect Ltd,Admin,70000009,Insurance,72185.42,KES,Paid
+BILL/GCL/08462,2025-10-01,GCL,Solar Connect Ltd,Admin,70000010,Sundry Expenses,65354.79,KES,Paid
+BILL/SHL/08463,2025-11-11,SHL,Nairobi Legal Partners,Payroll,70000001,Salaries & Wages,1437405.96,KES,Outstanding
+BILL/SHL/08464,2025-11-03,SHL,Beekeeper Co-op Central,Facilities,70000002,Rent & Utilities,471576.11,KES,Paid
+BILL/SHL/08465,2025-11-11,SHL,Nairobi Legal Partners,Logistics,70000003,Logistics & Transport,612566.37,KES,Paid
+BILL/SHL/08466,2025-11-03,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,309835.62,KES,Outstanding
+BILL/SHL/08467,2025-11-12,SHL,ClearBank Ltd,Admin,70000006,Professional Fees,269925.18,KES,Paid
+BILL/SHL/08468,2025-11-18,SHL,ClearBank Ltd,Admin,70000009,Insurance,192766.1,KES,Paid
+BILL/SHL/08469,2025-11-06,SHL,TransRoute Logistics,Admin,70000010,Sundry Expenses,155775.23,KES,Paid
+BILL/AQL/08470,2025-11-27,AQL,Meridian Accountants,Payroll,70000001,Salaries & Wages,1148672.24,KES,Paid
+BILL/AQL/08471,2025-11-05,AQL,ColdChain Express,Facilities,70000002,Rent & Utilities,373472.68,KES,Paid
+BILL/AQL/08472,2025-11-14,AQL,LakeView Processing,Logistics,70000003,Logistics & Transport,493163.14,KES,Paid
+BILL/AQL/08473,2025-11-25,AQL,Harbour Finance,Maintenance,70000004,Repairs & Maintenance,250098.75,KES,Outstanding
+BILL/AQL/08474,2025-11-17,AQL,Meridian Accountants,Admin,70000006,Professional Fees,202915.02,KES,Paid
+BILL/AQL/08475,2025-11-07,AQL,Harbour Finance,Admin,70000009,Insurance,130281.63,KES,Paid
+BILL/AQL/08476,2025-11-18,AQL,EastAfrica Power,Admin,70000010,Sundry Expenses,103710.06,KES,Paid
+BILL/GCL/08477,2025-11-19,GCL,SurveyTech Africa,Payroll,70000001,Salaries & Wages,583812.06,KES,Paid
+BILL/GCL/08478,2025-11-12,GCL,SurveyTech Africa,Facilities,70000002,Rent & Utilities,205128.05,KES,Outstanding
+BILL/GCL/08479,2025-11-11,GCL,SurveyTech Africa,Logistics,70000003,Logistics & Transport,302354.91,KES,Outstanding
+BILL/GCL/08480,2025-11-27,GCL,GreenSeed Nurseries,Maintenance,70000004,Repairs & Maintenance,136866.25,KES,Outstanding
+BILL/GCL/08481,2025-11-06,GCL,SurveyTech Africa,Admin,70000006,Professional Fees,112464.19,KES,Paid
+BILL/GCL/08482,2025-11-04,GCL,Unity Bank,Admin,70000009,Insurance,78851.82,KES,Paid
+BILL/GCL/08483,2025-11-13,GCL,Unity Bank,Admin,70000010,Sundry Expenses,58584.87,KES,Outstanding
+BILL/SHL/08484,2025-12-02,SHL,Nairobi Legal Partners,Payroll,70000001,Salaries & Wages,1384458.48,KES,Outstanding
+BILL/SHL/08485,2025-12-30,SHL,Apex Packaging Co,Facilities,70000002,Rent & Utilities,448779.08,KES,Paid
+BILL/SHL/08486,2025-12-01,SHL,ClearBank Ltd,Logistics,70000003,Logistics & Transport,616464.65,KES,Paid
+BILL/SHL/08487,2025-12-04,SHL,ClearBank Ltd,Maintenance,70000004,Repairs & Maintenance,283615.85,KES,Paid
+BILL/SHL/08488,2025-12-17,SHL,SunPower Utilities,Admin,70000006,Professional Fees,272270.7,KES,Paid
+BILL/SHL/08489,2025-12-11,SHL,Nairobi Legal Partners,Admin,70000009,Insurance,200746.24,KES,Paid
+BILL/SHL/08490,2025-12-05,SHL,ClearBank Ltd,Admin,70000010,Sundry Expenses,170179.72,KES,Paid
+BILL/AQL/08491,2025-12-30,AQL,Harbour Finance,Payroll,70000001,Salaries & Wages,1216549.81,KES,Outstanding
+BILL/AQL/08492,2025-12-12,AQL,AquaFeed Suppliers,Facilities,70000002,Rent & Utilities,359907.05,KES,Paid
+BILL/AQL/08493,2025-12-04,AQL,Harbour Finance,Logistics,70000003,Logistics & Transport,512133.96,KES,Outstanding
+BILL/AQL/08494,2025-12-11,AQL,Meridian Accountants,Maintenance,70000004,Repairs & Maintenance,239582.36,KES,Outstanding
+BILL/AQL/08495,2025-12-31,AQL,Meridian Accountants,Admin,70000006,Professional Fees,216916.95,KES,Paid
+BILL/AQL/08496,2025-12-04,AQL,EastAfrica Power,Admin,70000009,Insurance,131718.1,KES,Outstanding
+BILL/AQL/08497,2025-12-26,AQL,Harbour Finance,Admin,70000010,Sundry Expenses,113491.75,KES,Paid
+BILL/GCL/08498,2025-12-04,GCL,EcoMap Consultants,Payroll,70000001,Salaries & Wages,657583.95,KES,Paid
+BILL/GCL/08499,2025-12-09,GCL,Solar Connect Ltd,Facilities,70000002,Rent & Utilities,186647.02,KES,Outstanding
+BILL/GCL/08500,2025-12-11,GCL,SurveyTech Africa,Logistics,70000003,Logistics & Transport,292967.81,KES,Outstanding
+BILL/GCL/08501,2025-12-16,GCL,SurveyTech Africa,Maintenance,70000004,Repairs & Maintenance,130696.27,KES,Outstanding
+BILL/GCL/08502,2025-12-12,GCL,Solar Connect Ltd,Admin,70000006,Professional Fees,103518.72,KES,Paid
+BILL/GCL/08503,2025-12-24,GCL,GreenSeed Nurseries,Admin,70000009,Insurance,77354.92,KES,Paid
+BILL/GCL/08504,2025-12-31,GCL,SurveyTech Africa,Admin,70000010,Sundry Expenses,61458.09,KES,Paid

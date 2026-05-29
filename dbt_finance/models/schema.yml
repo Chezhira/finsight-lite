@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: stg_gl_transactions
+    columns:
+      - name: reference
+        tests:
+          - not_null
+      - name: transaction_date
+        tests:
+          - not_null
+  - name: mart_monthly_pnl
+    columns:
+      - name: period
+        tests:
+          - not_null
+      - name: entity
+        tests:
+          - not_null

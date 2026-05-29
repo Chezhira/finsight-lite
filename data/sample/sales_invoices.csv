@@ -1,0 +1,374 @@
+invoice_ref,invoice_date,entity,customer,revenue_category,amount_kes,amount_usd,currency,status
+INV/SHL/05001,2024-01-04,SHL,EuroHoney GmbH,Export,2564642.08,19283.02,USD,Paid
+INV/SHL/05002,2024-01-25,SHL,NatureMart UK,Domestic,2507613.11,0.0,KES,Partial
+INV/SHL/05003,2024-01-04,SHL,Organic Direct Ltd,Export,2338401.89,17581.97,USD,Outstanding
+INV/AQL/05004,2024-01-02,AQL,Retail Net KE,Domestic,1663949.58,0.0,KES,Paid
+INV/AQL/05005,2024-01-04,AQL,AquaPro Processors,Export,1682981.71,12654.0,USD,Partial
+INV/AQL/05006,2024-01-30,AQL,AquaPro Processors,Export,1668240.31,12543.16,USD,Outstanding
+INV/AQL/05007,2024-01-16,AQL,Hotel Chain East Africa,Domestic,1925048.89,0.0,KES,Partial
+INV/AQL/05008,2024-01-11,AQL,Export Buyers Ltd,Export,1739110.23,13076.02,USD,Partial
+INV/GCL/05009,2024-01-26,GCL,ESG Holdings Ltd,Carbon Credits,429063.48,0.0,KES,Partial
+INV/GCL/05010,2024-01-30,GCL,Voluntary Carbon Exchange,Carbon Credits,534040.62,4015.34,USD,Paid
+INV/GCL/05011,2024-01-31,GCL,ClimateBridge AG,Carbon Credits,524212.13,3941.44,USD,Paid
+INV/GCL/05012,2024-01-08,GCL,Green Invest Fund,Carbon Credits,529277.06,0.0,KES,Paid
+INV/SHL/05013,2024-02-29,SHL,Gulf Foods LLC,Export,998908.82,7510.59,USD,Paid
+INV/SHL/05014,2024-02-09,SHL,EuroHoney GmbH,Domestic,822977.55,0.0,KES,Outstanding
+INV/SHL/05015,2024-02-08,SHL,Gulf Foods LLC,Domestic,870623.29,0.0,KES,Paid
+INV/SHL/05016,2024-02-27,SHL,Savanna Domestic Wholesale,Domestic,948193.96,0.0,KES,Partial
+INV/SHL/05017,2024-02-07,SHL,EuroHoney GmbH,Domestic,934861.56,0.0,KES,Paid
+INV/SHL/05018,2024-02-05,SHL,Organic Direct Ltd,Export,818691.98,6155.58,USD,Paid
+INV/SHL/05019,2024-02-22,SHL,Gulf Foods LLC,Domestic,960535.67,0.0,KES,Partial
+INV/AQL/05020,2024-02-23,AQL,Retail Net KE,Export,1276283.17,9596.11,USD,Paid
+INV/AQL/05021,2024-02-14,AQL,Export Buyers Ltd,Domestic,1276078.84,0.0,KES,Partial
+INV/AQL/05022,2024-02-14,AQL,Retail Net KE,Domestic,1378794.28,0.0,KES,Paid
+INV/AQL/05023,2024-02-28,AQL,Hotel Chain East Africa,Domestic,1397150.97,0.0,KES,Paid
+INV/AQL/05024,2024-02-09,AQL,FreshFish Nairobi,Export,1392934.94,10473.2,USD,Paid
+INV/AQL/05025,2024-02-06,AQL,Export Buyers Ltd,Export,1232674.35,9268.23,USD,Paid
+INV/GCL/05026,2024-02-19,GCL,ESG Holdings Ltd,Carbon Credits,348988.99,2623.98,USD,Partial
+INV/GCL/05027,2024-02-16,GCL,CarbonMarket Partners,Carbon Credits,301998.08,0.0,KES,Paid
+INV/GCL/05028,2024-02-02,GCL,ESG Holdings Ltd,Carbon Credits,291546.75,0.0,KES,Outstanding
+INV/GCL/05029,2024-02-05,GCL,ClimateBridge AG,Carbon Credits,349855.85,0.0,KES,Paid
+INV/GCL/05030,2024-02-19,GCL,Voluntary Carbon Exchange,Carbon Credits,354994.04,0.0,KES,Outstanding
+INV/GCL/05031,2024-02-01,GCL,Green Invest Fund,Carbon Credits,347811.4,2615.12,USD,Paid
+INV/SHL/05032,2024-03-18,SHL,Organic Direct Ltd,Domestic,2349995.94,0.0,KES,Paid
+INV/SHL/05033,2024-03-12,SHL,Gulf Foods LLC,Domestic,2269002.04,0.0,KES,Outstanding
+INV/SHL/05034,2024-03-05,SHL,Organic Direct Ltd,Domestic,2214200.12,0.0,KES,Outstanding
+INV/SHL/05035,2024-03-12,SHL,Savanna Domestic Wholesale,Domestic,1970668.05,0.0,KES,Paid
+INV/AQL/05036,2024-03-06,AQL,FreshFish Nairobi,Domestic,2405950.78,0.0,KES,Partial
+INV/AQL/05037,2024-03-18,AQL,AquaPro Processors,Export,2384835.3,17931.09,USD,Paid
+INV/AQL/05038,2024-03-07,AQL,Hotel Chain East Africa,Export,2318158.63,17429.76,USD,Paid
+INV/AQL/05039,2024-03-07,AQL,Hotel Chain East Africa,Export,2591907.24,19488.02,USD,Paid
+INV/GCL/05040,2024-03-27,GCL,ESG Holdings Ltd,Carbon Credits,719287.33,0.0,KES,Partial
+INV/GCL/05041,2024-03-27,GCL,ESG Holdings Ltd,Carbon Credits,647604.79,0.0,KES,Partial
+INV/GCL/05042,2024-03-29,GCL,Green Invest Fund,Carbon Credits,671647.66,0.0,KES,Paid
+INV/GCL/05043,2024-03-22,GCL,CarbonMarket Partners,Carbon Credits,751667.11,0.0,KES,Outstanding
+INV/SHL/05044,2024-04-16,SHL,Savanna Domestic Wholesale,Domestic,2021110.66,0.0,KES,Partial
+INV/SHL/05045,2024-04-19,SHL,EuroHoney GmbH,Export,2439651.73,18343.25,USD,Paid
+INV/SHL/05046,2024-04-12,SHL,EuroHoney GmbH,Domestic,2247379.12,0.0,KES,Paid
+INV/SHL/05047,2024-04-23,SHL,EuroHoney GmbH,Domestic,2239516.75,0.0,KES,Outstanding
+INV/SHL/05048,2024-04-02,SHL,Gulf Foods LLC,Domestic,2299900.2,0.0,KES,Outstanding
+INV/AQL/05049,2024-04-22,AQL,Hotel Chain East Africa,Export,1641523.4,12342.28,USD,Partial
+INV/AQL/05050,2024-04-19,AQL,Hotel Chain East Africa,Domestic,1467233.58,0.0,KES,Paid
+INV/AQL/05051,2024-04-03,AQL,Export Buyers Ltd,Domestic,1587919.5,0.0,KES,Partial
+INV/AQL/05052,2024-04-19,AQL,Hotel Chain East Africa,Export,1546881.24,11630.69,USD,Outstanding
+INV/AQL/05053,2024-04-08,AQL,AquaPro Processors,Domestic,1437709.3,0.0,KES,Paid
+INV/AQL/05054,2024-04-17,AQL,Export Buyers Ltd,Domestic,1661240.99,0.0,KES,Outstanding
+INV/AQL/05055,2024-04-02,AQL,Export Buyers Ltd,Domestic,1631562.1,0.0,KES,Paid
+INV/GCL/05056,2024-04-30,GCL,Green Invest Fund,Carbon Credits,1328676.4,9990.05,USD,Outstanding
+INV/GCL/05057,2024-04-30,GCL,Green Invest Fund,Carbon Credits,1387698.71,10433.82,USD,Partial
+INV/GCL/05058,2024-04-25,GCL,CarbonMarket Partners,Carbon Credits,1392832.78,10472.43,USD,Paid
+INV/SHL/05059,2024-05-31,SHL,Savanna Domestic Wholesale,Domestic,2887519.56,0.0,KES,Outstanding
+INV/SHL/05060,2024-05-03,SHL,NatureMart UK,Domestic,2972428.8,0.0,KES,Paid
+INV/SHL/05061,2024-05-15,SHL,Organic Direct Ltd,Domestic,2880331.16,0.0,KES,Paid
+INV/SHL/05062,2024-05-30,SHL,Organic Direct Ltd,Export,2868892.91,21570.62,USD,Outstanding
+INV/SHL/05063,2024-05-16,SHL,Organic Direct Ltd,Domestic,2828283.51,0.0,KES,Paid
+INV/AQL/05064,2024-05-22,AQL,Hotel Chain East Africa,Export,2391770.25,17983.23,USD,Paid
+INV/AQL/05065,2024-05-07,AQL,Hotel Chain East Africa,Domestic,2070237.08,0.0,KES,Paid
+INV/AQL/05066,2024-05-06,AQL,Export Buyers Ltd,Domestic,2461127.25,0.0,KES,Partial
+INV/AQL/05067,2024-05-23,AQL,AquaPro Processors,Domestic,2456241.72,0.0,KES,Paid
+INV/GCL/05068,2024-05-17,GCL,Voluntary Carbon Exchange,Carbon Credits,851538.57,6402.55,USD,Paid
+INV/GCL/05069,2024-05-31,GCL,CarbonMarket Partners,Carbon Credits,1035068.18,7782.47,USD,Partial
+INV/GCL/05070,2024-05-02,GCL,CarbonMarket Partners,Carbon Credits,874491.62,0.0,KES,Outstanding
+INV/GCL/05071,2024-05-10,GCL,Green Invest Fund,Carbon Credits,922011.38,0.0,KES,Outstanding
+INV/GCL/05072,2024-05-21,GCL,Voluntary Carbon Exchange,Carbon Credits,1016104.3,7639.88,USD,Paid
+INV/SHL/05073,2024-06-24,SHL,NatureMart UK,Export,2132423.37,16033.26,USD,Paid
+INV/SHL/05074,2024-06-27,SHL,Savanna Domestic Wholesale,Domestic,2498581.63,0.0,KES,Outstanding
+INV/SHL/05075,2024-06-19,SHL,Gulf Foods LLC,Domestic,2506474.76,0.0,KES,Partial
+INV/SHL/05076,2024-06-10,SHL,Organic Direct Ltd,Domestic,2325589.17,0.0,KES,Paid
+INV/SHL/05077,2024-06-13,SHL,Organic Direct Ltd,Export,2046414.99,15386.58,USD,Paid
+INV/SHL/05078,2024-06-26,SHL,Gulf Foods LLC,Domestic,2202778.39,0.0,KES,Paid
+INV/SHL/05079,2024-06-14,SHL,Organic Direct Ltd,Domestic,2386573.57,0.0,KES,Paid
+INV/AQL/05080,2024-06-25,AQL,Export Buyers Ltd,Domestic,2058069.24,0.0,KES,Paid
+INV/AQL/05081,2024-06-12,AQL,Retail Net KE,Export,1903367.03,14311.03,USD,Outstanding
+INV/AQL/05082,2024-06-20,AQL,Export Buyers Ltd,Domestic,1738641.03,0.0,KES,Paid
+INV/AQL/05083,2024-06-12,AQL,Retail Net KE,Domestic,1904337.73,0.0,KES,Outstanding
+INV/GCL/05084,2024-06-17,GCL,Green Invest Fund,Carbon Credits,1938425.26,14574.63,USD,Paid
+INV/GCL/05085,2024-06-07,GCL,Green Invest Fund,Carbon Credits,2048952.76,0.0,KES,Paid
+INV/GCL/05086,2024-06-24,GCL,Green Invest Fund,Carbon Credits,1738896.68,0.0,KES,Paid
+INV/SHL/05087,2024-07-03,SHL,Gulf Foods LLC,Domestic,3099386.2,0.0,KES,Paid
+INV/SHL/05088,2024-07-05,SHL,Savanna Domestic Wholesale,Export,2945553.27,22147.02,USD,Partial
+INV/SHL/05089,2024-07-04,SHL,Organic Direct Ltd,Domestic,3240761.07,0.0,KES,Paid
+INV/SHL/05090,2024-07-02,SHL,NatureMart UK,Export,2805977.18,21097.57,USD,Paid
+INV/SHL/05091,2024-07-26,SHL,Gulf Foods LLC,Domestic,3009501.99,0.0,KES,Outstanding
+INV/SHL/05092,2024-07-22,SHL,EuroHoney GmbH,Export,3219086.34,24203.66,USD,Partial
+INV/AQL/05093,2024-07-25,AQL,FreshFish Nairobi,Domestic,847741.62,0.0,KES,Paid
+INV/AQL/05094,2024-07-01,AQL,Hotel Chain East Africa,Export,1035481.79,7785.58,USD,Partial
+INV/AQL/05095,2024-07-18,AQL,Export Buyers Ltd,Export,979401.04,7363.92,USD,Paid
+INV/AQL/05096,2024-07-16,AQL,FreshFish Nairobi,Domestic,839943.24,0.0,KES,Paid
+INV/AQL/05097,2024-07-23,AQL,AquaPro Processors,Domestic,892376.72,0.0,KES,Partial
+INV/AQL/05098,2024-07-22,AQL,FreshFish Nairobi,Domestic,983963.73,0.0,KES,Paid
+INV/AQL/05099,2024-07-11,AQL,Retail Net KE,Domestic,839833.83,0.0,KES,Paid
+INV/GCL/05100,2024-07-30,GCL,ClimateBridge AG,Carbon Credits,1370504.9,10304.55,USD,Paid
+INV/GCL/05101,2024-07-15,GCL,Voluntary Carbon Exchange,Carbon Credits,1294288.04,0.0,KES,Paid
+INV/GCL/05102,2024-07-15,GCL,ClimateBridge AG,Carbon Credits,1383002.51,0.0,KES,Paid
+INV/GCL/05103,2024-07-22,GCL,ESG Holdings Ltd,Carbon Credits,1197474.55,0.0,KES,Paid
+INV/GCL/05104,2024-07-19,GCL,CarbonMarket Partners,Carbon Credits,1463842.91,11006.34,USD,Paid
+INV/SHL/05105,2024-08-09,SHL,NatureMart UK,Export,3619321.4,27212.94,USD,Paid
+INV/SHL/05106,2024-08-23,SHL,Savanna Domestic Wholesale,Domestic,3615724.73,0.0,KES,Outstanding
+INV/SHL/05107,2024-08-02,SHL,Organic Direct Ltd,Domestic,3444728.43,0.0,KES,Paid
+INV/SHL/05108,2024-08-02,SHL,Savanna Domestic Wholesale,Domestic,2961467.27,0.0,KES,Paid
+INV/SHL/05109,2024-08-16,SHL,Savanna Domestic Wholesale,Export,3451445.29,25950.72,USD,Outstanding
+INV/AQL/05110,2024-08-19,AQL,Retail Net KE,Domestic,1089658.06,0.0,KES,Paid
+INV/AQL/05111,2024-08-22,AQL,Hotel Chain East Africa,Domestic,1088930.87,0.0,KES,Paid
+INV/AQL/05112,2024-08-05,AQL,AquaPro Processors,Export,1177929.74,8856.61,USD,Outstanding
+INV/AQL/05113,2024-08-08,AQL,FreshFish Nairobi,Domestic,1226647.47,0.0,KES,Partial
+INV/AQL/05114,2024-08-05,AQL,Export Buyers Ltd,Export,1309824.27,9848.3,USD,Paid
+INV/AQL/05115,2024-08-28,AQL,Export Buyers Ltd,Export,1284108.8,9654.95,USD,Outstanding
+INV/GCL/05116,2024-08-02,GCL,ESG Holdings Ltd,Carbon Credits,1658187.97,0.0,KES,Paid
+INV/GCL/05117,2024-08-13,GCL,Voluntary Carbon Exchange,Carbon Credits,1588726.27,0.0,KES,Paid
+INV/GCL/05118,2024-08-19,GCL,ClimateBridge AG,Carbon Credits,1880440.6,0.0,KES,Paid
+INV/GCL/05119,2024-08-30,GCL,Voluntary Carbon Exchange,Carbon Credits,1650236.3,0.0,KES,Paid
+INV/SHL/05120,2024-09-20,SHL,NatureMart UK,Domestic,4529859.06,0.0,KES,Paid
+INV/SHL/05121,2024-09-30,SHL,NatureMart UK,Export,4213319.54,31679.09,USD,Paid
+INV/SHL/05122,2024-09-26,SHL,Savanna Domestic Wholesale,Domestic,4907623.84,0.0,KES,Paid
+INV/AQL/05123,2024-09-17,AQL,Hotel Chain East Africa,Domestic,1348469.04,0.0,KES,Paid
+INV/AQL/05124,2024-09-26,AQL,Retail Net KE,Domestic,1202217.44,0.0,KES,Paid
+INV/AQL/05125,2024-09-16,AQL,AquaPro Processors,Domestic,1159419.78,0.0,KES,Paid
+INV/AQL/05126,2024-09-02,AQL,Hotel Chain East Africa,Domestic,1344392.13,0.0,KES,Paid
+INV/AQL/05127,2024-09-25,AQL,Retail Net KE,Domestic,1336355.13,0.0,KES,Paid
+INV/AQL/05128,2024-09-20,AQL,Export Buyers Ltd,Domestic,1218450.32,0.0,KES,Paid
+INV/AQL/05129,2024-09-23,AQL,AquaPro Processors,Export,1428004.21,10736.87,USD,Paid
+INV/GCL/05130,2024-09-20,GCL,CarbonMarket Partners,Carbon Credits,1759207.48,0.0,KES,Paid
+INV/GCL/05131,2024-09-16,GCL,ESG Holdings Ltd,Carbon Credits,1888819.88,0.0,KES,Paid
+INV/GCL/05132,2024-09-13,GCL,ClimateBridge AG,Carbon Credits,2124418.22,0.0,KES,Paid
+INV/SHL/05133,2024-10-23,SHL,NatureMart UK,Domestic,2758315.94,0.0,KES,Paid
+INV/SHL/05134,2024-10-07,SHL,EuroHoney GmbH,Domestic,2906005.01,0.0,KES,Paid
+INV/SHL/05135,2024-10-24,SHL,Gulf Foods LLC,Export,2743376.22,20626.89,USD,Partial
+INV/SHL/05136,2024-10-24,SHL,Savanna Domestic Wholesale,Domestic,2660095.26,0.0,KES,Paid
+INV/AQL/05137,2024-10-17,AQL,FreshFish Nairobi,Export,1568994.52,11796.95,USD,Outstanding
+INV/AQL/05138,2024-10-18,AQL,AquaPro Processors,Domestic,1375126.17,0.0,KES,Partial
+INV/AQL/05139,2024-10-15,AQL,FreshFish Nairobi,Export,1538672.1,11568.96,USD,Paid
+INV/AQL/05140,2024-10-23,AQL,Retail Net KE,Domestic,1314608.69,0.0,KES,Paid
+INV/AQL/05141,2024-10-24,AQL,Hotel Chain East Africa,Domestic,1308924.01,0.0,KES,Partial
+INV/AQL/05142,2024-10-07,AQL,Hotel Chain East Africa,Domestic,1247532.32,0.0,KES,Outstanding
+INV/AQL/05143,2024-10-02,AQL,AquaPro Processors,Domestic,1456882.34,0.0,KES,Paid
+INV/GCL/05144,2024-10-08,GCL,CarbonMarket Partners,Carbon Credits,664077.48,4993.06,USD,Paid
+INV/GCL/05145,2024-10-23,GCL,CarbonMarket Partners,Carbon Credits,745677.24,5606.6,USD,Paid
+INV/GCL/05146,2024-10-29,GCL,ClimateBridge AG,Carbon Credits,681305.4,5122.6,USD,Partial
+INV/GCL/05147,2024-10-14,GCL,Green Invest Fund,Carbon Credits,762765.55,5735.08,USD,Partial
+INV/GCL/05148,2024-10-29,GCL,Voluntary Carbon Exchange,Carbon Credits,633960.77,4766.62,USD,Paid
+INV/GCL/05149,2024-10-07,GCL,Voluntary Carbon Exchange,Carbon Credits,746379.13,0.0,KES,Paid
+INV/GCL/05150,2024-10-28,GCL,Voluntary Carbon Exchange,Carbon Credits,731234.22,0.0,KES,Paid
+INV/SHL/05151,2024-11-01,SHL,EuroHoney GmbH,Domestic,1521458.92,0.0,KES,Paid
+INV/SHL/05152,2024-11-27,SHL,EuroHoney GmbH,Domestic,1546782.82,0.0,KES,Paid
+INV/SHL/05153,2024-11-20,SHL,NatureMart UK,Domestic,1518065.37,0.0,KES,Partial
+INV/SHL/05154,2024-11-29,SHL,EuroHoney GmbH,Domestic,1471846.97,0.0,KES,Partial
+INV/SHL/05155,2024-11-14,SHL,Savanna Domestic Wholesale,Domestic,1302141.1,0.0,KES,Outstanding
+INV/SHL/05156,2024-11-19,SHL,NatureMart UK,Domestic,1268294.69,0.0,KES,Paid
+INV/SHL/05157,2024-11-04,SHL,Gulf Foods LLC,Export,1572862.12,11826.03,USD,Paid
+INV/AQL/05158,2024-11-11,AQL,Retail Net KE,Domestic,1545420.77,0.0,KES,Paid
+INV/AQL/05159,2024-11-15,AQL,AquaPro Processors,Export,1610323.99,12107.7,USD,Paid
+INV/AQL/05160,2024-11-18,AQL,Retail Net KE,Export,1496666.6,11253.13,USD,Partial
+INV/AQL/05161,2024-11-12,AQL,AquaPro Processors,Export,1365258.13,10265.1,USD,Outstanding
+INV/AQL/05162,2024-11-12,AQL,FreshFish Nairobi,Export,1368100.37,10286.47,USD,Paid
+INV/AQL/05163,2024-11-19,AQL,FreshFish Nairobi,Export,1570285.29,11806.66,USD,Partial
+INV/GCL/05164,2024-11-08,GCL,CarbonMarket Partners,Carbon Credits,629294.99,0.0,KES,Paid
+INV/GCL/05165,2024-11-11,GCL,Voluntary Carbon Exchange,Carbon Credits,594000.6,0.0,KES,Paid
+INV/GCL/05166,2024-11-21,GCL,ESG Holdings Ltd,Carbon Credits,638708.92,0.0,KES,Outstanding
+INV/GCL/05167,2024-11-05,GCL,Green Invest Fund,Carbon Credits,573062.49,0.0,KES,Outstanding
+INV/GCL/05168,2024-11-12,GCL,Voluntary Carbon Exchange,Carbon Credits,652590.81,0.0,KES,Paid
+INV/GCL/05169,2024-11-04,GCL,Voluntary Carbon Exchange,Carbon Credits,604517.39,0.0,KES,Paid
+INV/SHL/05170,2024-12-30,SHL,Organic Direct Ltd,Domestic,2901746.75,0.0,KES,Outstanding
+INV/SHL/05171,2024-12-05,SHL,Savanna Domestic Wholesale,Domestic,2585068.61,0.0,KES,Outstanding
+INV/SHL/05172,2024-12-17,SHL,NatureMart UK,Domestic,2679226.43,0.0,KES,Outstanding
+INV/SHL/05173,2024-12-03,SHL,Savanna Domestic Wholesale,Export,2390886.68,17976.59,USD,Partial
+INV/SHL/05174,2024-12-25,SHL,Organic Direct Ltd,Export,2430423.81,18273.86,USD,Paid
+INV/SHL/05175,2024-12-20,SHL,EuroHoney GmbH,Domestic,2638454.14,0.0,KES,Partial
+INV/AQL/05176,2024-12-05,AQL,AquaPro Processors,Domestic,1632103.93,0.0,KES,Paid
+INV/AQL/05177,2024-12-16,AQL,FreshFish Nairobi,Domestic,1679368.09,0.0,KES,Partial
+INV/AQL/05178,2024-12-10,AQL,Export Buyers Ltd,Domestic,1557998.39,0.0,KES,Partial
+INV/AQL/05179,2024-12-03,AQL,AquaPro Processors,Domestic,1716744.87,0.0,KES,Paid
+INV/AQL/05180,2024-12-16,AQL,FreshFish Nairobi,Export,1781744.18,13396.57,USD,Outstanding
+INV/GCL/05181,2024-12-24,GCL,ESG Holdings Ltd,Carbon Credits,585415.81,4401.62,USD,Paid
+INV/GCL/05182,2024-12-16,GCL,Green Invest Fund,Carbon Credits,487958.96,0.0,KES,Paid
+INV/GCL/05183,2024-12-13,GCL,ESG Holdings Ltd,Carbon Credits,546005.03,0.0,KES,Partial
+INV/GCL/05184,2024-12-24,GCL,Green Invest Fund,Carbon Credits,496557.66,0.0,KES,Partial
+INV/GCL/05185,2024-12-13,GCL,ESG Holdings Ltd,Carbon Credits,514609.81,0.0,KES,Outstanding
+INV/GCL/05186,2024-12-31,GCL,ClimateBridge AG,Carbon Credits,612644.04,0.0,KES,Paid
+INV/GCL/05187,2024-12-30,GCL,ESG Holdings Ltd,Carbon Credits,501503.41,0.0,KES,Paid
+INV/SHL/05188,2025-01-29,SHL,Gulf Foods LLC,Export,1071142.67,8303.43,USD,Partial
+INV/SHL/05189,2025-01-02,SHL,Organic Direct Ltd,Export,1101811.47,8541.17,USD,Partial
+INV/SHL/05190,2025-01-29,SHL,Gulf Foods LLC,Export,1123490.99,8709.23,USD,Partial
+INV/SHL/05191,2025-01-30,SHL,Gulf Foods LLC,Export,1086766.8,8424.55,USD,Paid
+INV/SHL/05192,2025-01-31,SHL,EuroHoney GmbH,Domestic,945369.65,0.0,KES,Paid
+INV/SHL/05193,2025-01-15,SHL,NatureMart UK,Export,1026804.34,7959.72,USD,Outstanding
+INV/SHL/05194,2025-01-09,SHL,NatureMart UK,Domestic,1075982.99,0.0,KES,Outstanding
+INV/AQL/05195,2025-01-02,AQL,AquaPro Processors,Domestic,1161116.2,0.0,KES,Paid
+INV/AQL/05196,2025-01-15,AQL,AquaPro Processors,Export,1242376.74,9630.83,USD,Outstanding
+INV/AQL/05197,2025-01-08,AQL,AquaPro Processors,Domestic,1144211.16,0.0,KES,Outstanding
+INV/AQL/05198,2025-01-16,AQL,AquaPro Processors,Export,1158243.82,8978.63,USD,Paid
+INV/AQL/05199,2025-01-10,AQL,AquaPro Processors,Domestic,1256694.22,0.0,KES,Paid
+INV/AQL/05200,2025-01-14,AQL,AquaPro Processors,Export,1174986.15,9108.42,USD,Paid
+INV/AQL/05201,2025-01-22,AQL,Hotel Chain East Africa,Domestic,1309458.92,0.0,KES,Paid
+INV/GCL/05202,2025-01-13,GCL,Green Invest Fund,Carbon Credits,334550.91,0.0,KES,Paid
+INV/GCL/05203,2025-01-24,GCL,ClimateBridge AG,Carbon Credits,343085.06,0.0,KES,Outstanding
+INV/GCL/05204,2025-01-07,GCL,ESG Holdings Ltd,Carbon Credits,296971.54,0.0,KES,Paid
+INV/GCL/05205,2025-01-31,GCL,ClimateBridge AG,Carbon Credits,294462.66,2282.66,USD,Paid
+INV/GCL/05206,2025-01-29,GCL,Green Invest Fund,Carbon Credits,289630.81,0.0,KES,Paid
+INV/GCL/05207,2025-01-24,GCL,ESG Holdings Ltd,Carbon Credits,330477.84,2561.84,USD,Paid
+INV/SHL/05208,2025-02-28,SHL,Savanna Domestic Wholesale,Export,937101.94,7264.36,USD,Partial
+INV/SHL/05209,2025-02-25,SHL,NatureMart UK,Export,792482.75,6143.28,USD,Paid
+INV/SHL/05210,2025-02-20,SHL,NatureMart UK,Export,986331.2,7645.98,USD,Paid
+INV/SHL/05211,2025-02-07,SHL,Gulf Foods LLC,Export,796850.99,6177.14,USD,Paid
+INV/SHL/05212,2025-02-10,SHL,Organic Direct Ltd,Domestic,901706.36,0.0,KES,Outstanding
+INV/SHL/05213,2025-02-11,SHL,Gulf Foods LLC,Domestic,937655.83,0.0,KES,Paid
+INV/SHL/05214,2025-02-04,SHL,Savanna Domestic Wholesale,Export,972350.53,7537.6,USD,Paid
+INV/AQL/05215,2025-02-04,AQL,Hotel Chain East Africa,Domestic,1231617.58,0.0,KES,Paid
+INV/AQL/05216,2025-02-10,AQL,Retail Net KE,Domestic,1256257.27,0.0,KES,Paid
+INV/AQL/05217,2025-02-10,AQL,Retail Net KE,Domestic,1126291.14,0.0,KES,Paid
+INV/AQL/05218,2025-02-27,AQL,FreshFish Nairobi,Export,1259939.4,9766.97,USD,Partial
+INV/AQL/05219,2025-02-17,AQL,FreshFish Nairobi,Domestic,1053380.86,0.0,KES,Paid
+INV/AQL/05220,2025-02-26,AQL,Retail Net KE,Domestic,1282428.45,0.0,KES,Partial
+INV/AQL/05221,2025-02-07,AQL,Retail Net KE,Domestic,1184808.83,0.0,KES,Partial
+INV/GCL/05222,2025-02-06,GCL,Green Invest Fund,Carbon Credits,344368.47,2669.52,USD,Paid
+INV/GCL/05223,2025-02-13,GCL,CarbonMarket Partners,Carbon Credits,316338.04,0.0,KES,Paid
+INV/GCL/05224,2025-02-14,GCL,ClimateBridge AG,Carbon Credits,331026.77,0.0,KES,Partial
+INV/GCL/05225,2025-02-19,GCL,CarbonMarket Partners,Carbon Credits,322027.72,2496.34,USD,Outstanding
+INV/GCL/05226,2025-02-19,GCL,Voluntary Carbon Exchange,Carbon Credits,337786.08,2618.5,USD,Paid
+INV/GCL/05227,2025-02-24,GCL,CarbonMarket Partners,Carbon Credits,287869.18,0.0,KES,Paid
+INV/SHL/05228,2025-03-12,SHL,EuroHoney GmbH,Export,1956684.84,15168.1,USD,Outstanding
+INV/SHL/05229,2025-03-14,SHL,Savanna Domestic Wholesale,Domestic,2054729.2,0.0,KES,Partial
+INV/SHL/05230,2025-03-31,SHL,Organic Direct Ltd,Export,2008760.96,15571.79,USD,Paid
+INV/SHL/05231,2025-03-06,SHL,NatureMart UK,Export,2382686.37,18470.44,USD,Outstanding
+INV/AQL/05232,2025-03-25,AQL,Hotel Chain East Africa,Domestic,1835379.15,0.0,KES,Paid
+INV/AQL/05233,2025-03-14,AQL,FreshFish Nairobi,Domestic,2192760.68,0.0,KES,Paid
+INV/AQL/05234,2025-03-07,AQL,AquaPro Processors,Export,1890962.62,14658.62,USD,Outstanding
+INV/AQL/05235,2025-03-28,AQL,Hotel Chain East Africa,Domestic,1817857.93,0.0,KES,Paid
+INV/AQL/05236,2025-03-24,AQL,Retail Net KE,Domestic,2104830.4,0.0,KES,Partial
+INV/GCL/05237,2025-03-28,GCL,CarbonMarket Partners,Carbon Credits,747424.7,0.0,KES,Paid
+INV/GCL/05238,2025-03-18,GCL,Voluntary Carbon Exchange,Carbon Credits,719688.22,0.0,KES,Paid
+INV/GCL/05239,2025-03-26,GCL,Voluntary Carbon Exchange,Carbon Credits,729566.82,5655.56,USD,Partial
+INV/GCL/05240,2025-03-07,GCL,CarbonMarket Partners,Carbon Credits,757878.07,0.0,KES,Paid
+INV/SHL/05241,2025-04-30,SHL,Organic Direct Ltd,Domestic,2103365.56,0.0,KES,Paid
+INV/SHL/05242,2025-04-23,SHL,Organic Direct Ltd,Domestic,2518020.31,0.0,KES,Outstanding
+INV/SHL/05243,2025-04-23,SHL,EuroHoney GmbH,Domestic,2506388.31,0.0,KES,Outstanding
+INV/SHL/05244,2025-04-24,SHL,Gulf Foods LLC,Domestic,2331175.87,0.0,KES,Outstanding
+INV/SHL/05245,2025-04-17,SHL,Savanna Domestic Wholesale,Domestic,2087752.92,0.0,KES,Paid
+INV/AQL/05246,2025-04-02,AQL,Hotel Chain East Africa,Domestic,3707031.98,0.0,KES,Outstanding
+INV/AQL/05247,2025-04-24,AQL,Export Buyers Ltd,Domestic,3188504.14,0.0,KES,Paid
+INV/AQL/05248,2025-04-22,AQL,FreshFish Nairobi,Domestic,3153073.79,0.0,KES,Paid
+INV/GCL/05249,2025-04-07,GCL,ESG Holdings Ltd,Carbon Credits,723336.11,5607.26,USD,Outstanding
+INV/GCL/05250,2025-04-17,GCL,Green Invest Fund,Carbon Credits,761110.66,0.0,KES,Outstanding
+INV/GCL/05251,2025-04-30,GCL,ESG Holdings Ltd,Carbon Credits,835879.99,0.0,KES,Partial
+INV/GCL/05252,2025-04-16,GCL,CarbonMarket Partners,Carbon Credits,809871.8,0.0,KES,Paid
+INV/GCL/05253,2025-04-17,GCL,CarbonMarket Partners,Carbon Credits,812735.67,0.0,KES,Partial
+INV/SHL/05254,2025-05-01,SHL,NatureMart UK,Domestic,3376032.0,0.0,KES,Paid
+INV/SHL/05255,2025-05-26,SHL,Gulf Foods LLC,Domestic,3310396.37,0.0,KES,Outstanding
+INV/SHL/05256,2025-05-12,SHL,Organic Direct Ltd,Domestic,3331106.98,0.0,KES,Paid
+INV/SHL/05257,2025-05-13,SHL,Gulf Foods LLC,Export,3839810.89,29765.98,USD,Paid
+INV/AQL/05258,2025-05-20,AQL,FreshFish Nairobi,Domestic,2674809.46,0.0,KES,Partial
+INV/AQL/05259,2025-05-05,AQL,FreshFish Nairobi,Export,3271516.59,25360.59,USD,Paid
+INV/AQL/05260,2025-05-28,AQL,AquaPro Processors,Export,3063438.84,23747.59,USD,Paid
+INV/GCL/05261,2025-05-12,GCL,ClimateBridge AG,Carbon Credits,1182321.24,0.0,KES,Partial
+INV/GCL/05262,2025-05-02,GCL,CarbonMarket Partners,Carbon Credits,1264874.21,0.0,KES,Paid
+INV/GCL/05263,2025-05-12,GCL,Voluntary Carbon Exchange,Carbon Credits,1196160.66,0.0,KES,Partial
+INV/GCL/05264,2025-05-30,GCL,Green Invest Fund,Carbon Credits,1307545.89,0.0,KES,Paid
+INV/SHL/05265,2025-06-24,SHL,Savanna Domestic Wholesale,Domestic,4453184.32,0.0,KES,Paid
+INV/SHL/05266,2025-06-03,SHL,Gulf Foods LLC,Export,3986177.9,30900.6,USD,Partial
+INV/SHL/05267,2025-06-09,SHL,Organic Direct Ltd,Domestic,3844907.1,0.0,KES,Outstanding
+INV/SHL/05268,2025-06-17,SHL,Organic Direct Ltd,Domestic,4152541.57,0.0,KES,Outstanding
+INV/AQL/05269,2025-06-19,AQL,Export Buyers Ltd,Domestic,1158625.42,0.0,KES,Paid
+INV/AQL/05270,2025-06-25,AQL,Export Buyers Ltd,Domestic,981074.98,0.0,KES,Outstanding
+INV/AQL/05271,2025-06-13,AQL,Hotel Chain East Africa,Domestic,1085399.77,0.0,KES,Paid
+INV/AQL/05272,2025-06-25,AQL,Retail Net KE,Domestic,1087574.21,0.0,KES,Outstanding
+INV/AQL/05273,2025-06-06,AQL,Retail Net KE,Domestic,1113269.97,0.0,KES,Outstanding
+INV/AQL/05274,2025-06-16,AQL,Hotel Chain East Africa,Export,961061.81,7450.09,USD,Paid
+INV/AQL/05275,2025-06-04,AQL,Retail Net KE,Domestic,1108895.6,0.0,KES,Partial
+INV/GCL/05276,2025-06-27,GCL,ClimateBridge AG,Carbon Credits,1581361.64,12258.62,USD,Partial
+INV/GCL/05277,2025-06-10,GCL,ClimateBridge AG,Carbon Credits,1329298.48,0.0,KES,Partial
+INV/GCL/05278,2025-06-10,GCL,Voluntary Carbon Exchange,Carbon Credits,1349294.97,10459.65,USD,Paid
+INV/GCL/05279,2025-06-02,GCL,Green Invest Fund,Carbon Credits,1602914.14,0.0,KES,Paid
+INV/SHL/05280,2025-07-22,SHL,EuroHoney GmbH,Domestic,4040025.8,0.0,KES,Paid
+INV/SHL/05281,2025-07-17,SHL,Organic Direct Ltd,Domestic,4747104.35,0.0,KES,Paid
+INV/SHL/05282,2025-07-14,SHL,Organic Direct Ltd,Export,4366891.75,33851.87,USD,Outstanding
+INV/SHL/05283,2025-07-16,SHL,Gulf Foods LLC,Domestic,4109592.63,0.0,KES,Paid
+INV/AQL/05284,2025-07-22,AQL,Export Buyers Ltd,Domestic,1428741.73,0.0,KES,Outstanding
+INV/AQL/05285,2025-07-22,AQL,FreshFish Nairobi,Domestic,1294777.72,0.0,KES,Paid
+INV/AQL/05286,2025-07-18,AQL,Hotel Chain East Africa,Domestic,1316665.69,0.0,KES,Paid
+INV/AQL/05287,2025-07-07,AQL,AquaPro Processors,Domestic,1267675.4,0.0,KES,Paid
+INV/AQL/05288,2025-07-25,AQL,Export Buyers Ltd,Domestic,1341268.36,0.0,KES,Partial
+INV/GCL/05289,2025-07-15,GCL,Green Invest Fund,Carbon Credits,1029555.22,7981.05,USD,Paid
+INV/GCL/05290,2025-07-10,GCL,ESG Holdings Ltd,Carbon Credits,1090722.72,0.0,KES,Outstanding
+INV/GCL/05291,2025-07-30,GCL,Voluntary Carbon Exchange,Carbon Credits,1246178.03,0.0,KES,Paid
+INV/GCL/05292,2025-07-22,GCL,Green Invest Fund,Carbon Credits,1054986.27,0.0,KES,Outstanding
+INV/GCL/05293,2025-07-16,GCL,ESG Holdings Ltd,Carbon Credits,1162130.82,9008.77,USD,Paid
+INV/GCL/05294,2025-07-22,GCL,CarbonMarket Partners,Carbon Credits,1073011.09,0.0,KES,Paid
+INV/SHL/05295,2025-08-05,SHL,EuroHoney GmbH,Domestic,2473792.17,0.0,KES,Paid
+INV/SHL/05296,2025-08-29,SHL,EuroHoney GmbH,Domestic,2115772.47,0.0,KES,Paid
+INV/SHL/05297,2025-08-01,SHL,EuroHoney GmbH,Domestic,2583186.01,0.0,KES,Paid
+INV/SHL/05298,2025-08-04,SHL,Organic Direct Ltd,Domestic,2295682.74,0.0,KES,Partial
+INV/SHL/05299,2025-08-22,SHL,Organic Direct Ltd,Domestic,2174370.97,0.0,KES,Paid
+INV/SHL/05300,2025-08-20,SHL,EuroHoney GmbH,Domestic,2083805.33,0.0,KES,Paid
+INV/SHL/05301,2025-08-13,SHL,EuroHoney GmbH,Domestic,2137436.55,0.0,KES,Partial
+INV/AQL/05302,2025-08-20,AQL,FreshFish Nairobi,Domestic,1483004.72,0.0,KES,Paid
+INV/AQL/05303,2025-08-25,AQL,FreshFish Nairobi,Domestic,1418260.01,0.0,KES,Paid
+INV/AQL/05304,2025-08-25,AQL,Hotel Chain East Africa,Export,1592503.64,12344.99,USD,Paid
+INV/AQL/05305,2025-08-19,AQL,Export Buyers Ltd,Export,1451517.6,11252.07,USD,Paid
+INV/AQL/05306,2025-08-21,AQL,Export Buyers Ltd,Domestic,1386984.54,0.0,KES,Partial
+INV/GCL/05307,2025-08-05,GCL,CarbonMarket Partners,Carbon Credits,1727232.86,13389.4,USD,Paid
+INV/GCL/05308,2025-08-19,GCL,ClimateBridge AG,Carbon Credits,1763372.57,0.0,KES,Partial
+INV/GCL/05309,2025-08-01,GCL,ESG Holdings Ltd,Carbon Credits,1545751.3,11982.57,USD,Paid
+INV/GCL/05310,2025-08-20,GCL,ClimateBridge AG,Carbon Credits,1545984.07,0.0,KES,Paid
+INV/SHL/05311,2025-09-02,SHL,EuroHoney GmbH,Domestic,1745859.39,0.0,KES,Paid
+INV/SHL/05312,2025-09-25,SHL,NatureMart UK,Domestic,2075732.38,0.0,KES,Outstanding
+INV/SHL/05313,2025-09-03,SHL,Savanna Domestic Wholesale,Export,2041507.85,15825.64,USD,Paid
+INV/SHL/05314,2025-09-02,SHL,Organic Direct Ltd,Domestic,1952325.98,0.0,KES,Paid
+INV/SHL/05315,2025-09-09,SHL,Savanna Domestic Wholesale,Export,2126537.5,16484.79,USD,Partial
+INV/SHL/05316,2025-09-17,SHL,NatureMart UK,Domestic,2108387.36,0.0,KES,Paid
+INV/SHL/05317,2025-09-10,SHL,Savanna Domestic Wholesale,Export,2004524.2,15538.95,USD,Partial
+INV/AQL/05318,2025-09-05,AQL,AquaPro Processors,Export,1636205.61,12683.76,USD,Paid
+INV/AQL/05319,2025-09-16,AQL,AquaPro Processors,Domestic,1397200.84,0.0,KES,Paid
+INV/AQL/05320,2025-09-03,AQL,FreshFish Nairobi,Domestic,1363313.93,0.0,KES,Paid
+INV/AQL/05321,2025-09-26,AQL,AquaPro Processors,Domestic,1420258.99,0.0,KES,Outstanding
+INV/AQL/05322,2025-09-11,AQL,Export Buyers Ltd,Export,1343530.27,10414.96,USD,Outstanding
+INV/AQL/05323,2025-09-24,AQL,Retail Net KE,Export,1514579.3,11740.92,USD,Outstanding
+INV/GCL/05324,2025-09-30,GCL,CarbonMarket Partners,Carbon Credits,1060593.95,0.0,KES,Outstanding
+INV/GCL/05325,2025-09-12,GCL,ClimateBridge AG,Carbon Credits,853864.75,0.0,KES,Paid
+INV/GCL/05326,2025-09-05,GCL,ClimateBridge AG,Carbon Credits,872934.12,6766.93,USD,Outstanding
+INV/GCL/05327,2025-09-15,GCL,CarbonMarket Partners,Carbon Credits,948986.66,0.0,KES,Paid
+INV/GCL/05328,2025-09-12,GCL,ClimateBridge AG,Carbon Credits,1059964.8,8216.78,USD,Outstanding
+INV/GCL/05329,2025-09-04,GCL,Green Invest Fund,Carbon Credits,917642.37,0.0,KES,Paid
+INV/SHL/05330,2025-10-24,SHL,NatureMart UK,Domestic,3756511.33,0.0,KES,Partial
+INV/SHL/05331,2025-10-01,SHL,Organic Direct Ltd,Domestic,3337415.57,0.0,KES,Paid
+INV/SHL/05332,2025-10-28,SHL,Savanna Domestic Wholesale,Domestic,3433508.88,0.0,KES,Partial
+INV/AQL/05333,2025-10-20,AQL,Retail Net KE,Export,2197845.14,17037.56,USD,Outstanding
+INV/AQL/05334,2025-10-24,AQL,FreshFish Nairobi,Domestic,2187684.86,0.0,KES,Paid
+INV/AQL/05335,2025-10-30,AQL,AquaPro Processors,Domestic,1734173.25,0.0,KES,Outstanding
+INV/AQL/05336,2025-10-14,AQL,Hotel Chain East Africa,Export,2181399.74,16910.08,USD,Paid
+INV/AQL/05337,2025-10-08,AQL,Retail Net KE,Export,2033709.13,15765.19,USD,Outstanding
+INV/GCL/05338,2025-10-03,GCL,ESG Holdings Ltd,Carbon Credits,1044768.38,8098.98,USD,Paid
+INV/GCL/05339,2025-10-29,GCL,Green Invest Fund,Carbon Credits,949572.06,0.0,KES,Outstanding
+INV/GCL/05340,2025-10-21,GCL,Voluntary Carbon Exchange,Carbon Credits,963593.32,0.0,KES,Paid
+INV/GCL/05341,2025-10-17,GCL,CarbonMarket Partners,Carbon Credits,957430.25,7421.94,USD,Paid
+INV/GCL/05342,2025-10-15,GCL,Voluntary Carbon Exchange,Carbon Credits,998445.52,0.0,KES,Outstanding
+INV/SHL/05343,2025-11-28,SHL,Gulf Foods LLC,Domestic,1827032.6,0.0,KES,Paid
+INV/SHL/05344,2025-11-11,SHL,Savanna Domestic Wholesale,Export,1774387.32,13754.94,USD,Outstanding
+INV/SHL/05345,2025-11-19,SHL,Savanna Domestic Wholesale,Export,1907806.37,14789.2,USD,Paid
+INV/SHL/05346,2025-11-24,SHL,Savanna Domestic Wholesale,Domestic,2098246.77,0.0,KES,Partial
+INV/SHL/05347,2025-11-13,SHL,NatureMart UK,Export,1856889.66,14394.49,USD,Outstanding
+INV/AQL/05348,2025-11-11,AQL,FreshFish Nairobi,Domestic,1879089.31,0.0,KES,Partial
+INV/AQL/05349,2025-11-26,AQL,AquaPro Processors,Export,2007453.12,15561.65,USD,Paid
+INV/AQL/05350,2025-11-11,AQL,Retail Net KE,Domestic,1628175.25,0.0,KES,Outstanding
+INV/AQL/05351,2025-11-05,AQL,Export Buyers Ltd,Domestic,1878729.81,0.0,KES,Outstanding
+INV/AQL/05352,2025-11-14,AQL,Retail Net KE,Export,1779646.09,13795.71,USD,Paid
+INV/GCL/05353,2025-11-19,GCL,CarbonMarket Partners,Carbon Credits,835855.98,0.0,KES,Paid
+INV/GCL/05354,2025-11-24,GCL,ESG Holdings Ltd,Carbon Credits,708492.25,0.0,KES,Partial
+INV/GCL/05355,2025-11-20,GCL,ESG Holdings Ltd,Carbon Credits,803504.82,0.0,KES,Partial
+INV/GCL/05356,2025-11-18,GCL,ClimateBridge AG,Carbon Credits,830321.41,0.0,KES,Partial
+INV/GCL/05357,2025-11-05,GCL,Voluntary Carbon Exchange,Carbon Credits,849951.29,0.0,KES,Paid
+INV/SHL/05358,2025-12-26,SHL,Savanna Domestic Wholesale,Export,4241166.83,32877.26,USD,Paid
+INV/SHL/05359,2025-12-30,SHL,Organic Direct Ltd,Domestic,4059745.39,0.0,KES,Outstanding
+INV/SHL/05360,2025-12-18,SHL,Savanna Domestic Wholesale,Domestic,4177401.06,0.0,KES,Paid
+INV/SHL/05361,2025-12-10,SHL,EuroHoney GmbH,Export,4422182.36,34280.48,USD,Partial
+INV/AQL/05362,2025-12-25,AQL,AquaPro Processors,Domestic,1191280.0,0.0,KES,Paid
+INV/AQL/05363,2025-12-19,AQL,Retail Net KE,Domestic,1039400.25,0.0,KES,Partial
+INV/AQL/05364,2025-12-01,AQL,AquaPro Processors,Export,1292586.72,10020.05,USD,Outstanding
+INV/AQL/05365,2025-12-03,AQL,FreshFish Nairobi,Export,1224712.66,9493.9,USD,Paid
+INV/AQL/05366,2025-12-15,AQL,Hotel Chain East Africa,Export,1221054.05,9465.54,USD,Outstanding
+INV/AQL/05367,2025-12-16,AQL,Hotel Chain East Africa,Domestic,1091492.67,0.0,KES,Outstanding
+INV/AQL/05368,2025-12-31,AQL,FreshFish Nairobi,Domestic,1216098.09,0.0,KES,Outstanding
+INV/GCL/05369,2025-12-31,GCL,ClimateBridge AG,Carbon Credits,748437.09,5801.84,USD,Paid
+INV/GCL/05370,2025-12-29,GCL,ClimateBridge AG,Carbon Credits,795875.26,0.0,KES,Paid
+INV/GCL/05371,2025-12-10,GCL,CarbonMarket Partners,Carbon Credits,695487.23,0.0,KES,Partial
+INV/GCL/05372,2025-12-15,GCL,CarbonMarket Partners,Carbon Credits,797094.05,0.0,KES,Partial
+INV/GCL/05373,2025-12-10,GCL,ESG Holdings Ltd,Carbon Credits,860051.94,0.0,KES,Outstanding
