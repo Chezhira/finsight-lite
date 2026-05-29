@@ -74,7 +74,7 @@ The P&L mart uses `operating_profit_proxy` as the profit measure. Depreciation i
 
 ## Demo Workflow
 
-```bash
+```powershell
 make all
 streamlit run app/streamlit_app.py
 ```
@@ -89,7 +89,7 @@ streamlit run app/streamlit_app.py
 
 Direct verification commands:
 
-```bash
+```powershell
 cd dbt_finance
 dbt run --profiles-dir .
 dbt test --profiles-dir .
@@ -152,7 +152,7 @@ tests/                Basic pytest coverage
 
 ## How to Run Locally
 
-```bash
+```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -162,7 +162,7 @@ streamlit run app/streamlit_app.py
 
 If `make` is not available on Windows, run:
 
-```bash
+```powershell
 python -c "import sys; sys.path.insert(0, 'src'); from finsight.validate import main; main()"
 python -c "import sys; sys.path.insert(0, 'src'); from finsight.load_duckdb import main; main()"
 cd dbt_finance
@@ -175,12 +175,13 @@ streamlit run app/streamlit_app.py
 
 ## Tests and Verification
 
-```bash
+```powershell
 cd dbt_finance
 dbt run --profiles-dir .
 dbt test --profiles-dir .
 cd ..
 pytest
+ruff check app src tests
 ```
 
 Expected core outputs:
@@ -205,7 +206,7 @@ FinSight Lite demonstrates the following practical finance AI and analytics capa
 
 ## Project Summary
 
-Built FinSight Lite, an AI finance intelligence dashboard that processes realistic multi-entity finance exports into DuckDB/dbt finance marts, validates data quality, flags anomalies, and generates CFO-style commentary from controlled outputs. The MVP processed 966 GL rows, produced 72 monthly P&L rows, surfaced 6 data quality exceptions and 30 anomalies, with passing dbt and pytest checks.
+Built FinSight Lite, an AI finance intelligence dashboard that transforms realistic multi-entity finance exports into DuckDB/dbt finance marts, validates data quality, detects transaction-level and KPI-level finance anomalies, and generates CFO-style commentary from controlled outputs. The MVP processed 966 GL rows, produced 72 monthly P&L rows, surfaced 6 data-quality exceptions and 30 finance anomalies, with passing dbt, pytest, and linting checks.
 
 ## Limitations
 
